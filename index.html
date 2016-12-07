@@ -1,7 +1,117 @@
 <!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Twitter Movie Sentiment Tracker by 0JAdams</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">Twitter Movie Sentiment Tracker</h1>
+      <h2 class="project-tagline">Predict Week to Week Movie Performance Using Sentiment Analysis and Decision Trees</h2>
+      <a href="https://github.com/0JAdams/TwitterMovieTracker" class="btn">View on GitHub</a>
+      <a href="https://github.com/0JAdams/TwitterMovieTracker/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/0JAdams/TwitterMovieTracker/tarball/master" class="btn">Download .tar.gz</a>
+    </section>
+
+    <section class="main-content">
+      <h2>
+<a id="can-twitter-data-tell-us-how-a-movie-will-perform-next-week" class="anchor" href="#can-twitter-data-tell-us-how-a-movie-will-perform-next-week" aria-hidden="true"><span class="octicon octicon-link"></span></a>Can Twitter Data Tell Us How A Movie Will Perform Next Week?</h2>
+
+<p>All day every day people are shouting to the world about every aspect of their life.  They share on Twitter what they had for breakfast, what they just bought at the mall, how much they hate Mondays, and what their weekend plans are.  If we gather all of this publicly shared information, can we predict how many people are going to go see a given movie next week?</p>
+
+<p>By streaming tweets relevant to a movie of our choice straight from twitter we can get an idea for how many people are talking about the movie and what they're saying.  By monitoring total twitter engagement and the overall sentiment about the movie we can predict movie performance as the following graph shows.</p>
+
+<p><img src="https://raw.githubusercontent.com/0JAdams/TwitterMovieTracker/gh-pages/images/animated_prediction5.gif" alt="Predict Future Week Box Office"></p>
+
+<h2>
+<a id="why-would-we-want-to-predict-next-weeks-movie-performance" class="anchor" href="#why-would-we-want-to-predict-next-weeks-movie-performance" aria-hidden="true"><span class="octicon octicon-link"></span></a>Why Would We Want To Predict Next Week's Movie Performance?</h2>
+
+<p>When a studio releases a movie, they don't just put it out there and hope people happen to go see it.  They are actively engaged trying to convince the public to go show a movie through various forms of marketing.  By tracking twitter engagement and predicting how well a movie will fare over the coming week gives insight into how well people are being reached and how effective current marketing campaigns are.  This insight could help marketing teams to modify their campaigns to target a different demographic, reach people through a different form of media, etc.  Most importantly, trying to predict the future is a really cool use of computer science.</p>
+
+<h2>
+<a id="exactly-what-kind-of-information-is-tracked" class="anchor" href="#exactly-what-kind-of-information-is-tracked" aria-hidden="true"><span class="octicon octicon-link"></span></a>Exactly What Kind of Information Is Tracked?</h2>
+
+<p>There are just two items tracked, tweets about a given movie, and how well that movie has been doing in the box office.  There is, however, a lot of meaningful information that we can gather from just that data.  First off, we can see how many people are talking about movie X in comparison to movie Y.  We can also see how frequently people are talking positively about a movie versus negatively about it and also compare that to other movies.  We refer to this as the sentiment.  The difference between how many tweets are positive and how many are negative tells us the majority sentiment, which we refer to as the net sentiment. One of the most important factors we can gather is how do these things change from week to week.  We can understand if people are still talking a lot about a movie after week 3 or 4, or if people really aren't talking about it as much anymore.</p>
+
+<p>Here are some visualizations of that twitter and box office data being tracked for some recent movies:</p>
+
+<p><img src="https://raw.githubusercontent.com/0JAdams/TwitterMovieTracker/gh-pages/images/Spectre_figure.png" alt="Spectre Movie Stats"></p>
+
+<p><img src="https://raw.githubusercontent.com/0JAdams/TwitterMovieTracker/gh-pages/images/The%20Hunger%20Games%20Mockingjay%20%20Part%202_figure.png" alt="Hunger Games Movie Stats"></p>
+
+<p><img src="https://raw.githubusercontent.com/0JAdams/TwitterMovieTracker/gh-pages/images/The%20Last%20Witch%20Hunter_figure.png" alt="The Last Witch Hunter Movie Stats"></p>
+
+<p><img src="https://raw.githubusercontent.com/0JAdams/TwitterMovieTracker/gh-pages/images/The%20Martian_figure.png" alt="Martian Movie Stats"></p>
+
+<p><img src="https://raw.githubusercontent.com/0JAdams/TwitterMovieTracker/gh-pages/images/Star%20Wars%20Episode%20VII_figure.png" alt="Star Wars 7 Stats"></p>
+
+<h2>
+<a id="how-is-the-data-gathered-and-analyzed" class="anchor" href="#how-is-the-data-gathered-and-analyzed" aria-hidden="true"><span class="octicon octicon-link"></span></a>How Is The Data Gathered And Analyzed?</h2>
+
+<p>The first step is to gather the data from Twitter.  By giving Twitter a list of keywords we can receive a live stream of all tweets that match those keywords.  Before our system can analyze the tweet, it needs to be modified so that we can focus in on the most important features of the tweet.  The words are stemmed, punctuation is removed, and we only keep adverbs, adjectives, and verbs because they have been most valuable in determining sentiment.</p>
+
+<p>This is demonstrated here:
+<img src="https://raw.githubusercontent.com/0JAdams/TwitterMovieTracker/gh-pages/images/preprocessanim7.gif" alt="Preprocess Tweet"></p>
+
+<p>Now that the tweet is ready, it is passed on to a series of machine learning classification algorithms that will each analyze and tell us whether it believes that tweet is speaking positively or negatively. Due to the complexity of spoken languages, especially with words having multiple meanings, these classifiers are not perfectly accurate. In order to improve our results, we use several of them, and each one votes on what it thinks the correct answer is.  We then take whichever answer is most popular as the correct answer. That result is then stored for later use.</p>
+
+<p>A flow chart of this process can be seen here:
+<img src="https://raw.githubusercontent.com/0JAdams/TwitterMovieTracker/gh-pages/images/sentiment-analysis-flow-chart.png" alt="Sentiment Analysis Flow Chart"></p>
+
+<p>Gathering the other part of the data, the box office numbers, is much simpler. Thanks to sites like Box Office Mojo, the box office numbers are readily available.  All we need to do is point our program at a webpage for each movie and read the box office data and store it.</p>
+
+<h2>
+<a id="how-are-predictions-made" class="anchor" href="#how-are-predictions-made" aria-hidden="true"><span class="octicon octicon-link"></span></a>How Are Predictions Made?</h2>
+
+<p>Because box office numbers tend to follow a weekly trend of being low at the beginning of the week and high on the weekends, we group all of our data into weeks to reduce the affect that has on our tests.  Then for each week we calculate key features. The features we currently gather are:  whether the total twitter engagement went up or down since last week, the percentage difference of engagement between the two weeks, the overall sentiment this week (positive, negative, or neutral), and how much did the sentiment change from last week to this week.</p>
+
+<p>Those features for each week are passed through a classifier called a decision tree. The decision tree was built on the features of past weeks that we had gathered.  The tree picks out patterns in the features and uses that to make a prediction.  In this case our prediction comes in the form of the percentage change we should see from this week's box office numbers to the next week's numbers.  Decision trees are limited on the number of results they can return, so in this case the percentage is a value rounded to the nearest 10%.</p>
+
+<p>Here is another look at the predictions shown above. This is for a movie that the tree has never seen before and most weeks it is within 0-10% of the correct change.  The data starts at week 5 because the movie had already been out for several weeks before we started gathering our Twitter data.</p>
+
+<p><img src="https://raw.githubusercontent.com/0JAdams/TwitterMovieTracker/gh-pages/images/The%20Martian_weeklyfigure9.png" alt="Martian box office predictions"></p>
+
+<h2>
+<a id="limitations-and-potential-future-work" class="anchor" href="#limitations-and-potential-future-work" aria-hidden="true"><span class="octicon octicon-link"></span></a>Limitations And Potential Future Work</h2>
+
+<p>The amount of data that was able to be collected before building the decision tree was fairly small.  This is mostly due to the rate at which movies come out and the short time period (~6 weeks) that the data was able to be collected.  Another challenge for this was the limitation Twitter has on how many tweets you can receive on a stream in a given period.  If too many keywords are requested (to allow you to track more movies), too many tweets will match your search terms at a given moment and Twitter will just return a notification that the count was too high.  There may be ways to get around this limitation and to allow us to track a higher number of movies at once.</p>
+
+<p>This low amount of data made for a predictor that is semi-accurate for movies that follow the usual downward trend.  For movies that don't fall very fast, or that actually increase week over week, the predictor won't have ever seen anything like that and will not be able to predict that.</p>
+
+<p>Many movies have titles that are just words used in common speech.  The current system has no effective way of determining if a tweet relates to the movie, or to something else involving that word.  This leaves some movies unable to be followed or predicted with the current system.</p>
+
+<p>Another area that could be improved on is the sentiment analysis.  When dealing with tweets, there is often very little data to work with to make a prediction.  The classifiers used in this project did fairly well and I was able to get them all to ~80% accuracy. If this can be further improved it will greatly help in having more accurate sentiment results.</p>
+
+<h2>
+<a id="libraries-and-resources-used" class="anchor" href="#libraries-and-resources-used" aria-hidden="true"><span class="octicon octicon-link"></span></a>Libraries And Resources Used</h2>
+
+<ul>
+<li>This project was written in <a href="https://www.python.org/">Python</a>
+</li>
+<li>Python <a href="http://www.nltk.org/">Natural Language Toolkit</a>
+</li>
+<li>
+<a href="http://scikit-learn.org/stable/index.html">scikit-learn</a> machine learning toolkit for Python</li>
+<li>
+<a href="http://www.tweepy.org/">Tweepy</a> Twitter API library for Python</li>
+<li>
+<a href="http://www.crummy.com/software/BeautifulSoup/">Beautiful Soup</a> HTML parser</li>
+<li><a href="https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/">Python Programming Tutorials for NLTK</a></li>
+</ul>
+
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/0JAdams/TwitterMovieTracker">Twitter Movie Sentiment Tracker</a> is maintained by <a href="https://github.com/0JAdams">0JAdams</a>.</span>
+
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+      </footer>
+
+    </section>
+
+  
+  </body>
 </html>
