@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Last Epoch Crafting Simulator</title>
+    <link rel="stylesheet" href="../src/styles/main.css">
+    <style>
+      /* small local styles for tier selects */
+      .affix-slot { display:flex; gap:8px; align-items:center; margin-top:6px; }
+      .tier-select { min-width:160px; }
+      .tier-range { font-size:12px; color:#9da6ad; margin-left:6px; }
+      .exalted { color:#b18fe8; font-weight:600; }
+    </style>
+</head>
+<body>
+    <main class="le-ui">
+    <h1>LECrafter — Start Crafting</h1>
+
+    <section class="panel">
+      <label for="baseTypeSelect">Pick base type</label>
+      <select id="baseTypeSelect">
+        <option value="">Loading...</option>
+      </select>
+    </section>
+
+    <section class="panel">
+      <label for="itemSelect">Pick item</label>
+      <select id="itemSelect" disabled>
+        <option value="">Select base type first</option>
+      </select>
+    </section>
+
+    <section id="itemDetails" class="panel details hidden">
+      <h2 id="detailsName"></h2>
+      <ul id="detailsList"></ul>
+
+      <div id="affixControls" class="panel">
+        <h3>Options</h3>
+
+        <label for="forgingPotential">Forging Potential</label>
+        <input id="forgingPotential" type="number" min="0" max="56" value="0" />
+
+        <div class="affix-row">
+          <div>
+            <label>Prefixes</label>
+            <div class="affix-slot">
+              <select id="prefix1"><option value="">N/A</option></select>
+              <select id="prefix1Tier" class="tier-select" disabled><option value="">Tier</option></select>
+              <input id="prefix1Range" type="number" step="any" disabled placeholder="Tier Value" class="tier-range">
+            </div>
+            <div class="affix-slot">
+              <select id="prefix2"><option value="">N/A</option></select>
+              <select id="prefix2Tier" class="tier-select" disabled><option value="">Tier</option></select>
+              <input id="prefix2Range" type="number" step="any" disabled placeholder="Tier Value" class="tier-range">
+            </div>
+          </div>
+
+          <div>
+            <label>Suffixes</label>
+            <div class="affix-slot">
+              <select id="suffix1"><option value="">N/A</option></select>
+              <select id="suffix1Tier" class="tier-select" disabled><option value="">Tier</option></select>
+              <input id="suffix1Range" type="number" step="any" disabled placeholder="Tier Value" class="tier-range">
+            </div>
+            <div class="affix-slot">
+              <select id="suffix2"><option value="">N/A</option></select>
+              <select id="suffix2Tier" class="tier-select" disabled><option value="">Tier</option></select>
+              <input id="suffix2Range" type="number" step="any" disabled placeholder="Tier Value" class="tier-range">
+            </div>
+          </div>
+        </div>
+
+        <label for="sealedAffix">Sealed Affix</label>
+        <div class="affix-slot">
+          <select id="sealedAffix"><option value="">N/A</option></select>
+          <select id="sealedTier" class="tier-select" disabled><option value="">Tier</option></select>
+          <input id="sealedRange" type="number" step="any" disabled placeholder="Tier Value" class="tier-range">
+        </div>
+
+        <div style="margin-top:10px">
+          <button id="saveItem">Save Item (local)</button>
+          <button id="resetBtn">Reset</button>
+        </div>
+
+        <div id="affixMessage" style="color:#e07; margin-top:8px;"></div>
+      </div>
+    </section>
+  </main>
+
+  <script src="../src/data/items.js" defer></script>
+  <script src="../src/data/affixes.js" defer></script>
+  <script src="../src/scripts/ui.js" defer></script>
+</body>
+</html>

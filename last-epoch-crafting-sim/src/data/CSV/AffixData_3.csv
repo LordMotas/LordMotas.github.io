@@ -1,0 +1,674 @@
+AffixName|AffixID|Type1|Property1|T1|T2|T3|T4|T5|T6|T7|Type2|Property2|MT1|MT2|MT3|MT4|MT5|MT6|MT7
+Added Armor|31|ADDED|Armour|6-20|21-35|36-55|56-80|81-110|140-180|181-240|x|x|x|x|x|x|x|x|x
+Health Gained on Block|41|ADDED|HealthGain|3-3|4-4|5-6|7-8|9-12|15-19|20-25|x|x|x|x|x|x|x|x|x
+Added Block Chance|3|ADDED|BlockChance|0.02-0.03|0.04-0.05|0.06-0.07|0.08-0.09|0.1-0.12|0.15-0.18|0.19-0.24|x|x|x|x|x|x|x|x|x
+Added Block Effectiveness|81|ADDED|BlockEffectiveness|40-80|81-150|151-240|241-350|351-500|700-950|951-1300|x|x|x|x|x|x|x|x|x
+Cold Resistance|17|ADDED|ColdResistance|0.05-0.09|0.1-0.14|0.15-0.21|0.22-0.29|0.3-0.45|0.5-0.6|0.61-0.75|x|x|x|x|x|x|x|x|x
+Added Critical Strike Multiplier|6|ADDED|CriticalMultiplier|0.07-0.09|0.1-0.12|0.13-0.16|0.17-0.2|0.21-0.25|0.32-0.4|0.41-0.5|x|x|x|x|x|x|x|x|x
+Added Dodge Rating|8|ADDED|DodgeRating|15-25|26-36|37-48|49-60|61-80|100-125|126-160|x|x|x|x|x|x|x|x|x
+Elemental Resistance|80|ADDED|ElementalResistance|0.04-0.05|0.06-0.08|0.09-0.11|0.12-0.15|0.16-0.2|0.24-0.3|0.31-0.4|x|x|x|x|x|x|x|x|x
+Fire Resistance|13|ADDED|FireResistance|0.05-0.09|0.1-0.14|0.15-0.21|0.22-0.29|0.3-0.45|0.5-0.6|0.61-0.75|x|x|x|x|x|x|x|x|x
+Added Health|25|ADDED|Health|5-15|16-25|26-40|41-55|56-75|95-115|116-150|x|x|x|x|x|x|x|x|x
+Lightning Resistance|24|ADDED|LightningResistance|0.05-0.09|0.1-0.14|0.15-0.21|0.22-0.29|0.3-0.45|0.5-0.6|0.61-0.75|x|x|x|x|x|x|x|x|x
+Added Mana|34|ADDED|Mana|6-10|11-17|18-25|26-35|36-50|65-80|81-100|x|x|x|x|x|x|x|x|x
+Added Melee Cold Damage|78|ADDED|Damage|3-6|7-10|11-15|16-20|21-26|36-44|45-55|x|x|x|x|x|x|x|x|x
+Added Melee Crit Chance|62|ADDED|CriticalChance|0.01-0.01|0.02-0.02|0.03-0.03|0.04-0.04|0.05-0.05|0.07-0.08|0.09-0.1|x|x|x|x|x|x|x|x|x
+Added Melee Fire Damage|77|ADDED|Damage|3-6|7-10|11-15|16-20|21-26|36-44|45-55|x|x|x|x|x|x|x|x|x
+Added Melee Lightning Damage|79|ADDED|Damage|3-6|7-10|11-15|16-20|21-26|36-44|45-55|x|x|x|x|x|x|x|x|x
+Added Melee Physical Damage|63|ADDED|Damage|3-6|7-10|11-15|16-20|21-26|36-44|45-55|x|x|x|x|x|x|x|x|x
+Added Melee Void Damage|76|ADDED|Damage|3-6|7-10|11-15|16-20|21-26|36-44|45-55|x|x|x|x|x|x|x|x|x
+Necrotic Resistance|10|ADDED|NecroticResistance|0.05-0.09|0.1-0.14|0.15-0.21|0.22-0.29|0.3-0.45|0.5-0.6|0.61-0.75|x|x|x|x|x|x|x|x|x
+Poison Resistance|19|ADDED|PoisonResistance|0.05-0.09|0.1-0.14|0.15-0.21|0.22-0.29|0.3-0.45|0.5-0.6|0.61-0.75|x|x|x|x|x|x|x|x|x
+Added Stun Avoidance|51|ADDED|StunAvoidance|21-50|51-100|101-170|171-250|251-350|450-550|551-750|x|x|x|x|x|x|x|x|x
+Void Resistance|7|ADDED|VoidResistance|0.05-0.09|0.1-0.14|0.15-0.21|0.22-0.29|0.3-0.45|0.5-0.6|0.61-0.75|x|x|x|x|x|x|x|x|x
+All Attributes|50|ADDED|AllAttributes|1-1|2-2|3-3|4-4|5-5|7-8|9-10|x|x|x|x|x|x|x|x|x
+Attunement|504|ADDED|Attunement|1-1|2-2|3-4|5-6|7-8|10-12|13-16|x|x|x|x|x|x|x|x|x
+Added Spell Damage For Swords|49|ADDED|Damage|3-5|6-8|9-11|12-14|15-24|30-38|39-48|x|x|x|x|x|x|x|x|x
+Chance To Bleed|68|ADDED|AilmentChance|0.1-0.12|0.13-0.16|0.17-0.2|0.2-0.23|0.24-0.3|0.38-0.46|0.47-0.6|x|x|x|x|x|x|x|x|x
+Chance To Blind|60|ADDED|AilmentChance|0.1-0.12|0.13-0.16|0.17-0.2|0.2-0.23|0.24-0.3|0.38-0.46|0.47-0.6|x|x|x|x|x|x|x|x|x
+Chance To Chill|56|ADDED|AilmentChance|0.1-0.12|0.13-0.16|0.17-0.2|0.2-0.23|0.24-0.3|0.38-0.46|0.47-0.6|x|x|x|x|x|x|x|x|x
+Chance To Chill Attackers|47|ADDED|ChillRetaliationChance|0.21-0.3|0.31-0.4|0.41-0.55|0.56-0.75|0.76-1|1.3-1.7|1.71-2.2|x|x|x|x|x|x|x|x|x
+Chance To Ignite|55|ADDED|AilmentChance|0.1-0.12|0.13-0.16|0.17-0.2|0.2-0.23|0.24-0.3|0.38-0.46|0.47-0.6|x|x|x|x|x|x|x|x|x
+Chance To Poison|54|ADDED|AilmentChance|0.1-0.12|0.13-0.16|0.17-0.2|0.2-0.23|0.24-0.3|0.38-0.46|0.47-0.6|x|x|x|x|x|x|x|x|x
+Chance To Shock|85|ADDED|AilmentChance|0.1-0.12|0.13-0.16|0.17-0.2|0.2-0.23|0.24-0.3|0.38-0.46|0.47-0.6|x|x|x|x|x|x|x|x|x
+Chance To Shock Attackers|94|ADDED|ShockRetaliationChance|0.21-0.3|0.31-0.4|0.41-0.55|0.56-0.75|0.76-1|1.3-1.7|1.71-2.2|x|x|x|x|x|x|x|x|x
+Chance To Slow|57|ADDED|AilmentChance|0.1-0.12|0.13-0.16|0.17-0.2|0.2-0.23|0.24-0.3|0.38-0.46|0.47-0.6|x|x|x|x|x|x|x|x|x
+Chance To Slow Attackers|48|ADDED|SlowRetaliationChance|0.21-0.3|0.31-0.4|0.41-0.55|0.56-0.75|0.76-1|1.3-1.7|1.71-2.2|x|x|x|x|x|x|x|x|x
+Critical Strike Avoidance|97|ADDED|CritAvoidance|0.05-0.09|0.1-0.14|0.15-0.19|0.2-0.24|0.25-0.37|0.46-0.6|0.61-0.75|x|x|x|x|x|x|x|x|x
+Damage Dealt To Mana|53|ADDED|ManaBeforeHealthPercent|0.04-0.04|0.05-0.05|0.06-0.06|0.07-0.07|0.08-0.1|0.12-0.15|0.16-0.2|x|x|x|x|x|x|x|x|x
+Dexterity|503|ADDED|Dexterity|1-1|2-2|3-4|5-6|7-8|10-12|13-16|x|x|x|x|x|x|x|x|x
+Freeze Rate Multiplier|11|ADDED|FreezeRateMultiplier|0.2-0.35|0.36-0.6|0.61-0.9|0.91-1.3|1.31-1.8|2.3-3|3.01-4|x|x|x|x|x|x|x|x|x
+Health On Kill|20|ADDED|HealthGain|2-2|3-4|5-6|7-8|9-12|18-26|27-36|x|x|x|x|x|x|x|x|x
+Health On Melee Hit|44|ADDED|HealthGain|2-3|4-6|7-9|10-12|13-16|21-29|30-40|x|x|x|x|x|x|x|x|x
+Health Regen|90|ADDED|HealthRegen|2-3|4-5|6-7|8-10|11-14|18-23|24-30|x|x|x|x|x|x|x|x|x
+Increased Armour|1|INCREASED|Armour|0.1-0.12|0.13-0.16|0.17-0.21|0.22-0.26|0.27-0.32|0.4-0.48|0.49-0.6|x|x|x|x|x|x|x|x|x
+All Resistances|46|ADDED|AllResistances|0.05-0.05|0.06-0.06|0.07-0.08|0.09-0.1|0.11-0.14|0.18-0.23|0.24-0.3|x|x|x|x|x|x|x|x|x
+Increased Cast Speed|4|INCREASED|CastSpeed|0.04-0.05|0.06-0.07|0.08-0.09|0.1-0.11|0.12-0.15|0.18-0.23|0.24-0.3|x|x|x|x|x|x|x|x|x
+Increased Chance To Find Potions|65|ADDED|IncreasedPotionDropRate|0.12-0.22|0.23-0.31|0.32-0.4|0.41-0.49|0.5-0.6|0.75-0.99|1-1.2|x|x|x|x|x|x|x|x|x
+Increased Cold Damage|16|INCREASED|Damage|0.06-0.12|0.13-0.21|0.22-0.3|0.31-0.39|0.4-0.6|0.75-0.95|0.96-1.2|x|x|x|x|x|x|x|x|x
+Increased Cooldown Recovery Speed|27|ADDED|IncreasedCooldownRecoverySpeed|0.05-0.06|0.07-0.09|0.1-0.12|0.13-0.15|0.16-0.2|0.24-0.27|0.28-0.32|x|x|x|x|x|x|x|x|x
+Increased Critical Strike Chance|5|INCREASED|CriticalChance|0.15-0.2|0.21-0.25|0.26-0.3|0.31-0.35|0.36-0.5|0.6-0.75|0.76-1|x|x|x|x|x|x|x|x|x
+Increased Damage Over Time|72|INCREASED|Damage|0.06-0.12|0.13-0.21|0.22-0.3|0.31-0.39|0.4-0.6|0.75-0.95|0.96-1.2|x|x|x|x|x|x|x|x|x
+Increased Dodge Rating|59|INCREASED|DodgeRating|0.1-0.14|0.15-0.19|0.2-0.24|0.25-0.29|0.3-0.38|0.48-0.6|0.61-0.75|x|x|x|x|x|x|x|x|x
+Increased Elemental Damage|9|INCREASED|Damage|0.05-0.09|0.1-0.16|0.17-0.24|0.25-0.32|0.33-0.45|0.55-0.7|0.71-0.9|x|x|x|x|x|x|x|x|x
+Increased Fire Damage|12|INCREASED|Damage|0.06-0.12|0.13-0.21|0.22-0.3|0.31-0.39|0.4-0.6|0.75-0.95|0.96-1.2|x|x|x|x|x|x|x|x|x
+Increased Healing Effectiveness|43|ADDED|IncreasedHealing|0.1-0.2|0.2-0.35|0.36-0.5|0.51-0.65|0.66-0.83|1.05-1.3|1.31-1.7|x|x|x|x|x|x|x|x|x
+Increased Health|52|INCREASED|Health|0.03-0.03|0.04-0.05|0.06-0.07|0.08-0.09|0.1-0.12|0.15-0.19|0.2-0.24|x|x|x|x|x|x|x|x|x
+Increased Health Regen|22|INCREASED|HealthRegen|0.05-0.15|0.16-0.25|0.26-0.35|0.36-0.45|0.46-0.7|0.9-1.1|1.11-1.4|x|x|x|x|x|x|x|x|x
+Increased Lightning Damage|23|INCREASED|Damage|0.06-0.12|0.13-0.21|0.22-0.3|0.31-0.39|0.4-0.6|0.75-0.95|0.96-1.2|x|x|x|x|x|x|x|x|x
+Increased Mana Regen|330|INCREASED|ManaRegen|0.1-0.14|0.15-0.19|0.2-0.24|0.25-0.29|0.3-0.35|0.4-0.45|0.46-0.55|x|x|x|x|x|x|x|x|x
+Increased Melee Attack Speed|2|INCREASED|AttackSpeed|0.04-0.05|0.06-0.07|0.08-0.09|0.1-0.11|0.12-0.15|0.18-0.23|0.24-0.3|x|x|x|x|x|x|x|x|x
+Increased Melee Damage|89|INCREASED|Damage|0.06-0.12|0.13-0.21|0.22-0.3|0.31-0.39|0.4-0.6|0.75-0.95|0.96-1.2|x|x|x|x|x|x|x|x|x
+Increased Melee Stun Chance|91|ADDED|IncreasedStunChance|0.4-0.55|0.56-0.75|0.76-0.95|0.96-1.15|1.16-1.4|1.8-2.2|2.21-2.8|x|x|x|x|x|x|x|x|x
+Increased Minion Damage|26|INCREASED|Damage|0.06-0.12|0.13-0.21|0.22-0.3|0.31-0.39|0.4-0.6|0.75-0.95|0.96-1.2|x|x|x|x|x|x|x|x|x
+Increased Minion Physical Damage|64|INCREASED|Damage|0.1-0.2|0.21-0.3|0.31-0.4|0.41-0.5|0.51-0.7|0.9-1.1|1.11-1.4|x|x|x|x|x|x|x|x|x
+Increased Movement Speed|28|INCREASED|Movespeed|0.05-0.07|0.08-0.09|0.1-0.11|0.12-0.14|0.15-0.18|0.22-0.25|0.26-0.3|x|x|x|x|x|x|x|x|x
+Increased Necrotic Damage|18|INCREASED|Damage|0.06-0.12|0.13-0.21|0.22-0.3|0.31-0.39|0.4-0.6|0.75-0.95|0.96-1.2|x|x|x|x|x|x|x|x|x
+Necrotic Penetration|93|ADDED|Penetration|0.04-0.04|0.05-0.05|0.06-0.06|0.07-0.07|0.08-0.09|0.11-0.12|0.13-0.15|x|x|x|x|x|x|x|x|x
+Increased Physical Damage|30|INCREASED|Damage|0.06-0.12|0.13-0.21|0.22-0.3|0.31-0.39|0.4-0.6|0.75-0.95|0.96-1.2|x|x|x|x|x|x|x|x|x
+Increased Poison Damage|61|INCREASED|Damage|0.06-0.12|0.13-0.21|0.22-0.3|0.31-0.39|0.4-0.6|0.75-0.95|0.96-1.2|x|x|x|x|x|x|x|x|x
+Poison Penetration|37|ADDED|Penetration|0.04-0.04|0.05-0.05|0.06-0.06|0.07-0.07|0.08-0.09|0.11-0.12|0.13-0.15|x|x|x|x|x|x|x|x|x
+Armour Shred Chance|86|ADDED|AilmentChance|0.2-0.3|0.31-0.4|0.41-0.55|0.56-0.7|0.71-1|1.25-1.5|1.51-2|x|x|x|x|x|x|x|x|x
+Increased Spell Crit Chance|84|INCREASED|CriticalChance|0.2-0.25|0.26-0.34|0.35-0.43|0.44-0.54|0.55-0.75|0.95-1.15|1.16-1.5|x|x|x|x|x|x|x|x|x
+Increased Spell Damage|38|INCREASED|Damage|0.06-0.12|0.13-0.21|0.22-0.3|0.31-0.39|0.4-0.6|0.75-0.95|0.96-1.2|x|x|x|x|x|x|x|x|x
+Increased Stun Chance|58|ADDED|IncreasedStunChance|0.15-0.25|0.26-0.35|0.36-0.45|0.46-0.6|0.61-0.8|1-1.3|1.31-1.7|x|x|x|x|x|x|x|x|x
+Added Throwing Damage|88|ADDED|Damage|2-4|5-7|8-10|11-14|15-20|25-30|31-37|x|x|x|x|x|x|x|x|x
+Increased Throwing Attack Speed|87|INCREASED|AttackSpeed|0.05-0.07|0.08-0.1|0.11-0.14|0.15-0.18|0.19-0.23|0.26-0.3|0.31-0.36|x|x|x|x|x|x|x|x|x
+Increased Void Damage|15|INCREASED|Damage|0.06-0.12|0.13-0.21|0.22-0.3|0.31-0.39|0.4-0.6|0.75-0.95|0.96-1.2|x|x|x|x|x|x|x|x|x
+Void Penetration|0|ADDED|Penetration|0.04-0.04|0.05-0.05|0.06-0.06|0.07-0.07|0.08-0.09|0.11-0.12|0.13-0.15|x|x|x|x|x|x|x|x|x
+Intelligence|502|ADDED|Intelligence|1-1|2-2|3-4|5-6|7-8|10-12|13-16|x|x|x|x|x|x|x|x|x
+Primalist Added Spell Damage With Tempest Strike|21|ADDED|AbilityProperty|20-23|24-28|29-34|35-40|41-50|65-80|81-100|x|x|x|x|x|x|x|x|x
+Melee Health Leech|69|ADDED|HealthLeech|0.23-0.29|0.3-0.36|0.37-0.43|0.44-0.5|0.51-0.63|0.75-0.95|0.96-1.25|x|x|x|x|x|x|x|x|x
+Minion Dodge Rating|71|ADDED|DodgeRating|35-65|66-100|101-160|161-250|251-400|500-650|651-1000|x|x|x|x|x|x|x|x|x
+Minion Health|70|INCREASED|Health|0.15-0.35|0.36-0.55|0.56-0.75|0.76-1|1.01-1.5|1.9-2.3|2.31-3|x|x|x|x|x|x|x|x|x
+Minion Health Regen|73|ADDED|HealthRegen|6-10|11-20|21-35|36-60|61-90|120-150|151-200|x|x|x|x|x|x|x|x|x
+Percent Damage Reflected|96|ADDED|PercentReflect|0.05-0.07|0.08-0.1|0.11-0.13|0.14-0.17|0.18-0.25|0.3-0.36|0.37-0.5|x|x|x|x|x|x|x|x|x
+Potion Health Converted to Ward|83|ADDED|PotionHealthConvertedToWard|0.1-0.14|0.15-0.19|0.2-0.24|0.25-0.29|0.3-0.35|0.5-0.7|0.71-1|x|x|x|x|x|x|x|x|x
+Less Damage Taken on Block|74|INCREASED|DamageTaken|-0.04--0.04|-0.05--0.05|-0.06--0.06|-0.07--0.08|-0.09--0.1|-0.13--0.14|-0.15--0.17|x|x|x|x|x|x|x|x|x
+Physical Penetration|33|ADDED|Penetration|0.04-0.04|0.05-0.05|0.06-0.06|0.07-0.07|0.08-0.09|0.11-0.12|0.13-0.15|x|x|x|x|x|x|x|x|x
+Fire Penetration|32|ADDED|Penetration|0.04-0.04|0.05-0.05|0.06-0.06|0.07-0.07|0.08-0.09|0.11-0.12|0.13-0.15|x|x|x|x|x|x|x|x|x
+Cold Penetration|35|ADDED|Penetration|0.04-0.04|0.05-0.05|0.06-0.06|0.07-0.07|0.08-0.09|0.11-0.12|0.13-0.15|x|x|x|x|x|x|x|x|x
+Lightning Penetration|39|ADDED|Penetration|0.04-0.04|0.05-0.05|0.06-0.06|0.07-0.07|0.08-0.09|0.11-0.12|0.13-0.15|x|x|x|x|x|x|x|x|x
+Strength|501|ADDED|Strength|1-1|2-2|3-4|5-6|7-8|10-12|13-16|x|x|x|x|x|x|x|x|x
+Thorns|95|ADDED|Thorns|3-6|7-14|15-25|26-45|46-75|100-130|131-200|x|x|x|x|x|x|x|x|x
+Vitality|505|ADDED|Vitality|1-1|2-2|3-4|5-6|7-8|10-12|13-16|x|x|x|x|x|x|x|x|x
+Ward On Potion Use|66|ADDED|WardOnPotionUse|20-30|31-45|46-60|65-80|81-110|150-185|186-250|x|x|x|x|x|x|x|x|x
+Increased Minion Damage Over Time|98|INCREASED|Damage|0.1-0.2|0.21-0.3|0.31-0.4|0.41-0.5|0.51-0.7|0.9-1.1|1.11-1.4|x|x|x|x|x|x|x|x|x
+Ward Gained on Kill|99|ADDED|WardGain|3-5|6-8|9-11|12-14|15-19|24-30|31-38|x|x|x|x|x|x|x|x|x
+Increased Elemental Damage Over Time|100|INCREASED|Damage|0.1-0.2|0.21-0.35|0.36-0.5|0.51-0.7|0.71-1.1|1.4-1.7|1.71-2.2|x|x|x|x|x|x|x|x|x
+Increased Minion Spell Damage|102|INCREASED|Damage|0.1-0.2|0.21-0.3|0.31-0.4|0.41-0.5|0.51-0.7|0.9-1.1|1.11-1.4|x|x|x|x|x|x|x|x|x
+Damage While Channelling|103|INCREASED|Damage|0.06-0.12|0.13-0.21|0.22-0.3|0.31-0.39|0.4-0.6|0.75-0.95|0.96-1.2|x|x|x|x|x|x|x|x|x
+All Resistances While Channelling|104|ADDED|AllResistances|0.05-0.06|0.07-0.08|0.09-0.12|0.13-0.16|0.17-0.22|0.28-0.36|0.37-0.48|x|x|x|x|x|x|x|x|x
+Endurance|92|ADDED|Endurance|0.03-0.04|0.05-0.06|0.07-0.08|0.09-0.1|0.11-0.15|0.2-0.24|0.25-0.3|x|x|x|x|x|x|x|x|x
+Physical Resistance|45|ADDED|PhysicalResistance|0.05-0.09|0.1-0.14|0.15-0.21|0.22-0.29|0.3-0.45|0.5-0.6|0.61-0.75|x|x|x|x|x|x|x|x|x
+Idol Health|105||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Physical Resistance|430||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Increased Health|107||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Increased Health Regen|108||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mana|109||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Armour|110||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Fire Resistance|111||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Cold Resistance|112||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Lightning Resistance|113||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Necrotic Resistance|114||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Void Resistance|115||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Poison Resistance|116||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Elemental Resistance|117||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Dodge Rating|118||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Increased Damage Over Time|119||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Chance To Gain 30 Ward When Hit|120||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Increased Stun Chance|121||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Ward On Potion Use|122||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Potion Health Converted To Ward|123||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Vitality|124||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Elemental Resistance While Transformed|125||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Cold Bleed Chance|126||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Increased Fire Damage Over Time|127||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Bleed Duration|128||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Totem Armor|131||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Increased Totem Health|130||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Increased Health Regen While Transformed|132||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Totem Elemental Resistance|133||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Increased Critical Strike Chance|134||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Increased Healing Effectiveness|135||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Stun Avoidance|136||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Freeze Rate Multiplier|137||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Bleed Chance|138||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Ignite Chance|139||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Poison Chance|140||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Shock Chance|141||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Ward Retention|142||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Increased Stun Duration|143||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Increased Totem Cast Speed|144||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Minion Dodge Rating|145||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Minion Melee Health Leech|146||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Minion Melee Attack Speed|147||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Minion Increased Cooldown Recovery Speed|148||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Minion Increased Healing Effectiveness|149||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Minion Increased Melee Stun Chance|150||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Minion Increased Critical Strike Chance|151||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Minion Bleed Chance|152||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Minion Poison Chance|153||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Minion Melee Critical Strike Chance|154||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Spell Damage Leeched While Channelling|155||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Increased Melee Damage While Transformed|156||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Increased Spell Damage While Transformed|157||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Increased Damage Over Time While Transformed|158||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Melee Critical Strike Multiplier While Transformed|159||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Chance To Apply Frostbite With Cold Skills|163||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Totem Critical Strike Chance|164||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Less Damage Over Time Taken While Channelling|165||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Chance To Apply Frostbite With Cold Skills|166||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Increased Frostbite Duration|174||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Increased Cold Damage Over Time|176||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Increased Fire Damage Over Time|177||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Ward Generated Per Second|178||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Chance to Gain 20 Ward on Melee Hit|175||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Increased Melee Elemental Damage|179||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Chance To Ignite With Fire Skills|180||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Chance To Shock With Lightning Skills|181||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Fire Penetration With Ignite|182||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Cold Penetration With Frostbite|183||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Increased Shock Duration|184||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Increased Critical Strike Chance With Lightning Skills|185||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Melee Fire Damage|186||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Melee Lightning Damage|187||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Melee Cold Damage|188||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Spell Fire Damage|189||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Lightning Spell Damage|190||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Spell Cold Damage|191||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Increased Physical Damage Over Time|193||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Increased Spell Blind Chance|194||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Mana Efficiency For Void Spells|195||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Increased Armor|196||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Block Effectiveness|197||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Armor Shred Chance|198||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Throwing Attack Critical Strike Multiplier|199||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Increased Throwing Attack Stun Chance|200||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Increased Time Rot Duration|201||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Fire Damage Taken As Physical|202||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Lightning Damage Taken As Physical|203||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Cold Damage Taken As Physical|204||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Fire Penetration With Melee Attacks|205||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Armor Shred Chance With Fire Skills|206||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Slow Chance With Void Skills|207||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Bleed Chance While High Health|208||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Ignite Chance While High Health|209||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Melee Armor Shred Chance|211||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Throwing Armor Shred Chance|212||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Chance To Gain Haste When You Summon A Totem|213||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Chance On 10 Mana Spent To Cast Lightning|214||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Chance On Kill To Refresh Random Companion Ability|215||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Bees Per 10 Seconds|216||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Chance On 10 Mana Spent To Chill Nearby Enemies|217||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Chance On Hit To Summon A Thorn Totem|218||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Mana Gained When Transforming Back To Human|219||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Chance To Cast Ice Thorns When Hit|220||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Chance To Cast Maelstrom Every 5 Seconds|221||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Chance To Cast Healing Nova When Hit|222||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Chance To Create Aftershock On Melee Attack|223||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Chance To Cast Avalanche Boulder On Spell Cast|224||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Chance To Cast Avalanche Boulder On Melee Attack|225||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Increased Aspect Of The Shark Effect|226||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Increased Aspect Of The Shark Duration|227||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Increased Aspect Of The Boar Effect|228||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Increased Aspect Of The Boar Duration|229||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Increased Aspect Of The Viper Effect|230||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Increased Aspect Of The Viper Duration|231||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Increased Aspect Of The Lynx Effect|232||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Increased Aspect Of The Lynx Duration|233||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Increased Spell Damage If Active Totem|234||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Increased Cold Damage Per Active Totem|235||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Chance On Melee Kill To Heal Random Minion To Full|236||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Stun Immunity After Using Teleport|237||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Chance To Create Fire Aura On Crit|238||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Increased Elemental Nova Area|239||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Increased Fire Aura Damage|240||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Static Charges Generated Per Second|241||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Increased Cast Speed While You Have Lightning Aegis|242||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Chance To Gain Lightning Aegis When Hit|243||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Ward Granted When Casting Flame Ward|244||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Chance To Cast Elemental Nova When Hit|245||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Chance To Cast Fire Aura When Hit|247||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Increased Fire Aura Area|248||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Ward Gained When Damage Causes Low Health|249||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Damage Reflected While You Have Lightning Aegis|250||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Chance To Cast Lightning Blast When Hit While You Have Lightning Aegis|251||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Increased Lightning Damage While You Have Lightning Aegis|252||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Chance To Cast Fire Aura On Kill With Fire Skills|253||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Increased Lightning Damage Doubled Over 300 Max Mana|254||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Increased Cold Damage Doubled Over 300 Max Mana|255||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Increased Fire Damage Doubled Over 300 Max Mana|256||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Increased Health|257||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Poison Chance While At Low Health|258||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Increased Damage Over Time While At Low Health|259||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Chance To Apply Damned|260||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Increased Damage While Transformed|261||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Less Damage Over Time Taken While Transformed|262||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Damage Leeched As Health While Transformed|263||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Reduced Health Cost Of Spells|264||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolye Chance To Chill With Necrotic Skills|265||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Increased Aura Of Decay Area|266||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Armor Granted By Bone Armor|268||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Increased Healing Effectiveness|269||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Increased Warpath Area|270||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Time Rot Chance|271||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Chance To Cast Void Rift On Kill|272||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Chance To Create Void Essence On Kill|273||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Increased Area of Void Cleave|274||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Chance To Cast Divine Bolt On 0 Cost Skill Use|275||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Chance To Cast Smite On Throwing Attack Hit|276||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Health Gained When Stunned|277||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Increased Echo Damage When A Skill Echoes|278||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Increased Void Damage For 4 Seconds When a Skill Echoes|279||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Increased Melee Damage For 4 Seconds When a Skill Echoes|280||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Chance To Gain Inspiration On Kills With Void Skills|281||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Increased Damage After Casting Devouring Orb|282||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Increased Abyssal Decay Duration|283||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolye Chance To Fear On Hit|284||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Increased Ward Retention|285||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Minion Increased Cooldown Recovery Speed|286||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Minion Chance To Mark For Death On Hit|287||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Minion Chance To Plague On Hit|288||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Less Damage Over Time Taken|289||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Physical Spell Bleed Chance|290||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Increased Spell Damage While At Low Health|292||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Minion Increased Fire Damage|293||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Minion Increased Cold Damage|294||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Increased Physical Spell Critical Strike Chance|295||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Spell Poison Chance|296||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Sigil Duration|298||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Chance for +30 Throwing Fire Damage with Shield Throw|299||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Shield Throw Damage Converted to Void|300||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Lightning Damage With Hammer Throw|301||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Chance To Cast Poison Nova When Hit|303||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Chance For Hungering Souls To Fire Additional Projectiles|304||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Transplant Increased Cooldown Recovery Speed|308||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Necrotic Spell Damage Per Skeletal Mage|309||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Ward On Kill|310||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Chance To Gain Ward On Kill With Hungering Souls|311||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Chance For Summon Wraith To Summon Putrid Wraith|315||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Chance For Summon Wraith To Summon Flame Wraith|316||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Chance To Cast Marrow Shards When You Cast Transplant|317||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Poison Damage during Aura of Decay|318||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Increased Melee Void Damage|326||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Spark Charge on Melee Hit|327||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Mana Spent Gained as Ward|328||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Increased Totem Damage|329||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Increased Mana|331|INCREASED|Mana|0.04-0.04|0.05-0.05|0.06-0.06|0.07-0.07|0.08-0.1|0.12-0.15|0.16-0.2|x|x|x|x|x|x|x|x|x
+Primalist Totem Added Spell Damage|334|ADDED|Damage|6-6|7-7|8-8|9-10|11-14|18-22|23-28|x|x|x|x|x|x|x|x|x
+Primalist Cooldown Recovery Speed While Transformed|335|ADDED|IncreasedCooldownRecoverySpeed|0.06-0.07|0.08-0.09|0.1-0.11|0.12-0.13|0.14-0.16|0.19-0.21|0.22-0.25|x|x|x|x|x|x|x|x|x
+Primalist Minion Crit Multiplier|336|ADDED|CriticalMultiplier|0.15-0.15|0.16-0.17|0.18-0.2|0.21-0.23|0.24-0.29|0.36-0.44|0.45-0.55|x|x|x|x|x|x|x|x|x
+Primalist Minion Spell Crit Chance|337|INCREASED|CriticalChance|0.3-0.33|0.34-0.37|0.38-0.42|0.43-0.47|0.48-0.57|0.7-0.85|0.86-1.05|x|x|x|x|x|x|x|x|x
+Primalist Criti Multi While Transformed|338|ADDED|CriticalMultiplier|0.15-0.15|0.16-0.17|0.18-0.2|0.21-0.23|0.24-0.29|0.36-0.44|0.45-0.55|x|x|x|x|x|x|x|x|x
+Mage Cold Penetration With Frostbite|339|ADDED|IncreasedAilmentEffect|0.2-0.21|0.22-0.23|0.24-0.25|0.26-0.28|0.29-0.4|0.5-0.6|0.61-0.8|x|x|x|x|x|x|x|x|x
+Freeze Rate Per Stack of Chill|341|ADDED|MoreFreezeRatePerStackOfChill|0.3-0.33|0.34-0.37|0.38-0.42|0.43-0.47|0.48-0.57|0.7-0.85|0.86-1.05|x|x|x|x|x|x|x|x|x
+Primalist Totem Increased Cast Speed|342|INCREASED|CastSpeed|0.08-0.09|0.1-0.11|0.12-0.13|0.14-0.15|0.16-0.19|0.24-0.28|0.29-0.36|x|x|x|x|x|x|x|x|x
+Primalist Minion Melee Leech|346|ADDED|HealthLeech|0.4-0.49|0.5-0.59|0.6-0.69|0.7-0.79|0.8-1.1|1.35-1.6|1.61-2.1|x|x|x|x|x|x|x|x|x
+Primalist Minion Chance To Bleed On Hit|347|ADDED|AilmentChance|0.3-0.34|0.35-0.39|0.4-0.44|0.45-0.51|0.52-0.62|0.75-0.9|0.91-1.1|x|x|x|x|x|x|x|x|x
+Primalist Minion Melee Crit Chance|348|ADDED|CriticalChance|0.03-0.03|0.04-0.04|0.05-0.05|0.06-0.06|0.07-0.08|0.1-0.12|0.13-0.15|x|x|x|x|x|x|x|x|x
+Primalist Melee Damage While Transformed|349|INCREASED|Damage|0.3-0.33|0.34-0.37|0.38-0.42|0.43-0.47|0.48-0.57|0.7-0.85|0.86-1.05|x|x|x|x|x|x|x|x|x
+Primalist Spell Damage While Transformed|350|INCREASED|Damage|0.3-0.33|0.34-0.37|0.38-0.42|0.43-0.47|0.48-0.57|0.7-0.85|0.86-1.05|x|x|x|x|x|x|x|x|x
+Primalist Damage Over Time While Transformed|351|INCREASED|Damage|0.3-0.33|0.34-0.37|0.38-0.42|0.43-0.47|0.48-0.57|0.7-0.85|0.86-1.05|x|x|x|x|x|x|x|x|x
+Primalist Increased Totem Crit Chance |352|INCREASED|CriticalChance|0.45-0.51|0.52-0.58|0.59-0.65|0.66-0.72|0.73-0.95|1.15-1.4|1.41-1.8|x|x|x|x|x|x|x|x|x
+Primalist Increased Aspect Of The Shark Effect|353|ADDED|PlayerProperty|0.12-0.13|0.14-0.15|0.16-0.17|0.18-0.19|0.2-0.25|0.3-0.36|0.37-0.46|x|x|x|x|x|x|x|x|x
+Primalist Increased Aspect Of The Boar Duration|354|ADDED|PlayerProperty|0.25-0.27|0.28-0.3|0.31-0.33|0.34-0.36|0.37-0.45|0.55-0.65|0.66-0.85|x|x|x|x|x|x|x|x|x
+Primalist Increased Aspect Of The Viper Effect|355|ADDED|PlayerProperty|0.2-0.22|0.23-0.25|0.26-0.28|0.29-0.31|0.32-0.39|0.46-0.55|0.56-0.7|x|x|x|x|x|x|x|x|x
+Primalist Increased Aspect Of The Lynx Effect|356|ADDED|PlayerProperty|0.12-0.13|0.14-0.15|0.16-0.17|0.18-0.19|0.2-0.25|0.3-0.36|0.37-0.46|x|x|x|x|x|x|x|x|x
+Primalist Increased Totem Damage|357|INCREASED|Damage|0.3-0.33|0.34-0.37|0.38-0.42|0.43-0.47|0.48-0.57|0.7-0.85|0.86-1.05|x|x|x|x|x|x|x|x|x
+Sentinel Physical Penetration With Bleed|358|ADDED|IncreasedAilmentEffect|0.25-0.27|0.28-0.3|0.31-0.33|0.34-0.36|0.37-0.45|0.55-0.65|0.66-0.85|x|x|x|x|x|x|x|x|x
+Sentinel Melee Physical Damage If Wielding A Sword|359|ADDED|PlayerProperty|6-6|7-7|8-8|9-10|11-13|17-21|22-26|x|x|x|x|x|x|x|x|x
+Sentinel Chance To Bleed If Wielding An Axe|363|ADDED|PlayerProperty|0.2-0.23|0.24-0.27|0.28-0.31|0.32-0.35|0.36-0.43|0.5-0.6|0.61-0.8|x|x|x|x|x|x|x|x|x
+Sentinel Melee Physical Damage If Wielding A Mace|364|ADDED|PlayerProperty|10-10|11-11|12-12|13-13|14-17|21-26|27-32|x|x|x|x|x|x|x|x|x
+Sentinel Void Damage Taken As Physical|365|ADDED|DamageTakenAsPhysical|0.18-0.19|0.2-0.21|0.22-0.23|0.24-0.25|0.26-0.3|0.36-0.44|0.45-0.55|x|x|x|x|x|x|x|x|x
+Sentinel Necrotic Damage Taken As Physical|366|ADDED|DamageTakenAsPhysical|0.18-0.19|0.2-0.21|0.22-0.23|0.24-0.25|0.26-0.3|0.36-0.44|0.45-0.55|x|x|x|x|x|x|x|x|x
+Sentinel Poison Damage Taken As Physical|367|ADDED|DamageTakenAsPhysical|0.18-0.19|0.2-0.21|0.22-0.23|0.24-0.25|0.26-0.3|0.36-0.44|0.45-0.55|x|x|x|x|x|x|x|x|x
+Sentinel Increased Throwing Attack Crit Chance|368|INCREASED|CriticalChance|0.45-0.51|0.52-0.58|0.59-0.65|0.66-0.72|0.73-0.95|1.15-1.4|1.41-1.8|x|x|x|x|x|x|x|x|x
+Sentinel Reduced Channel Cost|369|INCREASED|ChannelCost|-0.12--0.15|-0.16--0.19|-0.2--0.23|-0.24--0.27|-0.28--0.32|-0.36--0.4|-0.41--0.45|x|x|x|x|x|x|x|x|x
+Sentinel Armor Shred Effect|370|ADDED|IncreasedAilmentEffect|0.45-0.51|0.52-0.58|0.59-0.65|0.66-0.72|0.73-0.95|1.2-1.5|1.51-1.9|x|x|x|x|x|x|x|x|x
+Sentinel Increased Fire Damage Over Time|371|INCREASED|Damage|0.4-0.45|0.46-0.51|0.52-0.57|0.58-0.63|0.64-0.75|0.9-1.1|1.11-1.4|x|x|x|x|x|x|x|x|x
+Sentinel Increased Void Damage Over Time|372|INCREASED|Damage|0.4-0.45|0.46-0.51|0.52-0.57|0.58-0.63|0.64-0.75|0.9-1.1|1.11-1.4|x|x|x|x|x|x|x|x|x
+Sentinel Increased Echo Damage When A Skill Echoes|373|ADDED|PlayerProperty|0.6-0.72|0.73-0.85|0.86-0.98|0.99-1.1|1.11-1.25|1.5-1.8|1.81-2.2|x|x|x|x|x|x|x|x|x
+Sentinel Increased Abyssal Decay Duration|374|ADDED|IncreasedAilmentDuration|0.12-0.17|0.18-0.23|0.24-0.29|0.3-0.34|0.35-0.45|0.55-0.65|0.66-0.85|x|x|x|x|x|x|x|x|x
+Sentinel Mana Gained On Vengeance Hit|375|ADDED|AbilityProperty|3-3|4-4|5-5|6-6|7-9|11-13|14-17|x|x|x|x|x|x|x|x|x
+Sentinel Mana Gained On Rive Hit|376|ADDED|AbilityProperty|3-3|4-4|5-5|6-6|7-9|11-13|14-17|x|x|x|x|x|x|x|x|x
+Sentinel Mana Gained On Smite Use|377|ADDED|AbilityProperty|4-4|5-5|6-6|7-7|8-10|12-14|15-18|x|x|x|x|x|x|x|x|x
+Sentinel Increased Hammer Throw Damage|378|ADDED|AbilityProperty|0.3-0.33|0.34-0.37|0.38-0.42|0.43-0.47|0.48-0.58|0.7-0.85|0.86-1.05|x|x|x|x|x|x|x|x|x
+Sentinel Increased Shield Throw Crit Chance|379|ADDED|AbilityProperty|0.45-0.51|0.52-0.58|0.59-0.65|0.66-0.72|0.73-0.95|1.15-1.4|1.41-1.8|x|x|x|x|x|x|x|x|x
+Sentinel Increased Smelters Wrath Damage|380|ADDED|AbilityProperty|0.3-0.33|0.34-0.37|0.38-0.42|0.43-0.47|0.48-0.58|0.7-0.85|0.86-1.05|x|x|x|x|x|x|x|x|x
+Mage Spell Crit Doubled Over 300 Max Mana|381|ADDED|PlayerProperty|0.3-0.33|0.34-0.37|0.38-0.42|0.43-0.47|0.48-0.58|0.7-0.85|0.86-1.05|x|x|x|x|x|x|x|x|x
+Mage Ward Per Second|382|ADDED|WardRegen|6-6|7-7|8-8|9-10|11-14|18-22|23-28|x|x|x|x|x|x|x|x|x
+Mage Added Spell Damage While Channelling|383|ADDED|Damage|6-6|7-7|8-8|9-10|11-13|17-21|22-26|x|x|x|x|x|x|x|x|x
+Acolyte Minion Freeze Rate|384|ADDED|FreezeRateMultiplier|0.5-0.69|0.7-0.89|0.9-1.09|1.1-1.39|1.4-1.9|2.4-3|3.01-3.8|x|x|x|x|x|x|x|x|x
+Mage Lightning Crit Multi|385|ADDED|CriticalMultiplier|0.16-0.17|0.18-0.19|0.2-0.21|0.22-0.23|0.24-0.29|0.34-0.4|0.41-0.5|x|x|x|x|x|x|x|x|x
+Mage Spell Damage Leeched While Channelling|386|ADDED|HealthLeech|0.2-0.26|0.27-0.33|0.34-0.4|0.41-0.47|0.48-0.57|0.7-0.85|0.86-1.05|x|x|x|x|x|x|x|x|x
+Mage Chance To Apply Frostbite With Cold Skills|387|ADDED|AilmentChance|0.4-0.44|0.45-0.49|0.5-0.54|0.55-0.59|0.6-0.77|0.95-1.15|1.16-1.4|x|x|x|x|x|x|x|x|x
+Mage Increased Cold Damage Over Time|388|INCREASED|Damage|0.4-0.45|0.46-0.51|0.52-0.57|0.58-0.63|0.64-0.75|0.9-1.1|1.11-1.4|x|x|x|x|x|x|x|x|x
+Mage Increased Fire Damage Over Time|389|INCREASED|Damage|0.4-0.45|0.46-0.51|0.52-0.57|0.58-0.63|0.64-0.75|0.9-1.1|1.11-1.4|x|x|x|x|x|x|x|x|x
+Mage Increased Melee Elemental Damage|390|INCREASED|Damage|0.3-0.33|0.34-0.37|0.38-0.43|0.43-0.48|0.48-0.57|0.7-0.85|0.86-1.1|x|x|x|x|x|x|x|x|x
+Mage Chance To Ignite With Fire Skills|391|ADDED|AilmentChance|0.4-0.44|0.45-0.49|0.5-0.54|0.55-0.59|0.6-0.77|0.95-1.15|1.16-1.4|x|x|x|x|x|x|x|x|x
+Mage Chance To Shock With Lightning Skills|392|ADDED|AilmentChance|0.4-0.44|0.45-0.49|0.5-0.54|0.55-0.59|0.6-0.77|0.95-1.15|1.16-1.4|x|x|x|x|x|x|x|x|x
+Mage Chance To Cast Fire Aura On Crit|393|ADDED|PlayerProperty|0.06-0.06|0.07-0.07|0.08-0.08|0.09-0.1|0.11-0.13|0.16-0.2|0.21-0.26|x|x|x|x|x|x|x|x|x
+Mage Increased Fire Aura Damage|394|ADDED|AbilityProperty|0.6-0.72|0.73-0.85|0.86-0.98|0.99-1.1|1.12-1.25|1.5-1.8|1.81-2.2|x|x|x|x|x|x|x|x|x
+Mage Chance To Gain Lightning Aegis When Hit|395|ADDED|PlayerProperty|0.06-0.06|0.07-0.07|0.08-0.08|0.09-0.1|0.11-0.13|0.16-0.2|0.21-0.26|x|x|x|x|x|x|x|x|x
+Mage Chance To Cast Fire Aura When Hit|396|ADDED|PlayerProperty|0.06-0.06|0.07-0.07|0.08-0.08|0.09-0.1|0.11-0.13|0.16-0.2|0.21-0.26|x|x|x|x|x|x|x|x|x
+Mage Chance To Cast Fire Aura On Kill With A Fire Skill|398|ADDED|PlayerProperty|0.04-0.05|0.06-0.07|0.08-0.09|0.1-0.11|0.12-0.14|0.18-0.22|0.23-0.28|x|x|x|x|x|x|x|x|x
+Mage Chance to Apply a Spark Charge on Melee Hit|399|ADDED|AilmentChance|0.08-0.1|0.11-0.13|0.14-0.16|0.17-0.19|0.2-0.24|0.28-0.34|0.35-0.44|x|x|x|x|x|x|x|x|x
+Mage Mana Spent Gained as Ward|400|ADDED|ManaSpentGainedAsWard|0.2-0.23|0.24-0.27|0.28-0.31|0.32-0.35|0.36-0.5|0.6-0.75|0.76-1|x|x|x|x|x|x|x|x|x
+Acolyte Physical Damage While Transformed|401|INCREASED|Damage|0.45-0.51|0.52-0.58|0.59-0.65|0.66-0.72|0.73-0.9|1.1-1.3|1.31-1.6|x|x|x|x|x|x|x|x|x
+Acolyte Necrotic Damage While Transformed|402|INCREASED|Damage|0.45-0.51|0.52-0.58|0.59-0.65|0.66-0.72|0.73-0.9|1.1-1.3|1.31-1.6|x|x|x|x|x|x|x|x|x
+Acolyte Increased Skeletal Mage Damage|410|ADDED|AbilityProperty|0.25-0.38|0.39-0.52|0.53-0.66|0.67-0.8|0.81-0.95|1.15-1.4|1.41-1.8|x|x|x|x|x|x|x|x|x
+Acolyte Mana Gained On Harvest Use|411|ADDED|AbilityProperty|5-6|7-8|9-10|11-12|13-15|19-23|24-28|x|x|x|x|x|x|x|x|x
+Acolyte Leech With Harvest|412|ADDED|AbilityProperty|0.12-0.16|0.17-0.21|0.22-0.26|0.27-0.31|0.32-0.4|0.48-0.6|0.61-0.75|x|x|x|x|x|x|x|x|x
+Acolyte Minion Reflect|413|ADDED|PercentReflect|0.05-0.05|0.06-0.06|0.07-0.07|0.08-0.08|0.09-0.11|0.14-0.17|0.18-0.22|x|x|x|x|x|x|x|x|x
+Acolyte Chance To Gain 20 Ward On Kill With Hungering Souls|415|ADDED|AbilityProperty|0.4-0.44|0.45-0.49|0.5-0.54|0.55-0.59|0.6-0.77|0.8-0.89|0.9-1|x|x|x|x|x|x|x|x|x
+Acolyte Spell Damage Per Skeletal Mage|420|ADDED|AbilityProperty|0.14-0.16|0.17-0.19|0.2-0.22|0.23-0.25|0.26-0.33|0.4-0.5|0.51-0.65|x|x|x|x|x|x|x|x|x
+Acolyte Chance To Apply Damned On Hit|421|ADDED|AilmentChance|0.4-0.44|0.45-0.49|0.5-0.54|0.55-0.59|0.6-0.77|0.95-1.15|1.16-1.4|x|x|x|x|x|x|x|x|x
+Acolyte Damage Leeched As Health While Transformed|422|ADDED|HealthLeech|0.12-0.16|0.17-0.21|0.22-0.26|0.27-0.31|0.32-0.4|0.48-0.6|0.61-0.75|x|x|x|x|x|x|x|x|x
+Acolyte Reduced Health Cost Of Spells|423|ADDED|AbilityProperty|0.12-0.15|0.16-0.19|0.2-0.23|0.24-0.27|0.28-0.33|0.4-0.5|0.51-0.65|x|x|x|x|x|x|x|x|x
+Acolyte Physical Spell Critical Strike Chance|424|INCREASED|CriticalChance|0.45-0.51|0.52-0.58|0.59-0.65|0.66-0.72|0.73-0.95|1.15-1.4|1.41-1.8|x|x|x|x|x|x|x|x|x
+Idol Sentinel Increased Void Damage Over Time|403||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Endurance Threshold|425|ADDED|EnduranceThreshold|20-26|27-35|36-45|46-55|56-75|100-140|141-185|x|x|x|x|x|x|x|x|x
+Less Bonus Damage Taken from Critical Strikes|427|ADDED|LessBonusDamageTakenFromCrits|0.35-0.43|0.44-0.53|0.54-0.66|0.67-0.8|0.81-1|1-1|1-1|x|x|x|x|x|x|x|x|x
+Melee Frailty Chance|428|ADDED|AilmentChance|0.35-0.4|0.41-0.5|0.51-0.6|0.61-0.7|0.71-0.85|1.05-1.3|1.31-1.7|x|x|x|x|x|x|x|x|x
+Frailty Chance|429|ADDED|AilmentChance|0.12-0.15|0.16-0.19|0.2-0.23|0.24-0.27|0.28-0.35|0.44-0.55|0.56-0.7|x|x|x|x|x|x|x|x|x
+Idol Health on Kill|106||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Increased Bow Damage|431|INCREASED|Damage|0.06-0.12|0.13-0.21|0.22-0.3|0.31-0.39|0.4-0.6|0.75-0.95|0.96-1.2|x|x|x|x|x|x|x|x|x
+Increased Bow Attack Speed|432|INCREASED|AttackSpeed|0.04-0.05|0.06-0.07|0.08-0.09|0.1-0.11|0.12-0.15|0.18-0.23|0.24-0.3|x|x|x|x|x|x|x|x|x
+Added Bow Physical Damage|433|ADDED|Damage|2-3|4-5|6-7|8-9|10-12|15-19|20-24|x|x|x|x|x|x|x|x|x
+Added Bow Fire Damage|434|ADDED|Damage|2-3|4-5|6-7|8-9|10-12|15-19|20-24|x|x|x|x|x|x|x|x|x
+Acolyte Chance To Cast Marrow Shards When You Cast Transplant|435|ADDED|AbilityProperty|0.05-0.07|0.08-0.15|0.16-0.25|0.26-0.3|0.31-0.4|0.55-0.75|0.76-1|x|x|x|x|x|x|x|x|x
+Idol Rogue Ward Gained when you create a Shadow|436||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Ward Gained when you create a Shadow|437|ADDED|AbilityProperty|16-20|21-25|26-30|31-37|38-50|65-85|86-110|x|x|x|x|x|x|x|x|x
+Idol Rogue Increased Damage of Shadows|438||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Increased Damage of Shadows|439|ADDED|AbilityProperty|0.41-0.5|0.51-0.6|0.61-0.7|0.71-0.8|0.81-1|1.35-1.8|1.81-2.4|x|x|x|x|x|x|x|x|x
+Rogue Health Gained on Glancing Blow|440|ADDED|PlayerProperty|6-7|8-9|10-11|12-13|14-18|23-28|29-36|x|x|x|x|x|x|x|x|x
+Idol Rogue Dodge Rating if Hit Recently|441||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Dodge Rating if Hit Recently|442|ADDED|PlayerProperty|60-72|73-85|86-100|101-120|121-160|210-270|271-360|x|x|x|x|x|x|x|x|x
+Rogue Crimson Shroud Chance on Melee Hit|443|ADDED|PlayerProperty|0.12-0.15|0.16-0.19|0.2-0.23|0.24-0.28|0.29-0.35|0.44-0.55|0.56-0.7|x|x|x|x|x|x|x|x|x
+Idol Rogue Bow Attack Speed for 3 seconds when you use a Bow Attack|444||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Rogue Increased Critical Strike Chance per Equipped Sword|445||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Increased Critical Strike Chance per Equipped Sword|446|ADDED|PlayerProperty|0.31-0.35|0.36-0.4|0.41-0.45|0.46-0.5|0.51-0.6|0.75-0.95|0.96-1.2|x|x|x|x|x|x|x|x|x
+Idol Rogue Increased Critical Strike Chance per Equipped Dagger|447||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Increased Critical Strike Chance per Equipped Dagger|448|ADDED|PlayerProperty|0.31-0.35|0.36-0.4|0.41-0.45|0.46-0.5|0.51-0.6|0.75-0.95|0.96-1.2|x|x|x|x|x|x|x|x|x
+Rogue Chance to gain Dusk Shroud When Hit|449|ADDED|PlayerProperty|0.12-0.16|0.17-0.21|0.22-0.26|0.27-0.32|0.33-0.4|0.5-0.6|0.61-0.8|x|x|x|x|x|x|x|x|x
+Idol Rogue Bleed Chance per Equipped Sword|450||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Bleed Chance per Equipped Sword|451|ADDED|PlayerProperty|0.31-0.35|0.36-0.4|0.41-0.45|0.46-0.5|0.51-0.6|0.75-0.95|0.96-1.2|x|x|x|x|x|x|x|x|x
+Idol Rogue Poison Chance per Equipped Dagger|452||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Poison Chance per Equipped Dagger|453|ADDED|PlayerProperty|0.18-0.2|0.21-0.23|0.24-0.27|0.28-0.32|0.33-0.4|0.5-0.65|0.66-0.85|x|x|x|x|x|x|x|x|x
+Rogue Dusk Shroud Chance on Melee Hit|454|ADDED|PlayerProperty|0.17-0.21|0.22-0.26|0.27-0.31|0.32-0.36|0.37-0.45|0.55-0.7|0.71-0.9|x|x|x|x|x|x|x|x|x
+Idol Rogue Health Gained on Dodge|455||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Rogue Critical Strike Multiplier while dual wielding|456||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Added Physical Throwing Damage while dual wielding|457|ADDED|PlayerProperty|5-6|7-8|9-10|11-13|14-17|22-26|27-34|x|x|x|x|x|x|x|x|x
+Idol Rogue Increased damage while wielding a sword|458||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Increased damage while wielding a sword|459|ADDED|PlayerProperty|0.26-0.3|0.31-0.35|0.36-0.4|0.41-0.47|0.48-0.6|0.75-0.95|0.96-1.2|x|x|x|x|x|x|x|x|x
+Idol Rogue Increased damage while wielding a dagger|460||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Increased damage while wielding a dagger|461|ADDED|PlayerProperty|0.26-0.3|0.31-0.35|0.36-0.4|0.41-0.47|0.48-0.6|0.75-0.95|0.96-1.2|x|x|x|x|x|x|x|x|x
+Idol Rogue Increased damage while wielding a bow|462||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Increased damage while wielding a bow|463|ADDED|PlayerProperty|0.26-0.3|0.31-0.35|0.36-0.4|0.41-0.47|0.48-0.6|0.75-0.95|0.96-1.2|x|x|x|x|x|x|x|x|x
+Idol Rogue Physical Penetration while wielding a dagger|464||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Rogue Fire Penetration while wielding a dagger|465||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Rogue Increased Physical Damage over Time|466||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Rogue Fire Penetration With Ignite|467||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Fire Penetration With Ignite|468|ADDED|IncreasedAilmentEffect|0.07-0.07|0.08-0.08|0.09-0.1|0.11-0.12|0.13-0.16|0.2-0.24|0.25-0.3|x|x|x|x|x|x|x|x|x
+Rogue Increased Poison Duration|469|ADDED|IncreasedAilmentDuration|0.07-0.07|0.08-0.08|0.09-0.1|0.11-0.12|0.13-0.16|0.2-0.24|0.25-0.3|x|x|x|x|x|x|x|x|x
+Idol Rogue Increased Throwing Physical Damage|470||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Increased Throwing Physical Damage|471|INCREASED|Damage|0.26-0.3|0.31-0.35|0.36-0.4|0.41-0.47|0.48-0.6|0.75-0.95|0.96-1.2|x|x|x|x|x|x|x|x|x
+Idol Rogue Chance to Shred Armour on Throwing Hit|472||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Chance to Shred Armour on Throwing Hit|473|ADDED|AilmentChance|0.31-0.4|0.41-0.5|0.51-0.6|0.61-0.75|0.76-1|1.35-1.8|1.81-2.4|x|x|x|x|x|x|x|x|x
+Idol Rogue Chance to Shred Armour on Melee Hit|474||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Chance to Shred Armour on Melee Hit|475|ADDED|AilmentChance|0.31-0.4|0.41-0.5|0.51-0.6|0.61-0.75|0.76-1|1.35-1.8|1.81-2.4|x|x|x|x|x|x|x|x|x
+Idol Rogue Chance to Shred Armour on Bow Hit|476||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Chance to Shred Armour on Bow Hit|477|ADDED|AilmentChance|0.31-0.4|0.41-0.5|0.51-0.6|0.61-0.75|0.76-1|1.35-1.8|1.81-2.4|x|x|x|x|x|x|x|x|x
+Idol Rogue Armour Shred Effect|478||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Armour Shred Effect|479|ADDED|IncreasedAilmentEffect|0.45-0.51|0.52-0.58|0.59-0.65|0.66-0.72|0.73-0.95|1.2-1.5|1.51-1.9|x|x|x|x|x|x|x|x|x
+Idol Rogue Increased Armour Shred Duration|480||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Increased Armour Shred Duration|481|ADDED|IncreasedAilmentDuration|0.5-0.6|0.61-0.72|0.73-0.85|0.86-1|1.01-1.2|1.5-1.9|1.91-2.4|x|x|x|x|x|x|x|x|x
+Idol Rogue Chance to Ignite on Bow Hit|482||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Chance to Ignite on Bow Hit|483|ADDED|AilmentChance|0.15-0.17|0.18-0.2|0.21-0.24|0.25-0.28|0.29-0.35|0.44-0.55|0.56-0.7|x|x|x|x|x|x|x|x|x
+Idol Rogue Chance to Slow on Bow Hit|484||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Chance to Slow on Bow Hit|485|ADDED|AilmentChance|0.15-0.17|0.18-0.2|0.21-0.24|0.25-0.28|0.29-0.35|0.44-0.55|0.56-0.7|x|x|x|x|x|x|x|x|x
+Idol Rogue Physical Penetration With Shadow Daggers|486||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Physical Penetration With Shadow Daggers|487|ADDED|IncreasedAilmentEffect|0.13-0.17|0.18-0.22|0.23-0.27|0.28-0.32|0.33-0.45|0.6-0.77|0.78-1|x|x|x|x|x|x|x|x|x
+Idol Rogue Increased Bow Elemental Damage|488||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Increased Bow Elemental Damage|489|INCREASED|Damage|0.26-0.3|0.31-0.35|0.36-0.4|0.41-0.47|0.48-0.6|0.75-0.95|0.96-1.2|x|x|x|x|x|x|x|x|x
+Idol Rogue Increased Throwing Damage|490||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Rogue Increased Bow Damage|491||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Rogue Increased Bow Critical Strike Chance|492||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Rogue Chance to Bleed on Bow Hit|493||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Chance to Bleed on Bow Hit|494|ADDED|AilmentChance|0.15-0.17|0.18-0.2|0.21-0.24|0.25-0.28|0.29-0.35|0.44-0.55|0.56-0.7|x|x|x|x|x|x|x|x|x
+Idol Rogue Increased Area with Cinder Strike's First Attack|495||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Increased Area with Cinder Strike's First Strike|496|ADDED|AbilityProperty|0.15-0.17|0.19-0.22|0.23-0.27|0.28-0.32|0.33-0.4|0.5-0.6|0.61-0.8|x|x|x|x|x|x|x|x|x
+Idol Rogue Increased crit chance with Flurry|497||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Increased crit chance with Flurry|498|ADDED|AbilityProperty|0.36-0.4|0.41-0.45|0.46-0.55|0.56-0.65|0.66-0.8|1-1.25|1.26-1.6|x|x|x|x|x|x|x|x|x
+Idol Rogue Physical penetration with Puncture|499||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Physical penetration with Puncture|500|ADDED|AbilityProperty|0.06-0.06|0.07-0.07|0.08-0.08|0.09-0.1|0.11-0.14|0.17-0.2|0.21-0.25|x|x|x|x|x|x|x|x|x
+Idol Rogue Increased Area with Detonating Arrow|508||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Increased Area with Detonating Arrow|509|ADDED|AbilityProperty|0.15-0.17|0.19-0.22|0.23-0.27|0.28-0.32|0.33-0.4|0.5-0.6|0.61-0.8|x|x|x|x|x|x|x|x|x
+Idol Rogue Increased damage per arrow with Multishot|510||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Increased damage per arrow with Multishot|511|ADDED|AbilityProperty|0.04-0.04|0.05-0.05|0.06-0.06|0.07-0.07|0.08-0.1|0.12-0.15|0.16-0.2|x|x|x|x|x|x|x|x|x
+Idol Rogue Increased duration with Hail of Arrows|512||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Increased Hail of Arrows Duration|513|ADDED|AbilityProperty|0.11-0.13|0.14-0.16|0.17-0.19|0.2-0.23|0.24-0.3|0.38-0.46|0.47-0.6|x|x|x|x|x|x|x|x|x
+Idol Rogue Damage per Shadow with Shadow Cascade|514||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Increased damage per active Shadow with Shadow Cascade|515|ADDED|AbilityProperty|0.12-0.14|0.15-0.17|0.18-0.2|0.21-0.23|0.24-0.3|0.38-0.46|0.47-0.6|x|x|x|x|x|x|x|x|x
+Idol Rogue Bleed chance with Shurikens|516||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Bleed Chance with Shurikens|517|ADDED|AbilityProperty|0.15-0.17|0.19-0.22|0.23-0.27|0.28-0.32|0.33-0.4|0.5-0.6|0.61-0.8|x|x|x|x|x|x|x|x|x
+Idol Rogue Increased Acid Flask Area|520||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Increased Acid Flask Area|521|ADDED|AbilityProperty|0.05-0.1|0.11-0.15|0.16-0.2|0.21-0.25|0.26-0.3|0.38-0.46|0.47-0.6|x|x|x|x|x|x|x|x|x
+Idol Rogue Chance to Summon A Bee with Acid Flask|522||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Rogue Increased Dancing Strikes Area|523||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Increased Dancing Strikes Area|524|ADDED|AbilityProperty|0.12-0.15|0.16-0.19|0.2-0.23|0.24-0.27|0.28-0.35|0.44-0.55|0.56-0.7|x|x|x|x|x|x|x|x|x
+Idol Rogue Mana Efficiency with Synchronised Strike|525||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Mana efficiency with Synchronised Strike|526|ADDED|AbilityProperty|0.07-0.08|0.09-0.1|0.11-0.12|0.13-0.15|0.16-0.2|0.24-0.3|0.31-0.4|x|x|x|x|x|x|x|x|x
+Idol Rogue Mana efficiency with Decoy|527||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Mana efficiency with Decoy|528|ADDED|AbilityProperty|0.07-0.08|0.09-0.1|0.11-0.12|0.13-0.15|0.16-0.2|0.24-0.3|0.31-0.4|x|x|x|x|x|x|x|x|x
+Idol Rogue Ward gained on use with Smoke Bomb|529||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Ward gained on use with Smoke Bomb|530|ADDED|AbilityProperty|25-29|30-35|36-45|46-55|56-70|90-110|111-145|x|x|x|x|x|x|x|x|x
+Idol Rogue Ward gained on use with Shift|531||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Ward gained on use with Shift|532|ADDED|AbilityProperty|16-20|21-25|26-30|31-40|41-50|65-80|81-100|x|x|x|x|x|x|x|x|x
+Idol Rogue Added Physical damage for Ballistae|535||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Rogue Increased Area of mirage attacks with Lethal Mirage|538||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Increased Minion Melee Damage|643|INCREASED|Damage|0.1-0.2|0.21-0.3|0.31-0.4|0.41-0.5|0.51-0.7|0.9-1.1|1.11-1.4|x|x|x|x|x|x|x|x|x
+Primalist Storm Crow Added Spell Damage|648|ADDED|AbilityProperty|4-5|6-7|8-9|10-11|12-14|17-20|21-25|x|x|x|x|x|x|x|x|x
+Mage Idol Cooldown Recovery Speed for Surge|651||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Leech Rate|40|ADDED|IncreasedLeechRate|0.12-0.17|0.18-0.23|0.24-0.29|0.3-0.35|0.36-0.45|0.55-0.7|0.71-1|x|x|x|x|x|x|x|x|x
+Sentinel Added Lightning Throwing Damage with Javelin|655|ADDED|AbilityProperty|6-7|8-10|11-13|14-17|18-22|29-34|35-44|x|x|x|x|x|x|x|x|x
+Sentinel Endurance While Warpathing|656|ADDED|AbilityProperty|0.07-0.1|0.11-0.14|0.15-0.18|0.19-0.23|0.24-0.3|0.3-0.3|0.3-0.3|x|x|x|x|x|x|x|x|x
+Idol Mage Added Static Orb Tendrils|657||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Percent Missing Health Restored On Lunge|658||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Chance For Additional Multistrike Swords|659||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Primalist Armour Shred Chance for Locusts|663|ADDED|AbilityProperty|0.14-0.19|0.2-0.27|0.28-0.35|0.36-0.45|0.46-0.6|0.75-0.9|0.91-1.2|x|x|x|x|x|x|x|x|x
+Primalist Upheaval Shockwave Chance|665|ADDED|AbilityProperty|0.14-0.19|0.2-0.25|0.26-0.32|0.33-0.39|0.4-0.6|0.76-0.87|0.88-1|x|x|x|x|x|x|x|x|x
+Primalist Attack and Cast Speed for Summoned Vines|666|ADDED|AbilityProperty|0.07-0.09|0.1-0.12|0.13-0.16|0.17-0.2|0.21-0.26|0.33-0.39|0.4-0.5|x|x|x|x|x|x|x|x|x
+Primalist Critical Strike Chance with Rampage|667|ADDED|AbilityProperty|0.03-0.03|0.04-0.04|0.05-0.05|0.06-0.06|0.07-0.08|0.1-0.11|0.12-0.15|x|x|x|x|x|x|x|x|x
+Idol Rogue Increased Umbral Blades Damage per stack of Dusk Shroud|668||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Increased Area for Area Skills|101|ADDED|IncreasedAreaForAreaSkills|0.06-0.07|0.08-0.09|0.1-0.12|0.13-0.15|0.16-0.2|0.25-0.29|0.3-0.34|x|x|x|x|x|x|x|x|x
+Added Bow Lightning Damage|669|ADDED|Damage|2-3|4-5|6-7|8-9|10-12|15-19|20-24|x|x|x|x|x|x|x|x|x
+Added Bow Cold Damage|670|ADDED|Damage|2-3|4-5|6-7|8-9|10-12|15-19|20-24|x|x|x|x|x|x|x|x|x
+Area for Melee Area Skills|671|ADDED|IncreasedAreaForAreaSkills|0.08-0.1|0.11-0.14|0.15-0.19|0.2-0.24|0.25-0.32|0.38-0.45|0.46-0.55|x|x|x|x|x|x|x|x|x
+Extra Potion Slot And Potion Health|82|ADDED|PotionSlots|1-1|1-1|1-1|1-1|1-1|2-2|3-3|ADDED|PotionHealth|10-20|21-35|36-50|51-70|71-100|125-160|161-200
+Freeze Rate Multiplier and Cold Resistance|14|ADDED|FreezeRateMultiplier|0.2-0.4|0.41-0.65|0.66-1|1.01-1.4|1.41-1.8|2.2-2.7|2.71-3.5|ADDED|ColdResistance|0.05-0.05|0.06-0.06|0.07-0.07|0.08-0.08|0.09-0.1|0.12-0.14|0.15-0.18
+Hybrid Stun Avoidance|29|ADDED|StunAvoidance|20-40|41-80|81-140|141-210|211-300|400-500|501-650|INCREASED|StunAvoidance|0.06-0.08|0.09-0.11|0.12-0.15|0.16-0.19|0.2-0.25|0.3-0.37|0.38-0.5
+Lightning Damage And Leech|42|ADDED|Damage|3-4|5-6|7-8|9-11|12-15|19-24|25-30|ADDED|HealthLeech|0.03-0.04|0.05-0.06|0.07-0.08|0.09-0.11|0.12-0.15|0.18-0.23|0.24-0.3
+Spell Damage and Reduced Mana Cost|506|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.5|0.6-0.75|0.76-1|ADDED|ManaCost|-3--3|-3--3|-3--3|-3--3|-3--3|-4--4|-5--5
+Throwing Damage and Reduced Mana Cost|507|ADDED|Damage|3-4|5-6|7-8|9-10|11-13|17-21|22-26|ADDED|ManaCost|-3--3|-3--3|-3--3|-3--3|-3--3|-4--4|-5--5
+Idol Mage Increased Mana And Armor|129||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Shared Melee Bleed Chance|160||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Shared Bleed Duration|161||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Shared Crit Avoidance|162||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Shared Increased Critical Strike Chance With Lightning Skills|168||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Increased Cold And Lightning Damage|169||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Shared Increased Spell Damage|170||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Shared Increased Melee Damage|171||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Increased Physical And Poison Damage|172||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Primalist Shared Increased Damage Over Time|173||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Increased Ignite And Spreading Flames Duration|167||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Shared Damage Reflect|210||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Less Health Regen And Damage Taken Over Time|267||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Plague Chance And Penetration|291||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Shared Increased Critical Strike Chance|297||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Critical Strike Multiplier With Rive And Judgement|305||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Increased Area With Rive And Forge Strike|306||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Sentinel Increased Damage With Vengeance And Smite|307||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Increased Marrow Shards And Bone Nova Projectile Speed|302||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Increased Damage With Rip Blood And Blood Splatter|312||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Critical Strike Chance For Skeletons And Skeletal Mages|313||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Acolyte Damage Reflected For Skeletons And Skeletal Mages|314||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Shared Physical Damage|319||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Shared Lightning Damage|320||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Shared Cold Damage|321||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Shared Fire Damage|322||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Shared Void Damage|323||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Shared Necrotic Damage|324||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Shared Poison Damage|325||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Mage Increased Volcanic Orb Damage And Reduced Speed|246||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Hybrid Health|36|ADDED|Health|14-21|22-29|30-37|38-45|46-68|85-105|106-135|INCREASED|Health|0.03-0.03|0.03-0.03|0.04-0.04|0.04-0.04|0.05-0.05|0.06-0.07|0.08-0.1
+Primalist Armour And Minion Armour|332|ADDED|Armour|40-59|60-79|80-99|100-119|120-150|190-230|231-300|ADDED|Armour|40-59|60-79|80-99|100-119|120-150|190-230|231-300
+Primalist Shared Lightning Damage|333|INCREASED|Damage|0.25-0.27|0.28-0.3|0.31-0.33|0.34-0.36|0.37-0.5|0.6-0.75|0.76-1|INCREASED|Damage|0.25-0.27|0.28-0.3|0.31-0.33|0.34-0.36|0.37-0.5|0.6-0.75|0.76-1
+Primalist Shared Cold Damage|340|INCREASED|Damage|0.25-0.27|0.28-0.3|0.31-0.33|0.34-0.36|0.37-0.5|0.6-0.75|0.76-1|INCREASED|Damage|0.25-0.27|0.28-0.3|0.31-0.33|0.34-0.36|0.37-0.5|0.6-0.75|0.76-1
+Primalist Shared Bleed Duration|343|ADDED|IncreasedAilmentDuration|0.18-0.19|0.2-0.21|0.22-0.23|0.24-0.25|0.26-0.35|0.44-0.55|0.56-0.7|ADDED|IncreasedAilmentDuration|0.18-0.19|0.2-0.21|0.22-0.23|0.24-0.25|0.26-0.35|0.44-0.55|0.56-0.7
+Primalist Shared Increased Spell Damage|344|INCREASED|Damage|0.25-0.27|0.28-0.3|0.31-0.33|0.34-0.36|0.37-0.5|0.6-0.75|0.76-1|INCREASED|Damage|0.25-0.27|0.28-0.3|0.31-0.33|0.34-0.36|0.37-0.5|0.6-0.75|0.76-1
+Primalist Shared Increased Melee Damage|345|INCREASED|Damage|0.25-0.27|0.28-0.3|0.31-0.33|0.34-0.36|0.37-0.5|0.6-0.75|0.76-1|INCREASED|Damage|0.25-0.27|0.28-0.3|0.31-0.33|0.34-0.36|0.37-0.5|0.6-0.75|0.76-1
+Sentinel Increased Physical Damage And Bleed Duration|360|INCREASED|Damage|0.25-0.28|0.29-0.32|0.33-0.36|0.37-0.4|0.41-0.5|0.6-0.7|0.71-0.9|ADDED|IncreasedAilmentDuration|0.15-0.15|0.16-0.16|0.17-0.18|0.19-0.2|0.21-0.24|0.28-0.34|0.35-0.42
+Sentinel Increased Fire Damage And Ignite Duration|361|INCREASED|Damage|0.25-0.28|0.29-0.32|0.33-0.36|0.37-0.4|0.41-0.5|0.6-0.7|0.71-0.9|ADDED|IncreasedAilmentDuration|0.15-0.15|0.16-0.16|0.17-0.18|0.19-0.2|0.21-0.24|0.28-0.34|0.35-0.42
+Sentinel Increased Void Damage And Added Spell Void Damage|362|INCREASED|Damage|0.3-0.33|0.34-0.37|0.38-0.41|0.42-0.46|0.47-0.6|0.7-0.85|0.86-1.1|ADDED|Damage|4-4|4-4|5-5|5-5|6-7|9-11|12-14
+Flame Ward Charge and Added Ward|397|ADDED|AbilityProperty|20-21|22-23|24-26|27-30|31-38|60-75|76-100|ADDED|AbilityProperty|1-1|1-1|1-1|1-1|1-1|1-1|1-1
+Acolyte Shared Increased Fire Damage|404|INCREASED|Damage|0.3-0.33|0.34-0.37|0.38-0.41|0.42-0.46|0.47-0.6|0.7-0.85|0.86-1.1|INCREASED|Damage|0.3-0.33|0.34-0.37|0.38-0.41|0.42-0.46|0.47-0.6|0.7-0.85|0.86-1.1
+Acolyte Shared Increased Necrotic Damage|405|INCREASED|Damage|0.25-0.27|0.28-0.3|0.31-0.33|0.34-0.36|0.37-0.5|0.6-0.75|0.76-1|INCREASED|Damage|0.25-0.27|0.28-0.3|0.31-0.33|0.34-0.36|0.37-0.5|0.6-0.75|0.76-1
+Acolyte Shared Bleed Chance|406|ADDED|AilmentChance|0.2-0.23|0.24-0.27|0.28-0.31|0.32-0.35|0.36-0.45|0.55-0.65|0.66-0.85|ADDED|AilmentChance|0.2-0.23|0.24-0.27|0.28-0.31|0.32-0.35|0.36-0.45|0.55-0.65|0.66-0.85
+Acolyte Shared Increased Bleed Duration|407|ADDED|IncreasedAilmentDuration|0.16-0.17|0.18-0.19|0.2-0.21|0.22-0.23|0.24-0.28|0.34-0.4|0.41-0.5|ADDED|IncreasedAilmentDuration|0.16-0.17|0.18-0.19|0.2-0.21|0.22-0.23|0.24-0.28|0.34-0.4|0.41-0.5
+Acolyte Shared Physical Penetration With Bleed|408|ADDED|IncreasedAilmentEffect|0.12-0.13|0.14-0.15|0.16-0.17|0.18-0.19|0.2-0.23|0.28-0.34|0.35-0.42|ADDED|IncreasedAilmentEffect|0.12-0.13|0.14-0.15|0.16-0.17|0.18-0.19|0.2-0.23|0.28-0.34|0.35-0.42
+Acolyte Shared Physical Leech|409|ADDED|HealthLeech|0.06-0.07|0.08-0.09|0.1-0.11|0.12-0.13|0.14-0.18|0.22-0.28|0.29-0.36|ADDED|HealthLeech|0.06-0.07|0.08-0.09|0.1-0.11|0.12-0.13|0.14-0.18|0.22-0.28|0.29-0.36
+Acolyte Poison Damage And Poison Resistance|414|INCREASED|Damage|0.25-0.27|0.28-0.3|0.31-0.33|0.34-0.36|0.37-0.5|0.6-0.75|0.76-1|ADDED|PoisonResistance|0.1-0.11|0.12-0.14|0.15-0.17|0.18-0.2|0.21-0.25|0.28-0.32|0.33-0.4
+Acolyte Shared Increased Crit Chance|416|INCREASED|CriticalChance|0.4-0.45|0.46-0.51|0.52-0.57|0.58-0.63|0.64-0.8|1-1.2|1.21-1.5|INCREASED|CriticalChance|0.4-0.45|0.46-0.51|0.52-0.57|0.58-0.63|0.64-0.8|1-1.2|1.21-1.5
+Acolyte Increased Projectile Speed With Marrow Shards And Bone Nova|417|ADDED|AbilityProperty|0.12-0.13|0.14-0.15|0.16-0.17|0.18-0.19|0.2-0.25|0.3-0.36|0.37-0.46|ADDED|AbilityProperty|0.12-0.13|0.14-0.15|0.16-0.17|0.18-0.19|0.2-0.25|0.3-0.36|0.37-0.46
+Acolyte Increased Damage With Rip Blood And Blood Splatter|418|ADDED|AbilityProperty|0.3-0.34|0.35-0.42|0.43-0.5|0.51-0.59|0.6-0.75|0.9-1.1|1.11-1.4|ADDED|AbilityProperty|0.3-0.34|0.35-0.42|0.43-0.5|0.51-0.59|0.6-0.75|0.9-1.1|1.11-1.4
+Acolyte Critical Strike Chance For Skeletons And Skeletal Mages|419|ADDED|AbilityProperty|0.01-0.01|0.02-0.02|0.03-0.03|0.03-0.03|0.04-0.05|0.07-0.08|0.09-0.1|ADDED|AbilityProperty|0.01-0.01|0.02-0.02|0.02-0.02|0.03-0.03|0.04-0.05|0.07-0.08|0.09-0.1
+Acolyte +1 Skeleton and Increased Skeleton Damage|192|ADDED|AbilityProperty|1-1|1-1|1-1|1-1|1-1|1-1|1-1|ADDED|AbilityProperty|0.1-0.14|0.15-0.19|0.2-0.24|0.25-0.29|0.3-0.5|0.75-0.9|0.91-1.2
+Idol Rogue Black Arrows dropped by Dark Quiver and Increased Bow Damage|533||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Black Arrows dropped by Dark Quiver and Increased Bow Damage|534|ADDED|AbilityProperty|2-2|2-2|2-2|2-2|2-2|3-3|4-4|INCREASED|Damage|0.08-0.11|0.12-0.17|0.18-0.23|0.24-0.3|0.31-0.4|0.5-0.65|0.66-0.9
+Rogue Max Ballista and Increased Ballista Attack Speed|536|ADDED|AbilityProperty|1-1|1-1|1-1|1-1|1-1|2-2|2-2|ADDED|AbilityProperty|0.08-0.11|0.12-0.15|0.16-0.19|0.21-0.24|0.25-0.3|0.35-0.4|0.41-0.48
+Rogue Mirages and Mana Efficiency with Lethal Mirage|537|ADDED|AbilityProperty|1-1|1-1|1-1|1-1|1-1|2-2|2-2|ADDED|AbilityProperty|0.1-0.13|0.14-0.17|0.18-0.21|0.22-0.25|0.26-0.3|0.38-0.46|0.47-0.6
+Block Chance and Effectiveness|426|ADDED|BlockChance|0.01-0.01|0.02-0.02|0.02-0.02|0.02-0.02|0.03-0.03|0.04-0.04|0.04-0.04|ADDED|BlockEffectiveness|30-50|51-80|81-120|101-150|151-220|270-350|450-600
+Primalist Level of Swipe|539|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Primalist Level of Summon Wolf|540|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Primalist Level of Tornado|541|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Primalist Level of Fury Leap|542|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Primalist Level of Summon Thorn Totem|543|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Primalist Level of Summon Spriggan|544|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Primalist Level of Summon Frenzy Totem|545|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Health|0.1-0.2|0.21-0.4|0.41-0.6|0.61-0.8|0.81-1.2|1.42-1.6|1.61-2
+Mage Level of Elemental Nova|546|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Mage Level of Mana Strike|547|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Mage Fireball Pierce Chance|548|ADDED|AbilityProperty|0.12-0.19|0.2-0.27|0.28-0.35|0.36-0.45|0.46-0.6|0.65-0.79|0.8-1|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Mage Level of Fireball|549|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Mage Level of Glacier|550|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Mage Level of Meteor|551|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Mage Level of Teleport|552|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|ADDED|Mana|5-8|9-12|13-16|17-20|21-25|30-34|35-40
+Mage Level of Volcanic Orb|553|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Mage Level of Black Hole|554|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Primalist Level of Summon Bear|555|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Mage Level of Static Orb|556|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Mage Level of Lightning Blast|557|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Primalist Level of Serpent Strike|558|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Primalist Level of Entangling Roots|559|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Sentinel Level of Anomaly|560|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Sentinel Level of Warpath|561|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Sentinel Level of Devouring Orb|562|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Sentinel Level of Rive|563|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Sentinel Level of Hammer Throw|564|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Sentinel Level of Shield Rush|565|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Sentinel Level of Volatile Reversal|566|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Sentinel Level of Abyssal Echoes|567|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Sentinel Level of Erasing Strike|568|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Sentinel Level of Vengeance|569|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Sentinel Level of Shield Throw|570|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Acolyte Level of Summon Skeleton|572|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Acolyte Level of Infernal Shade|573|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Acolyte Level of Sacrifice|574|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Mage Level of Focus|575|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|ADDED|Mana|5-8|9-12|13-16|17-20|21-25|30-34|35-40
+Acolyte Level of Aura Of Decay|576|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|ADDED|PoisonResistance|0.03-0.06|0.07-0.11|0.12-0.17|0.18-0.23|0.24-0.3|0.4-0.5|0.51-0.6
+Acolyte Level of Hungering Souls|577|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Acolyte Level of Rip Blood|578|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Acolyte Level of Summon Wraith|579|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Acolyte Level of Summon Bone Golem|580|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|ADDED|Armour|10-30|31-80|81-160|161-320|321-500|800-1200|1201-2000
+Acolyte Level of Wandering Spirits|581|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Acolyte Level of Marrow Shards|582|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Acolyte Level of Transplant|583|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Mage Level of Flame Reave|584|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Primalist Level of Summon Storm Totem|585|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Acolyte Level of Soul Feast|586|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Mage Level of Snap Freeze|587|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|ADDED|Mana|5-8|9-12|13-16|17-20|21-25|30-34|35-40
+Sentinel Level of Lunge|588|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Sentinel Level of Rebuke|589|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Armour|0.03-0.05|0.06-0.1|0.11-0.15|0.16-0.2|0.21-0.28|0.3-0.34|0.35-0.4
+Primalist Level of Summon Sabertooth|590|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Primalist Level of Summon Scorpion|591|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Sentinel Level of Ring Of Shields|592|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Health|0.1-0.2|0.21-0.4|0.41-0.6|0.61-0.8|0.81-1.2|1.42-1.6|1.61-2
+Acolyte Level of Harvest|594|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Primalist Level of Eterra's Blessing|595|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|ADDED|Mana|8-12|13-18|19-24|25-30|31-38|45-51|52-60
+Sentinel Level of Judgement|596|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|ADDED|IncreasedHealing|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Mage Level of Shatter Strike|597|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Mage Level of Enchant Weapon|598|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Primalist Level of Avalanche|599|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Sentinel Level of Sigils Of Hope|600|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|ADDED|Mana|5-8|9-12|13-16|17-20|21-25|30-34|35-40
+Sentinel Level of Holy Aura|601|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|ADDED|Mana|5-8|9-12|13-16|17-20|21-25|30-34|35-40
+Primalist Level of Werebear Form|602|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Sentinel Level of Smite|603|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Sentinel Level of Manifest Armor|604|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Sentinel Level of Forge Strike|605|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Primalist Level of Spriggan Form|606|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Acolyte Level of Reaper Form|607|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|ADDED|Health|5-12|13-19|20-27|28-37|38-50|60-70|71-85
+Rogue Level of Acid Flask|608|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|AttackSpeed|0.03-0.04|0.05-0.06|0.07-0.09|0.1-0.12|0.13-0.16|0.2-0.24|0.25-0.3
+Rogue Level of Shadow Cascade|609|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Rogue Level of Flurry|610|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|ADDED|DodgeRating|5-12|13-19|20-27|28-37|38-50|60-70|71-85
+Rogue Level of Shurikens|611|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Rogue Level of Dancing Strikes|612|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Rogue Level of Multishot|613|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Rogue Level of Puncture|614|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Rogue Level of Decoy|615|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Rogue Level of Cinder Strike|616|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Rogue Level of Detonating Arrow|617|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Rogue Level of Hail of Arrows|618|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Rogue Level of Shift|619|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|ADDED|Mana|8-12|13-18|19-24|25-30|31-38|45-51|52-60
+Rogue Level of Synchronized Strike|620|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Primalist Level of Tempest Strike|621|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|ADDED|Mana|8-12|13-18|19-24|25-30|31-38|45-51|52-60
+Primalist Level of Ice Thorns|622|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Acolyte Level of Summon Skeletal Mage|623|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Mage Level of Static|624|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Mage Level of Disintegrate|625|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Primalist Level of Maelstrom|626|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Primalist Level of Summon Raptor|627|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Mage Level of Flame Ward|628|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|ADDED|WardRetention|0.05-0.1|0.11-0.16|0.17-0.23|0.24-0.31|0.32-0.4|0.5-0.6|0.61-0.75
+Primalist Level of Earthquake|629|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|ADDED|IncreasedStunDuration|0.03-0.05|0.06-0.08|0.09-0.12|0.13-0.16|0.17-0.22|0.25-0.3|0.31-0.4
+Mage Level of Arcane Ascendance|630|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|ADDED|Mana|8-12|13-18|19-24|25-30|31-38|45-51|52-60
+Sentinel Level of Smelter's Wrath|631|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Acolyte Level of Drain Life|632|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Acolyte Level of Assemble Abomination|633|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Health|0.1-0.2|0.21-0.4|0.41-0.6|0.61-0.8|0.81-1.2|1.42-1.6|1.61-2
+Acolyte Level of Spirit Plague|634|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Acolyte Level of Bone Curse|635|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Acolyte Level of Death Seal|636|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Mage Level of Ice Barrage|637|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|ADDED|FreezeRateMultiplier|0.15-0.25|0.26-0.4|0.41-0.65|0.66-1|1.01-1.4|1.5-2|2.01-2.6
+Rogue Level of Dark Quiver|638|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|ADDED|Mana|5-8|9-12|13-16|17-20|21-25|26-32|33-40
+Sentinel Level of Shield Bash|639|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Acolyte Level of Dread Shade|571|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|ADDED|Mana|8-12|13-18|19-24|25-30|31-38|45-51|52-60
+Mage Level of Firebrand|593|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Rogue Level of Ballista|640|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|ADDED|AbilityProperty|0.03-0.05|0.06-0.08|0.09-0.12|0.13-0.16|0.17-0.2|0.21-0.24|0.25-0.3
+Rogue Level of Lethal Mirage|641|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Rogue Level of Smoke Bomb|642|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|ADDED|Mana|8-12|13-18|19-24|25-30|31-38|45-51|52-60
+Primalist Level of Warcry|644|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|ADDED|EnduranceThreshold|10-20|21-32|33-45|46-60|61-75|90-115|116-150
+Mage Level of Surge|645|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Primalist Level of Summon Storm Crow|646|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Acolyte Level of Summon Volatile Zombie|647|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Acolyte Volatile Zombie Speed and Damage|649|ADDED|AbilityProperty|0.13-0.16|0.17-0.2|0.21-0.24|0.26-0.29|0.3-0.35|0.4-0.5|0.51-0.65|ADDED|AbilityProperty|0.3-0.39|0.4-0.5|0.51-0.64|0.65-0.8|0.81-1|1.31-1.6|1.61-2
+Acolyte Volatile Zombie Damage and Explosion Area|650||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Freeze Rate and Freezing Concoction on Potion Use|67|ADDED|FreezeRateMultiplier|0.2-0.35|0.36-0.6|0.61-0.9|0.91-1.3|1.31-1.8|2.3-3|3.01-4|ADDED|PlayerProperty|1-1|1-1|1-1|1-1|1-1|1-1|1-1
+Ward and Ailment Cleansing on Potion Use|75|ADDED|WardOnPotionUse|20-30|31-40|51-60|61-75|76-100|130-170|171-220|ADDED|PlayerProperty|1-1|1-1|1-1|1-1|1-1|1-1|1-1
+Sentinel Level of Multistrike|652|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Sentinel Level of Void Cleave|653|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Sentinel Level of Javelin|654|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Primalist Level of Swarmblade Form|660|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Primalist Level of Upheaval|661|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.08-0.15|0.16-0.3|0.31-0.45|0.46-0.6|0.61-0.9|1.06-1.2|1.21-1.5
+Rogue Level of Umbral Blades|662|ADDED|LevelOfSkills|1-1|1-1|1-1|1-1|2-2|3-3|4-4|INCREASED|Damage|0.05-0.1|0.11-0.2|0.21-0.3|0.31-0.4|0.41-0.6|0.71-0.8|0.81-1
+Idol Primalist Melee Physical Damage For Swarm Strike and Locusts|664||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Idol Rogue Lightning Damage with Shurikens|518||x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x|x
+Rogue Lightning Damage with Shurikens|519|ADDED|AbilityProperty|6-8|9-11|12-15|16-19|20-27|32-37|38-44|ADDED|AbilityProperty|0.5-0.51|0.52-0.53|0.54-0.55|0.56-0.57|0.58-0.6|0.61-0.62|0.63-0.64
+Crit Chance and Bow Attack Speed|672|ADDED|CriticalChance|0.01-0.01|0.02-0.02|0.03-0.03|0.04-0.04|0.05-0.05|0.07-0.08|0.09-0.1|INCREASED|AttackSpeed|0.03-0.04|0.05-0.06|0.07-0.08|0.09-0.11|0.12-0.16|0.19-0.23|0.24-0.28

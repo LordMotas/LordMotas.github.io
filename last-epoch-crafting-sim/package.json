@@ -1,0 +1,25 @@
+{
+  "name": "last-epoch-crafting-sim",
+  "version": "1.0.0",
+  "description": "A crafting simulator inspired by Last Epoch.",
+  "main": "src/scripts/main.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "lite-server",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "crafting",
+    "simulator",
+    "last epoch",
+    "game"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}

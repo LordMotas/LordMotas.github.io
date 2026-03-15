@@ -1,0 +1,637 @@
+BaseTypeID|BaseTypeName|subTypeID|subTypeName|isWeapon|levelReq|classReq|attackRate|cannotDrop|ImplicitNames|ImplicitsMin|ImplicitsMax
+0|Helmets|0|Mercenary Helmet|False|0|None|1|True|ADDED,None,Armour|14|14
+0|Helmets|1|Leather Helmet|False|7|None|1|True|ADDED,None,Armour;ADDED,None,Mana;INCREASED,Spell,Damage|5;10;0.05|5;35;0.25
+0|Helmets|2|Iron Helmet|False|10|None|1|True|ADDED,None,Armour|40|40
+0|Helmets|3|Fur Helmet|False|20|None|1|True|ADDED,None,Armour;INCREASED,None,HealthRegen|35;0.05|35;0.15
+0|Helmets|4|Dome Helmet|False|24|None|1|True|ADDED,None,Armour|50|50
+0|Helmets|5|Bronze Helmet|False|39|None|1|True|ADDED,None,Armour|75|75
+0|Helmets|6|Secutor Helmet|False|65|None|1|True|ADDED,None,Armour|130|130
+0|Helmets|7|Fur Helmet|False|35|None|1|True|ADDED,None,Armour|50|50
+0|Helmets|8|Outcast Cage|False|0|Acolyte|1|False|ADDED,None,Armour|7|7
+0|Helmets|9|Bone Mask|False|5|Acolyte|1|False|ADDED,None,Armour;ADDED,None,PoisonResistance|13;0.05|13;0.19
+0|Helmets|10|Skull Cage|False|17|Acolyte|1|False|ADDED,None,Armour;INCREASED,Spell,Damage|9;0.13|9;0.3
+0|Helmets|11|Death Mask|False|29|Acolyte|1|False|ADDED,None,Armour|91|91
+0|Helmets|12|Heretic Cowl|False|46|Acolyte|1|False|ADDED,None,Armour;INCREASED,None,CriticalChance;INCREASED,Minion,CriticalChance|61;0.16;0.16|61;0.31;0.31
+0|Helmets|13|Burial Mask|False|57|Acolyte|1|False|ADDED,None,Armour;ADDED,None,WardRetention|113;0.13|113;0.51
+0|Helmets|14|Profane Helm|False|66|Acolyte|1|False|ADDED,None,Armour;ADDED,None,IncreasedAreaForAreaSkills;ADDED,Minion,IncreasedAreaForAreaSkills|89;0.09;0.09|89;0.23;0.23
+0|Helmets|15|Revenant Mask|False|70|Acolyte|1|False|ADDED,None,Armour;ADDED,Spell, Minion,Damage|103;10|103;15
+0|Helmets|16|Copper Circlet|False|0|Mage|1|False|ADDED,None,Armour|8|8
+0|Helmets|17|Adept Helm|False|4|Mage|1|False|ADDED,None,Armour|20|20
+0|Helmets|18|Weathered Crown|False|14|Mage|1|False|ADDED,None,Armour;ADDED,None,Mana|14;14|14;40
+0|Helmets|19|Lunar Helm|False|29|Mage|1|False|ADDED,None,Armour;ADDED,None,WardRegen|48;4|48;8
+0|Helmets|20|Gilded Crown|False|42|Mage|1|False|ADDED,None,Armour;INCREASED,Elemental,Damage|36;0.18|36;0.42
+0|Helmets|21|Mystic Helm|False|52|Mage|1|False|ADDED,None,Armour;ADDED,None,CritAvoidance|124;0.2|124;0.4
+0|Helmets|22|Runed Visage|False|60|Mage|1|False|ADDED,None,Armour;ADDED,None,ManaSpentGainedAsWard;INCREASED,None,ManaRegen|70;0.27;0.12|70;0.7;0.27
+0|Helmets|23|Celestial Helm|False|72|Mage|1|False|ADDED,None,Armour;INCREASED,None,CriticalChance|106;0.4|106;0.72
+0|Helmets|24|Oak Helm|False|0|Primalist|1|False|ADDED,None,Armour|12|12
+0|Helmets|25|Wolf Pelt|False|12|Primalist|1|False|ADDED,None,Armour;ADDED,None,Strength|16;1|16;3
+0|Helmets|26|Forest Cowl|False|22|Primalist|1|False|ADDED,None,Armour;ADDED,None,PoisonResistance|32;0.1|32;0.22
+0|Helmets|27|Kolheim Cowl|False|30|Primalist|1|False|ADDED,None,Armour;ADDED,None,FireResistance|72;0.12|72;0.3
+0|Helmets|28|Horned Cowl|False|44|Primalist|1|False|ADDED,None,Armour;INCREASED,None,HealthRegen;INCREASED,None,ManaRegen|54;0.1;0.1|54;0.2;0.2
+0|Helmets|29|Icewolf Pelt|False|58|Primalist|1|False|ADDED,None,Armour;ADDED,None,ColdResistance;ADDED,None,FreezeRateMultiplier|84;0.32;1.04|84;0.44;2.08
+0|Helmets|30|Darkwolf Pelt|False|58|Primalist|1|False|ADDED,None,Armour;INCREASED,Physical,Damage;INCREASED,Physical, Minion,Damage|84;0.32;0.32|84;0.64;0.64
+0|Helmets|31|Greatwood Visage|False|64|Primalist|1|False|ADDED,None,Armour;ADDED,None,Mana;INCREASED,None,ManaRegen|142;24;0.14|142;64;0.32
+0|Helmets|32|Battered Helm|False|0|Sentinel|1|False|ADDED,None,Armour|30|30
+0|Helmets|33|Infantry Helm|False|4|Sentinel|1|False|ADDED,None,Armour|40|40
+0|Helmets|34|Iron Visor|False|13|Sentinel|1|False|ADDED,None,Armour;ADDED,None,IncreasedStunChance|45;0.1|45;0.25
+0|Helmets|35|Full Helm|False|28|Sentinel|1|False|ADDED,None,Armour|95|95
+0|Helmets|36|Winged Helm|False|42|Sentinel|1|False|ADDED,None,Armour;INCREASED,None,Movespeed|110;0.05|110;0.08
+0|Helmets|37|Myrmidon Helm|False|60|Sentinel|1|False|ADDED,None,Armour;ADDED,None,CriticalMultiplier|150;0.1|150;0.25
+0|Helmets|38|Augury Helm|False|68|Sentinel|1|False|ADDED,None,Armour;ADDED,None,IncreasedCooldownRecoverySpeed;ADDED,None,VoidResistance|225;0.05;0.1|225;0.1;0.25
+0|Helmets|39|Dawn Helm|False|75|Sentinel|1|False|ADDED,None,Armour|400|400
+0|Helmets|40|Arcane Visage|False|77|Mage|1|False|ADDED,None,Armour;ADDED,None,IncreasedCooldownRecoverySpeed;INCREASED,None,Mana|117;0.07;0.07|117;0.14;0.14
+0|Helmets|41|Ancestral Crown|False|76|Primalist|1|False|ADDED,None,Armour;INCREASED,None,Health;ADDED,None,HealthLeech|124;0.06;0.2|124;0.12;0.3
+0|Helmets|42|Cloth Hood|False|0|Rogue|1|False|ADDED,None,Armour|14|14
+0|Helmets|43|Bandit Helm|False|5|Rogue|1|False|ADDED,None,Armour|32|32
+0|Helmets|44|Leather Mask|False|20|Rogue|1|False|ADDED,None,Armour;ADDED,None,PoisonResistance|16;0.16|16;0.32
+0|Helmets|45|Outcast Hat|False|32|Rogue|1|False|ADDED,None,Armour;INCREASED,Bow,AttackSpeed;INCREASED,Throwing,AttackSpeed|27;0.05;0.05|27;0.07;0.07
+0|Helmets|46|Kelthan Mask|False|38|Rogue|1|False|ADDED,None,Armour;ADDED,None,ElementalResistance|21;0.05|21;0.09
+0|Helmets|47|Scalebane Grimace|False|53|Rogue|1|False|ADDED,None,Armour;ADDED,None,HealthLeech|81;0.1|81;0.2
+0|Helmets|48|Exile Hat|False|65|Rogue|1|False|ADDED,None,Armour;INCREASED,Bow,Damage;INCREASED,Throwing,Damage|65;0.35;0.35|65;0.65;0.65
+0|Helmets|49|Umbral Visage|False|71|Rogue|1|False|ADDED,None,Armour;ADDED,None,CriticalMultiplier|95;0.15|95;0.25
+0|Helmets|50|Gorgonscale Coif|False|79|Rogue|1|False|ADDED,None,Armour;ADDED,None,IncreasedCooldownRecoverySpeed;ADDED,None,IncreasedStunChance|112;0.05;0.12|112;0.12;0.56
+0|Helmets|51|Immortal Crown|False|75|Acolyte|1|False|ADDED,None,Armour;ADDED,None,IncreasedCooldownRecoverySpeed;ADDED,Minion,IncreasedCooldownRecoverySpeed|117;0.07;0.13|117;0.13;0.23
+0|Helmets|52|Solarum Helm|False|80|Sentinel|1|False|ADDED,None,Armour;ADDED,None,EnduranceThreshold;INCREASED,Fire,Damage|275;15;0.15|275;50;0.5
+1|Body Armor|0|Mercenary Armor|False|0|None|1|True|ADDED,None,Armour|20|20
+1|Body Armor|1|Leather Coat|False|5|None|1|True|ADDED,None,Armour|25|25
+1|Body Armor|2|Iron Armor|False|15|None|1|True|ADDED,None,Armour|50|50
+1|Body Armor|3|Red Leather Armor|False|23|None|1|True|ADDED,None,Armour;ADDED,Spell,Damage|32;2|32;7
+1|Body Armor|4|Banded Armor|False|27|None|1|True|ADDED,None,Armour|85|85
+1|Body Armor|5|Copper Armor|False|41|None|1|True|ADDED,None,Armour;ADDED,None,LightningResistance|114;0.05|114;0.14
+1|Body Armor|6|Secutor Armor|False|60|None|1|True|ADDED,None,Armour|220|220
+1|Body Armor|7|Fur Armour|False|35|None|1|True|ADDED,None,Armour;ADDED,None,IncreasedHealing|74;0.05|74;0.6
+1|Body Armor|8|Outcast Rags|False|0|Acolyte|1|False|ADDED,None,Armour|17|17
+1|Body Armor|9|Coven Garb|False|5|Acolyte|1|False|ADDED,None,Armour;ADDED,None,Mana|23;11|23;29
+1|Body Armor|10|Witch Robes|False|14|Acolyte|1|False|ADDED,None,Armour;INCREASED,None,CastSpeed|31;0.03|31;0.13
+1|Body Armor|11|Ribbed Cuirass|False|31|Acolyte|1|False|ADDED,None,Armour|131|131
+1|Body Armor|12|Heretic Robes|False|43|Acolyte|1|False|ADDED,None,Armour;INCREASED,None,ManaRegen|66;0.11|66;0.19
+1|Body Armor|13|Burial Plate|False|57|Acolyte|1|False|ADDED,None,Armour;ADDED,None,ColdResistance|157;0.31|157;0.47
+1|Body Armor|14|Profane Regalia|False|63|Acolyte|1|False|ADDED,None,Armour;ADDED,None,HealthLeech;ADDED,Minion,HealthLeech|116;0.1;0.1|116;0.2;0.2
+1|Body Armor|15|Revenant Plate|False|71|Acolyte|1|False|ADDED,None,Armour;ADDED,None,Endurance|179;0.11|179;0.15
+1|Body Armor|16|Traveling Coat|False|0|Mage|1|False|ADDED,None,Armour|24|24
+1|Body Armor|17|Adept Robes|False|5|Mage|1|False|ADDED,None,Armour;INCREASED,Elemental,Damage|18;0.06|18;0.18
+1|Body Armor|18|Temple Garb|False|18|Mage|1|False|ADDED,None,Armour;INCREASED,None,ManaRegen|42;0.06|42;0.18
+1|Body Armor|19|Lunar Raiment|False|27|Mage|1|False|ADDED,None,Armour;ADDED,None,ElementalResistance|70;0.05|70;0.14
+1|Body Armor|20|Opulent Robes|False|40|Mage|1|False|ADDED,None,Armour;ADDED,None,Mana;INCREASED,None,CastSpeed|64;12;0.06|64;48;0.1
+1|Body Armor|21|Mystic Plate|False|52|Mage|1|False|ADDED,None,Armour;ADDED,None,CritAvoidance|204;0.2|204;0.4
+1|Body Armor|22|Vulkaur Regalia|False|64|Mage|1|False|ADDED,None,Armour;ADDED,None,ManaSpentGainedAsWard;ADDED,None,WardRetention|170;0.27;0.12|170;0.7;0.27
+1|Body Armor|23|Celestial Raiment|False|73|Mage|1|False|ADDED,None,Armour;ADDED,None,CriticalMultiplier;ADDED,None,FreezeRateMultiplier|145;0.15;0.75|145;0.3;2.15
+1|Body Armor|24|Hide Armor|False|0|Primalist|1|False|ADDED,None,Armour|20|20
+1|Body Armor|25|Oak Armor|False|4|Primalist|1|False|ADDED,None,Armour|32|32
+1|Body Armor|26|Forest Garb|False|16|Primalist|1|False|ADDED,None,Armour;ADDED,None,Attunement|42;1|42;4
+1|Body Armor|27|Icewolf Garb|False|30|Primalist|1|False|ADDED,None,Armour;ADDED,None,ColdResistance|78;0.14|78;0.28
+1|Body Armor|28|Nomad Garb|False|40|Primalist|1|False|ADDED,None,Armour;ADDED,None,HealthRegen|102;4|102;8
+1|Body Armor|29|Kolheim Armor|False|46|Primalist|1|False|ADDED,None,Armour;ADDED,None,PhysicalResistance|180;0.32|180;0.46
+1|Body Armor|30|Wild Armor|False|62|Primalist|1|False|ADDED,None,Armour;INCREASED,None,Movespeed|156;0.05|156;0.1
+1|Body Armor|31|Greatwood Coat|False|67|Primalist|1|False|ADDED,None,Armour;ADDED,Spell,Damage;ADDED,Spell, Minion,Damage|164;6;6|164;14;14
+1|Body Armor|32|Worn Plate|False|0|Sentinel|1|False|ADDED,None,Armour|45|45
+1|Body Armor|33|Infantry Hauberk|False|5|Sentinel|1|False|ADDED,None,Armour|65|65
+1|Body Armor|34|Iron Plate|False|15|Sentinel|1|False|ADDED,None,Armour;ADDED,None,ColdResistance|100;0.05|100;0.15
+1|Body Armor|35|Full Plate|False|28|Sentinel|1|False|ADDED,None,Armour|145|145
+1|Body Armor|36|Noble Plate|False|42|Sentinel|1|False|ADDED,None,Armour;ADDED,None,LightningResistance|180;0.1|180;0.25
+1|Body Armor|37|Myrmidon Plate|False|60|Sentinel|1|False|ADDED,None,Armour;INCREASED,None,CriticalChance|240;0.2|240;0.6
+1|Body Armor|38|Augury Plate|False|70|Sentinel|1|False|ADDED,None,Armour;INCREASED,None,ManaRegen|350;0.1|350;0.25
+1|Body Armor|39|Dawn Plate|False|76|Sentinel|1|False|ADDED,None,Armour|550|550
+1|Body Armor|40|Solarum Plate|False|80|Sentinel|1|False|ADDED,None,Armour;ADDED,None,Endurance;INCREASED,Fire,Damage|310;0.1;0.15|310;0.15;0.5
+1|Body Armor|41|Arcane Regalia|False|77|Mage|1|False|ADDED,None,Armour;INCREASED,None,Mana;INCREASED,None,ManaRegen|196;0.07;0.14|196;0.14;0.35
+1|Body Armor|42|Ancestral Garb|False|76|Primalist|1|False|ADDED,None,Armour;INCREASED,None,Health;ADDED,None,IncreasedCooldownRecoverySpeed|172;0.06;0.06|172;0.12;0.12
+1|Body Armor|43|Cloth Armour|False|0|Rogue|1|False|ADDED,None,Armour|24|24
+1|Body Armor|44|Bandit Garb|False|4|Rogue|1|False|ADDED,None,Armour;INCREASED,Physical,Damage|30;0.1|30;0.18
+1|Body Armor|45|Leather Hauberk|False|17|Rogue|1|False|ADDED,None,Armour|52|52
+1|Body Armor|46|Outcast Coat|False|26|Rogue|1|False|ADDED,None,Armour;INCREASED,None,ManaRegen|42;0.12|42;0.2
+1|Body Armor|47|Boiled Leather|False|38|Rogue|1|False|ADDED,None,Armour;ADDED,None,Endurance|84;0.05|84;0.08
+1|Body Armor|48|Scalebane Coat|False|50|Rogue|1|False|ADDED,None,Armour;ADDED,None,PoisonResistance;INCREASED,DoT,Damage|114;0.31;0.31|114;0.43;0.43
+1|Body Armor|49|Exile Coat|False|58|Rogue|1|False|ADDED,None,Armour;INCREASED,None,CriticalChance;INCREASED,None,DodgeRating|94;0.14;0.14|94;0.34;0.34
+1|Body Armor|50|Brigandine Armour|False|68|Rogue|1|False|ADDED,None,Armour;ADDED,None,PhysicalResistance|204;0.32|204;0.44
+1|Body Armor|51|Gorgonscale Coat|False|80|Rogue|1|False|ADDED,None,Armour;ADDED,None,CritAvoidance;ADDED,None,LightningResistance|180;0.25;0.38|180;0.38;0.45
+1|Body Armor|52|Immortal Regalia|False|79|Acolyte|1|False|ADDED,None,Armour;ADDED,None,AllResistances;ADDED,Minion,AllResistances|149;0.07;0.07|149;0.13;0.13
+2|Belts|0|Mercenary Belt|False|0|None|1|False|ADDED,None,PotionSlots|3|3
+2|Belts|1|Leather Belt|False|14|None|1|False|ADDED,None,PotionSlots|4|4
+2|Belts|2|Iron Belt|False|19|None|1|False|ADDED,None,Armour;ADDED,None,PotionSlots|50;3|100;3
+2|Belts|3|Traveller Belt|False|0|None|1|True|ADDED,None,PotionSlots|2|2
+2|Belts|4|Bronze Belt|False|44|None|1|False|ADDED,None,Armour;ADDED,None,PotionSlots|50;4|100;4
+2|Belts|5|Secutor Belt|False|60|None|1|False|ADDED,None,PotionSlots|5|5
+2|Belts|6|Noble Sash|False|32|None|1|False|ADDED,None,Mana;ADDED,None,PotionSlots|5;3|20;3
+3|Boots|0|Hide Boots|False|0|None|1|False|ADDED,None,Armour;INCREASED,None,Movespeed|5;0.04|5;0.07
+3|Boots|1|Leather Boots|False|8|None|1|False|ADDED,None,Armour;INCREASED,None,Movespeed|15;0.07|15;0.09
+3|Boots|2|Iron Boots|False|16|None|1|False|ADDED,None,Armour;INCREASED,None,Movespeed|35;0.07|35;0.09
+3|Boots|3|Outcast Boots|False|23|None|1|False|ADDED,None,Armour;INCREASED,None,Movespeed;INCREASED,None,DodgeRating|20;0.1;0.1|20;0.12;0.2
+3|Boots|4|Brigandine Boots|False|30|None|1|False|ADDED,None,Armour;INCREASED,None,Movespeed|53;0.13|53;0.15
+3|Boots|5|Heoborean Boots|False|45|None|1|False|ADDED,None,Armour;INCREASED,None,Movespeed;ADDED,None,ColdResistance|30;0.15;0.1|30;0.18;0.4
+3|Boots|6|Solarum Greaves|False|67|None|1|False|ADDED,None,Armour;INCREASED,None,Movespeed;ADDED,None,FireResistance|90;0.15;0.3|90;0.18;0.45
+3|Boots|7|Worn Boots|False|0|None|1|True|INCREASED,None,Movespeed|0.05|0.05
+3|Boots|8|Shrine Boots|False|58|None|1|False|ADDED,None,Armour;INCREASED,None,Movespeed;INCREASED,None,ReceivedStunDuration|8;0.15;-0.1|8;0.18;-0.2
+3|Boots|9|Arcane Boots|False|60|None|1|False|ADDED,None,Armour;INCREASED,None,Movespeed;ADDED,None,WardRetention|8;0.15;0.1|8;0.18;0.15
+4|Gloves|0|Hide Gloves|False|0|None|1|False|ADDED,None,Armour|8|8
+4|Gloves|1|Leather Gloves|False|6|None|1|False|ADDED,None,Armour;ADDED,None,Mana|10;5|10;10
+4|Gloves|2|Mail Bracers|False|15|None|1|False|ADDED,None,Armour|36|36
+4|Gloves|3|Outcast Gloves|False|25|None|1|False|ADDED,None,Armour;ADDED,None,NecroticResistance|21;0.13|21;0.28
+4|Gloves|4|Noble Gloves|False|31|None|1|False|ADDED,None,Armour;INCREASED,None,CastSpeed|32;0.03|32;0.1
+4|Gloves|5|Plated Gauntlets|False|45|None|1|False|ADDED,None,Armour;ADDED,None,Endurance|75;0.05|75;0.15
+4|Gloves|6|Solarum Bracers|False|62|None|1|False|ADDED,None,Armour;INCREASED,None,CriticalChance|30;0.15|30;0.4
+4|Gloves|7|Crusader Gauntlets|False|64|None|1|False|ADDED,None,Armour;ADDED,None,VoidResistance|80;0.3|80;0.45
+4|Gloves|8|Gluttonous Gloves|False|91|None|1|True|ADDED,None,Armour;ADDED,None,Vitality;INCREASED,None,Health|80;5;0.05|80;10;0.1
+4|Gloves|9|Serrated Bracers|False|62|None|1|True|ADDED,None,Armour;ADDED,None,IncreasedAilmentDuration;ADDED,None,IncreasedAilmentDuration|45;0.05;0.05|45;0.15;0.15
+5|1H Axes|0|Hatchet|True|0|None|1.05|False|ADDED,Melee,Damage|11|11
+5|1H Axes|1|Pickaxe|True|6|None|0.98|False|ADDED,Melee,Damage|18|18
+5|1H Axes|2|Rusted Cleaver|True|12|None|1.05|False|ADDED,Melee,Damage;ADDED,None,AilmentChance|19;0.13|19;0.19
+5|1H Axes|3|Battle Axe|True|24|None|1.05|False|ADDED,Melee,Damage;ADDED,None,AilmentChance|28;0.2|28;0.28
+5|1H Axes|4|Sickle|True|35|None|1.09|False|ADDED,Necrotic, Melee,Damage;INCREASED,Necrotic,Damage;INCREASED,Minion,Damage|33;0.23;0.23|33;0.39;0.39
+5|1H Axes|5|Wengari Axe|True|46|None|1.09|False|ADDED,Melee,Damage;ADDED,Melee,AilmentChance;ADDED,None,IncreasedAilmentDuration|36;0.36;0.1|36;0.66;0.16
+5|1H Axes|6|Crescent Axe|True|51|None|1.05|False|ADDED,Melee,Damage;ADDED,Lightning, Melee,Damage;ADDED,Lightning,Penetration|28;14;0.07|28;28;0.14
+5|1H Axes|7|Chitin Claw|True|59|None|1.05|False|ADDED,Melee,Damage;ADDED,Melee,AilmentChance;ADDED,None,IncreasedAilmentDuration|47;0.47;0.1|47;0.74;0.17
+5|1H Axes|8|Eagle Wing|True|63|None|1.05|False|ADDED,Melee,Damage;ADDED,None,CriticalChance;INCREASED,None,Movespeed|48;0.03;0.03|48;0.04;0.04
+5|1H Axes|9|Soul Harvester|True|66|None|1.09|False|ADDED,Necrotic, Melee,Damage;INCREASED,Necrotic, Melee,Damage;INCREASED,Necrotic, Minion,Damage|46;1;1|46;1.66;1.66
+5|1H Axes|10|Shadow Cleaver|True|71|None|0.98|False|ADDED,Melee,Damage;ADDED,Void, Melee,Damage|32;30|32;44
+5|1H Axes|11|Dragonbone Axe|True|80|None|1.05|False|ADDED,Melee,Damage;ADDED,Physical, Melee, Minion,Damage;ADDED,None,AilmentChance|51;7;0.7|51;10;1
+6|1H Dagger|0|Poignard|True|0|None|1.14|False|ADDED,Melee,Damage;ADDED,None,CriticalChance|9;0.02|9;0.02
+6|1H Dagger|1|Sacrificial Knife|True|12|None|1.14|False|ADDED,Melee,Damage;ADDED,None,CriticalChance|13;0.02|13;0.02
+6|1H Dagger|2|Bone Dagger|True|25|None|1.14|False|ADDED,Melee,Damage;ADDED,None,AilmentChance;ADDED,None,CriticalChance|14;0.2;0.02|14;0.35;0.02
+6|1H Dagger|3|Kris|True|27|None|1.1|False|ADDED,Melee,Damage;ADDED,None,CriticalMultiplier|25;0.4|25;0.8
+6|1H Dagger|4|Hunting Knife|True|44|None|1.14|False|ADDED,Melee,Damage;ADDED,None,CriticalChance|33;0.03|33;0.03
+6|1H Dagger|5|Moon Dagger|True|51|None|1.14|False|ADDED,Melee,Damage;ADDED,None,CriticalChance;ADDED,Lightning, Melee,Damage|28;0.02;14|28;0.03;21
+6|1H Dagger|6|Majasan Dagger|True|55|None|1.14|False|ADDED,Melee,Damage;ADDED,None,CriticalChance|44;0.04|44;0.04
+6|1H Dagger|7|Rune Dagger|True|61|None|1.14|False|ADDED,Melee,Damage;ADDED,None,CriticalChance;ADDED,Spell,Damage|36;0.03;30|36;0.04;40
+6|1H Dagger|8|Sai|True|65|None|1.18|False|ADDED,Melee,Damage;ADDED,None,CriticalChance;INCREASED,None,DodgeRating|37;0.02;0.2|37;0.04;0.5
+6|1H Dagger|9|Chitin Dagger|True|68|None|1.14|False|ADDED,Melee,Damage;ADDED,None,CriticalChance;ADDED,None,AilmentChance|41;0.04;0.2|41;0.04;0.6
+6|1H Dagger|10|Obsidian Dagger|True|71|None|1.1|False|ADDED,Melee,Damage;ADDED,None,CriticalChance;INCREASED,Physical,Damage|43;0.04;0.2|43;0.04;0.8
+7|1H Maces|0|Club|True|0|None|0.98|False|ADDED,Melee,Damage|13|13
+7|1H Maces|1|Iron Hammer|True|8|None|0.98|False|ADDED,Melee,Damage;INCREASED,Physical,Damage|20;0.2|20;0.3
+7|1H Maces|2|Flanged Mace|True|18|None|0.98|False|ADDED,Melee,Damage;ADDED,None,IncreasedStunChance|30;0.3|30;0.48
+7|1H Maces|3|Morning Star|True|29|None|0.98|False|ADDED,Melee,Damage;INCREASED,Physical,Damage|42;0.22|42;0.42
+7|1H Maces|4|Pick Hammer|True|37|None|0.94|False|ADDED,Melee,Damage|52|52
+7|1H Maces|5|Ebertusk Club|True|45|None|0.98|False|ADDED,Melee,Damage;ADDED,None,IncreasedStunChance|53;0.53|53;0.75
+7|1H Maces|6|Urchin Star|True|50|None|0.98|False|ADDED,Melee,Damage;ADDED,Physical,Penetration|55;0.05|55;0.09
+7|1H Maces|7|Serpent Mace|True|54|None|0.98|False|ADDED,Melee,Damage;INCREASED,Poison,Damage;ADDED,None,PoisonResistance|53;0.53;0.35|53;0.93;0.43
+7|1H Maces|8|Solarum Hammer|True|62|None|0.98|False|ADDED,Melee,Damage;ADDED,None,IncreasedStunChance;ADDED,Fire,Penetration|60;0.6;0.06|60;0.9;0.12
+7|1H Maces|9|Doom Star|True|70|None|0.98|False|ADDED,Melee,Damage;ADDED,Melee,CriticalMultiplier|59;0.5|59;0.9
+7|1H Maces|10|Rune Hammer|True|78|None|0.94|False|ADDED,Melee,Damage;ADDED,None,IncreasedStunChance;ADDED,Lightning,LevelOfSkills|64;0.8;1|64;1.28;1
+8|1H Scepter|0|Brass Sceptre|True|0|None|0.98|False|ADDED,Melee,Damage;ADDED,Spell,Damage|10;3|10;3
+8|1H Scepter|1|Ice Sceptre|True|43|None|0.98|False|ADDED,Cold, Melee,Damage;ADDED,Cold, Spell,Damage;ADDED,None,FreezeRateMultiplier|43;43;0.43|43;43;1.43
+8|1H Scepter|2|Ornate Sceptre|True|35|None|0.98|False|ADDED,Melee,Damage;ADDED,Spell,Damage;INCREASED,Elemental,Damage|25;25;0.25|25;30;0.6
+8|1H Scepter|3|Cultist Sceptre|True|11|None|0.98|False|ADDED,Melee,Damage;ADDED,Spell,Damage|16;6|16;10
+8|1H Scepter|4|Oak Sceptre|True|21|None|0.98|False|ADDED,Melee,Damage;ADDED,Spell,Damage;INCREASED,Minion,Damage|21;10;0.15|21;17;0.35
+8|1H Scepter|5|Auric Sceptre|True|52|None|0.98|False|ADDED,Melee,Damage;ADDED,Spell,Damage|38;38|38;48
+8|1H Scepter|6|Argent Sceptre|True|63|None|0.98|False|ADDED,Melee,Damage;ADDED,Spell,Damage;INCREASED,DoT,Damage|50;48;0.5|50;58;0.8
+8|1H Scepter|7|Acolyte Sceptre|True|0|None|0.98|True|ADDED,Melee,Damage;ADDED,Spell,Damage|9;2|9;2
+8|1H Scepter|8|Obsidian Sceptre|True|75|None|0.98|False|ADDED,Melee,Damage;ADDED,Spell,Damage|55;55|55;65
+8|1H Scepter|9|Skeletal Sceptre|True|67|None|0.98|False|ADDED,Melee,Damage;ADDED,Spell,Damage;INCREASED,Minion,Damage|47;53;0.25|47;59;0.65
+9|1H Swords|0|Broken Sword|True|5|None|1.1|False|ADDED,Melee,Damage|14|14
+9|1H Swords|1|Broadsword|True|20|None|1.16|False|ADDED,Melee,Damage|22|22
+9|1H Swords|2|Rust Blade|True|39|None|1.2|False|ADDED,Melee,Damage;ADDED,None,AilmentChance|31;0.15|31;0.35
+9|1H Swords|3|Gladius|True|0|None|1.12|False|ADDED,Melee,Damage|10|10
+9|1H Swords|4|Cultist Blade|True|15|None|1.2|False|ADDED,Melee,Damage;ADDED,Void, Melee,Damage|11;3|11;9
+9|1H Swords|5|Falchion|True|30|None|1.2|False|ADDED,Melee,Damage|27|27
+9|1H Swords|6|Longsword|True|50|None|1.08|False|ADDED,Melee,Damage|50|50
+9|1H Swords|7|Nagasa Scymitar|True|54|None|1.24|False|ADDED,Melee,Damage;INCREASED,DoT,Damage|36;0.26|36;0.56
+9|1H Swords|8|Crystal Sword|True|64|None|1.16|False|ADDED,Melee,Damage;INCREASED,Elemental, Melee,Damage;INCREASED,Elemental, Melee,AttackSpeed|40;0.4;0.1|40;1;0.16
+9|1H Swords|9|Katana|True|70|None|1.2|False|ADDED,Melee,Damage;ADDED,None,CriticalMultiplier|38;0.38|38;0.6
+9|1H Swords|10|Dawn Blade|True|75|None|1.2|False|ADDED,Melee,Damage|48|48
+10|Wands|0|Coral Wand|True|51|None|1.02|False|ADDED,Lightning, Spell,Damage;ADDED,Spell,AilmentChance;ADDED,Spell,ManaCost|41;0.15;-3|51;0.51;-3
+10|Wands|1|Rowan Wand|True|0|None|1.02|False|ADDED,Spell,Damage;ADDED,Spell,ManaCost|3;-3|3;-3
+10|Wands|2|Archivist Wand|True|5|None|1.02|False|ADDED,Spell,Damage;ADDED,Spell,ManaCost|4;-3|6;-3
+10|Wands|3|Ornate Wand|True|55|None|1.02|False|ADDED,Spell,Damage;ADDED,Spell,AilmentChance;ADDED,Spell,ManaCost|44;0.15;-3|51;0.51;-3
+10|Wands|4|Spriggan Branch|True|47|None|1.02|False|ADDED,Spell,Damage;INCREASED,None,HealthRegen;ADDED,Spell,ManaCost|36;0.4;-3|44;0.8;-3
+10|Wands|5|Ritual Stake|True|14|None|1.02|False|ADDED,Void, Spell,Damage;INCREASED,DoT,Damage;ADDED,Spell,ManaCost|8;0.13;-3|13;0.19;-3
+10|Wands|6|Ivory Wand|True|31|None|1.02|False|ADDED,Spell,Damage;ADDED,None,WardRetention;ADDED,Spell,ManaCost|20;0.2;-3|26;0.3;-3
+10|Wands|7|Birch Wand|True|20|None|1.02|False|ADDED,Spell,Damage;ADDED,None,Mana;ADDED,Spell,ManaCost|12;20;-3|16;30;-3
+10|Wands|8|Profane Wand|True|67|None|1.02|False|ADDED,Necrotic, Spell,Damage;INCREASED,Curse,Damage;ADDED,Spell,ManaCost|56;0.56;-3|66;0.66;-3
+10|Wands|9|Crystal Wand|True|60|None|1.02|False|ADDED,Spell,Damage;ADDED,None,Mana;ADDED,Spell,ManaCost|50;50;-3|60;60;-3
+10|Wands|10|Dragonhorn Wand|True|77|None|1.02|False|ADDED,Spell,Damage;INCREASED,None,CastSpeed;ADDED,Spell,ManaCost|54;0.06;-3|60;0.12;-3
+13|2H Maces|0|Great Mace|True|0|None|0.9|False|ADDED,Melee,Damage|24|24
+13|2H Maces|1|Spiked Great Club|True|7|None|0.9|False|ADDED,Melee,Damage;ADDED,Melee,AilmentChance|29;0.19|29;0.39
+13|2H Maces|2|Maul|True|19|None|0.9|False|ADDED,Melee,Damage;ADDED,Melee,IncreasedStunChance|38;0.2|38;0.6
+13|2H Maces|3|Spiked Maul|True|28|None|0.9|False|ADDED,Melee,Damage;INCREASED,Physical,Damage|46;0.2|46;0.6
+13|2H Maces|4|Giant Club|True|39|None|0.86|False|ADDED,Melee,Damage;ADDED,Melee,IncreasedStunChance|64;0.24|64;0.64
+13|2H Maces|5|Great Hammer|True|52|None|0.9|False|ADDED,Melee,Damage;ADDED,None,IncreasedStunChance|82;0.82|82;1.6
+13|2H Maces|6|Titan Femur|True|58|None|0.88|False|ADDED,Melee,Damage;ADDED,None,Strength|96;16|96;32
+13|2H Maces|7|Terror Mace|True|66|None|0.9|False|ADDED,Melee,Damage;ADDED,Melee,IncreasedStunChance;ADDED,Melee,IncreasedStunDuration|106;1.06;0.16|106;1.66;0.36
+13|2H Maces|8|Lucerne|True|74|None|0.86|False|ADDED,Melee,Damage;INCREASED,Melee,IncreasedStunChance;ADDED,Melee,CriticalChance|110;0.4;0.06|110;0.6;0.1
+13|2H Maces|9|Eber Head|True|78|None|0.86|False|ADDED,Melee,Damage;ADDED,Melee,IncreasedStunChance|140;0.4|140;1.4
+14|2H Polearm|0|Pike|True|6|None|0.94|False|ADDED,Melee,Damage|26|26
+14|2H Polearm|1|Short Spear|True|0|None|0.98|False|ADDED,Melee,Damage;ADDED,Melee,CriticalChance|18;0.02|18;0.04
+14|2H Polearm|2|Ice Spear|True|46|None|0.98|False|ADDED,Cold, Melee,Damage;ADDED,Melee,CriticalChance|60;0.03|68;0.06
+14|2H Polearm|3|Impaler|True|16|None|0.94|False|ADDED,Melee,Damage;ADDED,Melee,CriticalMultiplier|33;0.3|33;0.39
+14|2H Polearm|4|Trident|True|51|None|0.94|False|ADDED,Melee,Damage;ADDED,Melee,CriticalMultiplier|80;1|80;1.8
+14|2H Polearm|5|Glaive|True|29|None|0.98|False|ADDED,Melee,Damage;ADDED,Melee,CriticalChance|49;0.03|49;0.06
+14|2H Polearm|6|Polesword|True|22|None|0.94|False|ADDED,Melee,Damage|43|43
+14|2H Polearm|7|Dragonslayer Glaive|True|76|None|0.94|False|ADDED,Melee,Damage;ADDED,Melee,CriticalChance;ADDED,None,FireResistance|107;0.04;0.75|107;0.07;0.75
+14|2H Polearm|8|Deicide Lance|True|82|None|0.94|False|ADDED,Melee,Damage;ADDED,Physical,Penetration;ADDED,Elemental,Penetration|115;0.05;0.05|115;0.15;0.15
+14|2H Polearm|9|Sun Spear|True|63|None|1.02|False|ADDED,Melee,Damage;ADDED,Fire, Melee,Damage;ADDED,Melee,CriticalChance|45;30;0.03|45;50;0.06
+14|2H Polearm|10|Dredge Hook|True|38|None|0.94|False|ADDED,Melee,Damage;ADDED,Melee,AilmentChance|57;0.47|57;0.67
+14|2H Polearm|11|Coiled Bident|True|56|None|0.94|False|ADDED,Melee,Damage;ADDED,Melee,AilmentChance;INCREASED,Poison,Damage|86;0.6;0.6|86;0.86;0.86
+14|2H Polearm|12|Obsidian Lance|True|68|None|0.94|False|ADDED,Melee,Damage;ADDED,Melee,AilmentChance|94;0.94|94;1.94
+14|2H Polearm|13|Jadebone Javelin|True|58|None|1.02|True|ADDED,Melee,Damage;INCREASED,Poison,Damage|78;0.8|78;1.2
+14|2H Polearm|14|Rat City Impaler|True|60|None|0.98|True|ADDED,Melee,Damage;ADDED,Void, Spell,Damage|160;92|160;108
+15|2H Staff|0|Travelling Staff|True|0|None|0.92|False|ADDED,Melee,Damage;ADDED,Spell,Damage;ADDED,Spell,ManaCost|16;3;-3|16;5;-3
+15|2H Staff|1|Root Staff|True|6|None|0.92|False|ADDED,Melee,Damage;ADDED,Spell,Damage;ADDED,Spell,ManaCost|19;7;-3|19;9;-3
+15|2H Staff|2|Sacrificial Staff|True|13|None|0.92|False|ADDED,Melee,Damage;ADDED,Spell,Damage;ADDED,Physical, Cold, Fire, Void, Necrotic, Poison, Elemental,AbilityProperty|21;11;0.25|21;14;0.4
+15|2H Staff|3|Quarter Staff|True|23|None|0.92|False|ADDED,Melee,Damage;ADDED,Spell,Damage;INCREASED,Melee,AttackSpeed|42;20;0.2|42;24;0.24
+15|2H Staff|4|Imperial Staff|True|29|None|0.92|False|ADDED,Melee,Damage;ADDED,Spell,Damage;ADDED,Spell,ManaCost|45;23;-3|45;35;-3
+15|2H Staff|5|Spine Rod|True|38|None|0.92|False|ADDED,Melee,Damage;ADDED,Spell,Damage;INCREASED,DoT,Damage|53;39;0.39|53;47;0.93
+15|2H Staff|6|Shamanic Staff|True|46|None|0.92|False|ADDED,Melee,Damage;ADDED,Spell,Damage;INCREASED,Totem,Damage|56;39;0.46|56;47;0.86
+15|2H Staff|7|Moon Staff|True|50|None|0.98|False|ADDED,Melee,Damage;ADDED,Spell,Damage;ADDED,Spell,ManaCost|78;60;-3|78;68;-3
+15|2H Staff|8|Crystal Staff|True|58|None|0.92|False|ADDED,Melee,Damage;ADDED,Spell,Damage;ADDED,None,Mana|72;72;60|72;80;80
+15|2H Staff|9|Horned Staff|True|66|None|0.92|False|ADDED,Melee,Damage;ADDED,Spell,Damage;ADDED,Minion,LevelOfSkills|79;79;1|79;91;1
+15|2H Staff|10|Temple Staff|True|70|None|0.92|False|ADDED,Spell,Damage;INCREASED,None,ManaRegen;ADDED,Spell,ManaCost|90;0.2;-3|100;0.3;-3
+15|2H Staff|11|Bladed Staff|True|74|None|0.98|False|ADDED,Melee,Damage;ADDED,Spell,Damage;ADDED,Melee,LevelOfSkills|94;84;1|94;104;1
+15|2H Staff|12|Gate Staff|True|80|None|0.92|False|ADDED,Melee,Damage;ADDED,Spell,Damage;INCREASED,Spell,ManaCost|92;102;0.2|92;122;0.52
+15|2H Staff|13|Dragon Staff|True|85|None|0.92|False|ADDED,Melee,Damage;ADDED,Spell,Damage;ADDED,Elemental,LevelOfSkills|95;85;1|95;95;1
+15|2H Staff|14|Gate Staff|True|70|None|0.92|True|ADDED,Melee,Damage;ADDED,Spell,Damage;ADDED,Spell,ManaCost|70;63;-3|70;80;-3
+16|2H Swords|0|Bastard Sword|True|0|None|1.06|False|ADDED,Melee,Damage|20|20
+16|2H Swords|1|Split Greatsword|True|10|None|1.02|False|ADDED,Melee,Damage|30|30
+16|2H Swords|2|Imperial Warblade|True|24|None|1.06|False|ADDED,Melee,Damage;ADDED,Melee,AilmentChance|40;0.1|40;0.25
+16|2H Swords|3|Khopesh|True|36|None|1.1|False|ADDED,Melee,Damage|50|50
+16|2H Swords|4|Claymore|True|46|None|1.06|False|ADDED,Melee,Damage;ADDED,None,ColdResistance|60;0.35|60;0.45
+16|2H Swords|5|Odachi|True|56|None|1.02|False|ADDED,Melee,Damage;ADDED,Melee,CriticalMultiplier|70;1|70;1.7
+16|2H Swords|6|Winged Blade|True|61|None|1.06|False|ADDED,Melee,Damage;ADDED,Melee,HealthLeech|80;0.5|80;1.5
+16|2H Swords|7|Flamberge|True|70|None|1.1|False|ADDED,Melee,Damage|90|90
+16|2H Swords|8|Hollow Blade|True|77|None|1.06|False|ADDED,Melee,Damage;ADDED,Void, Melee,Damage;ADDED,Void,Penetration|66;22;0.06|66;42;0.12
+16|2H Swords|9|Zweihander|True|80|None|1.02|False|ADDED,Melee,Damage;ADDED,Physical,Penetration|100;0.05|100;0.15
+16|2H Swords|10|Solarum Greatsword|True|80|None|0.76|True|ADDED,Melee,Damage|120|120
+17|Quiver|0|Light Quiver|False|0|None|1|False|INCREASED,Bow,AttackSpeed|0.05|0.1
+17|Quiver|1|Heavy Quiver|False|7|None|1|False|INCREASED,Bow,Damage|0.15|0.3
+17|Quiver|2|Ivory Quiver|False|23|None|1|False|ADDED,None,PhysicalResistance;ADDED,None,NecroticResistance|0.1;0.1|0.2;0.2
+17|Quiver|3|Nomad Quiver|False|44|None|1|False|ADDED,Bow,AilmentChance|0.25|0.4
+17|Quiver|4|Farwood Quiver|False|48|None|1|False|ADDED,Cold, Bow,Damage|5|9
+17|Quiver|5|Skalnir Quiver|False|52|None|1|False|ADDED,Bow,CriticalMultiplier|0.15|0.3
+17|Quiver|6|Nagasa Quiver|False|65|None|1|False|ADDED,Bow,AilmentChance|0.3|0.6
+17|Quiver|7|Spidersilk Quiver|False|68|None|1|False|ADDED,Bow,AilmentChance;INCREASED,DoT,Damage|0.25;0.25|0.6;0.6
+18|Shield|0|Wooden Shield|False|0|None|1|False|ADDED,None,BlockChance;ADDED,None,BlockEffectiveness|0.18;80|0.18;120
+18|Shield|1|Targe|False|3|None|1|False|ADDED,None,BlockChance;ADDED,None,BlockEffectiveness;ADDED,None,ElementalResistance|0.16;80;0.06|0.16;140;0.12
+18|Shield|2|Heater Shield|False|15|None|1|False|ADDED,None,BlockChance;ADDED,None,BlockEffectiveness;ADDED,None,Armour|0.2;150;80|0.2;180;80
+18|Shield|3|Knight Shield|False|0|None|1|True|ADDED,None,BlockChance;ADDED,None,BlockEffectiveness|0.15;75|0.15;75
+18|Shield|4|Cavalier Shield|False|24|None|1|False|ADDED,None,BlockChance;ADDED,None,BlockEffectiveness|0.22;350|0.22;500
+18|Shield|5|Tower Shield|False|30|None|1|False|ADDED,None,BlockChance;ADDED,None,BlockEffectiveness|0.28;200|0.28;300
+18|Shield|6|Bandit Shield|False|36|None|1|False|ADDED,None,BlockChance;ADDED,None,BlockEffectiveness;INCREASED,Physical,Damage|0.19;215;0.25|0.19;275;0.6
+18|Shield|7|Root Shield|False|41|None|1|False|ADDED,None,BlockChance;ADDED,None,BlockEffectiveness;ADDED,None,EnduranceThreshold|0.21;240;45|0.21;320;70
+18|Shield|8|Frostbound Shield|False|45|None|1|False|ADDED,None,BlockChance;ADDED,None,BlockEffectiveness;ADDED,None,FreezeRateMultiplier|0.17;400;0.75|0.17;460;1.5
+18|Shield|9|Kite Shield|False|50|None|1|False|ADDED,None,BlockChance;ADDED,None,BlockEffectiveness|0.25;600|0.25;800
+18|Shield|10|Meruna Shell|False|52|None|1|False|ADDED,None,BlockChance;ADDED,None,BlockEffectiveness;INCREASED,Physical, Melee,Damage|0.23;325;0.45|0.23;425;0.75
+18|Shield|11|Mountain Shield|False|59|None|1|False|ADDED,None,BlockChance;ADDED,None,BlockEffectiveness;ADDED,None,Endurance|0.26;440;0.11|0.26;520;0.15
+18|Shield|12|Carapace Shield|False|64|None|1|False|ADDED,None,BlockChance;ADDED,None,BlockEffectiveness;ADDED,None,PoisonResistance|0.28;500;0.75|0.28;585;0.75
+18|Shield|13|Ironglass Shield|False|72|None|1|False|ADDED,None,BlockChance;ADDED,None,BlockEffectiveness|0.35;400|0.35;620
+18|Shield|14|Dawn Shield|False|76|None|1|False|ADDED,None,BlockChance;ADDED,None,BlockEffectiveness|0.3;750|0.3;1000
+18|Shield|15|Rotskin Round Shield|False|65|None|1|True|ADDED,None,BlockChance;ADDED,None,BlockEffectiveness|0.2;200|0.2;600
+18|Shield|16|Stone Shield|False|45|None|1|True|ADDED,None,BlockChance;ADDED,None,BlockEffectiveness;ADDED,None,PhysicalResistance|0.15;275;0.2|0.15;650;0.4
+19|Catalyst|0|Glass Catalyst|False|0|None|1|False|ADDED,None,Intelligence|3|6
+19|Catalyst|1|Leatherbound Tome|False|4|None|1|False|ADDED,None,Intelligence;INCREASED,None,CastSpeed|2;0.05|5;0.08
+19|Catalyst|2|Ritual Stone|False|12|None|1|False|ADDED,None,Intelligence;ADDED,None,WardRegen|4;10|7;17
+19|Catalyst|3|Branded Skull|False|24|None|1|False|ADDED,None,Intelligence;ADDED,Spell,CriticalChance|5;0.02|9;0.03
+19|Catalyst|4|Sapphire Tome|False|32|None|1|False|ADDED,None,Intelligence;INCREASED,None,CastSpeed|6;0.06|10;0.1
+19|Catalyst|5|Osprix Skull|False|38|None|1|False|ADDED,None,Intelligence;ADDED,Spell,CriticalChance|7;0.03|11;0.05
+19|Catalyst|6|Rune Stone|False|46|None|1|False|ADDED,None,Intelligence;ADDED,None,WardRegen|8;20|14;30
+19|Catalyst|7|Astrolabe|False|50|None|1|False|ADDED,None,Intelligence;ADDED,None,ManaSpentGainedAsWard;INCREASED,None,ManaRegen|8;0.15;0.1|15;0.25;0.15
+19|Catalyst|8|Opulent Focus|False|54|None|1|False|ADDED,None,Intelligence;ADDED,None,WardRegen;ADDED,None,WardRetention|8;32;0.42|16;54;0.86
+19|Catalyst|9|Dragon Eye|False|62|None|1|False|ADDED,None,Intelligence;ADDED,Spell,CriticalMultiplier|12;0.18|18;0.4
+19|Catalyst|10|Fleshbound Tome|False|66|None|1|False|ADDED,None,Intelligence;INCREASED,Minion,Damage;INCREASED,Minion,Health|13;0.36;0.36|16;0.66;0.66
+19|Catalyst|11|Crystal Skull|False|74|None|1|False|ADDED,None,Intelligence;ADDED,Spell,CriticalChance;ADDED,None,WardRetention|10;0.03;0.12|16;0.06;0.18
+19|Catalyst|12|Chronolabe|False|80|None|1|False|ADDED,None,Intelligence;ADDED,None,ManaSpentGainedAsWard;INCREASED,None,ManaRegen|12;0.26;0.12|18;0.42;0.18
+19|Catalyst|13|Divine Instrument|False|62|None|1|True|ADDED,None,Intelligence;ADDED,Spell,CriticalChance|8;0.02|14;0.06
+20|Amulet|0|Copper Amulet|False|18|None|1|False|ADDED,None,LightningResistance;ADDED,Lightning, Spell,Damage|0.06;2|0.2;3
+20|Amulet|1|Jade Amulet|False|4|None|1|False|INCREASED,Melee,AttackSpeed;INCREASED,Throwing,AttackSpeed|0.05;0.05|0.15;0.15
+20|Amulet|2|Silver Amulet|False|24|None|1|False|INCREASED,None,CriticalChance|0.05|0.35
+20|Amulet|3|Brass Amulet|False|4|None|1|False|INCREASED,None,CastSpeed|0.05|0.15
+20|Amulet|4|Turquoise Amulet|False|36|None|1|False|INCREASED,Minion,Damage;INCREASED,Minion,CriticalChance|0.05;0.05|0.35;0.35
+20|Amulet|5|Ruby Amulet|False|0|None|1|False|ADDED,None,Health|5|25
+20|Amulet|6|Sapphire Amulet|False|44|None|1|False|ADDED,None,FreezeRateMultiplier;ADDED,None,ColdResistance|0.1;0.15|1;0.2
+20|Amulet|7|Bone Amulet|False|58|None|1|False|ADDED,None,PhysicalResistance;ADDED,None,NecroticResistance|0.13;0.13|0.4;0.4
+20|Amulet|8|Oracle Amulet|False|76|None|1|False|MORE,DoT,DamageTaken|-0.06|-0.2
+20|Amulet|9|Gold Amulet|False|71|None|1|False|ADDED,None,FireResistance;ADDED,None,LightningResistance|0.18;0.18|0.42;0.42
+21|Ring|0|Copper Ring|False|14|None|1|False|INCREASED,None,CriticalChance|0.25|0.5
+21|Ring|1|Ruby Ring|False|62|None|1|False|ADDED,None,FireResistance;INCREASED,Fire,Damage|0.28;0.28|0.45;0.45
+21|Ring|2|Sapphire Ring|False|40|None|1|False|ADDED,None,Mana;INCREASED,None,ManaRegen|10;0.06|20;0.12
+21|Ring|3|Silver Ring|False|0|None|1|False|INCREASED,None,Movespeed|0.03|0.08
+21|Ring|4|Gold Ring|False|25|None|1|False|ADDED,None,ElementalResistance|0.05|0.18
+21|Ring|5|Captain Ring|False|0|None|1|True|ADDED,None,StunAvoidance|40|95
+21|Ring|6|Jade Ring|False|0|None|1|False|ADDED,None,DodgeRating|10|25
+21|Ring|7|Turquoise Ring|False|31|None|1|False|INCREASED,Minion,Damage;INCREASED,Minion,Health;ADDED,Minion,CriticalMultiplier|0.05;0.05;0.05|0.35;0.35;0.35
+21|Ring|8|Ivory Ring|False|66|None|1|False|ADDED,None,NecroticResistance;ADDED,None,WardRetention|0.33;0.13|0.46;0.26
+21|Ring|9|Coral Ring|False|48|None|1|False|ADDED,None,Vitality;ADDED,None,HealthRegen|3;3|6;6
+21|Ring|10|Opal Ring|False|52|None|1|False|ADDED,None,IncreasedCooldownRecoverySpeed;ADDED,None,AllAttributes|0.06;1|0.1;2
+22|Relic|0|Mage Relic|False|0|None|1|True|ADDED,None,Mana|6|10
+22|Relic|1|Beast Master Relic|False|0|None|1|True|ADDED,None,ColdResistance;ADDED,None,FireResistance|0.04;0.04|0.06;0.06
+22|Relic|2|Reliquary Grimoire|False|0|None|1|True|ADDED,None,Health;INCREASED,None,HealthRegen|30;-0.12|40;-0.02
+22|Relic|3|Copper Chalice|False|0|None|1|False|ADDED,None,HealthRegen|2|3
+22|Relic|4|Silver Grail|False|15|None|1|False|ADDED,None,Mana|10|25
+22|Relic|5|Golden Chalice|False|37|None|1|False|ADDED,None,HealthRegen|4|6
+22|Relic|6|Grave Lantern|False|34|None|1|True|ADDED,None,AilmentChance|0.1|0.3
+22|Relic|7|Overgrowth Bloom|False|35|None|1|True|ADDED,None,Attunement;ADDED,None,AllResistances|3;0.05|3;0.05
+22|Relic|8|Navigation Orb|False|61|None|1|True|INCREASED,Cold,Damage;INCREASED,Lightning,Damage|0.2;0.2|0.4;0.4
+22|Relic|9|Broken Hilt|False|46|None|1|True|INCREASED,Melee,AttackSpeed|0.05|0.07
+22|Relic|10|Splintered Haft|False|65|None|1|True|ADDED,None,HealthRegen|3|4
+22|Relic|11|Defiled Bones|False|0|Acolyte|1|False|INCREASED,Spell,Damage|0.13|0.19
+22|Relic|12|Caged Souls|False|5|Acolyte|1|False|ADDED,None,WardOnPotionUse;ADDED,None,WardRetention|9;0.09|29;0.29
+22|Relic|13|Homunculus Bile|False|13|Acolyte|1|False|ADDED,None,AilmentChance|0.13|0.31
+22|Relic|14|Cursed Bones|False|33|Acolyte|1|False|ADDED,None,FireResistance;INCREASED,Curse,Damage|0.13;0.13|0.45;0.63
+22|Relic|15|Runed Bones|False|51|Acolyte|1|False|INCREASED,Minion,Damage;INCREASED,Minion,Movespeed;INCREASED,Minion,Health|0.06;0.06;0.06|0.36;0.16;0.66
+22|Relic|16|Decaying Homunculus|False|59|Acolyte|1|False|INCREASED,Necrotic,Damage;INCREASED,Necrotic, Minion,Damage|0.31;0.31|0.61;0.61
+22|Relic|17|Damned Souls|False|63|Acolyte|1|False|INCREASED,Fire,Damage;INCREASED,Fire, Minion,Damage|0.13;0.13|0.91;0.91
+22|Relic|18|Homunculus Blood|False|65|Acolyte|1|False|ADDED,None,AilmentChance;ADDED,Minion,AilmentChance|0.13;0.13|0.41;0.41
+22|Relic|19|Putrid Souls|False|71|Acolyte|1|False|ADDED,None,PoisonResistance;ADDED,None,WardRegen|0.31;13|0.45;31
+22|Relic|20|Runic Scroll|False|0|Mage|1|False|ADDED,Spell,Damage|2|3
+22|Relic|21|Arcane Quill|False|6|Mage|1|False|ADDED,None,WardGain|3|5
+22|Relic|22|Third Eye|False|12|Mage|1|False|ADDED,None,PhysicalResistance;ADDED,None,FireResistance;ADDED,None,PoisonResistance|0.03;0.03;0.03|0.09;0.09;0.09
+22|Relic|23|Scrivening Quill|False|41|Mage|1|False|ADDED,None,WardRegen|8|21
+22|Relic|24|Ancient Scroll|False|52|Mage|1|False|ADDED,None,IncreasedAilmentDuration;ADDED,None,IncreasedAilmentDuration;ADDED,None,IncreasedAilmentDuration|0.06;0.06;0.06|0.12;0.12;0.12
+22|Relic|25|Scrying Eye|False|58|Mage|1|False|ADDED,Elemental,CriticalMultiplier|0.12|0.24
+22|Relic|26|Warding Scroll|False|64|Mage|1|False|ADDED,None,Mana;ADDED,None,ManaSpentGainedAsWard|14;0.14|40;0.4
+22|Relic|27|Rune Quill|False|72|Mage|1|False|INCREASED,Elemental, DoT,Damage|0.4|0.84
+22|Relic|28|Elder Eye|False|76|Mage|1|False|INCREASED,Cold,Damage;ADDED,None,AilmentChance;ADDED,None,FreezeRateMultiplier|0.24;0.12;1.2|0.48;0.24;2.4
+22|Relic|29|Dream Catcher|False|0|Primalist|1|False|ADDED,None,Health;INCREASED,Minion,Health|7;0.07|14;0.14
+22|Relic|30|Sage Antler|False|4|Primalist|1|False|INCREASED,Physical,Damage;INCREASED,Physical, Minion,Damage|0.08;0.08|0.19;0.19
+22|Relic|31|Living Seed|False|11|Primalist|1|False|ADDED,None,HealthLeech;ADDED,Minion,HealthLeech|0.1;0.1|0.24;0.24
+22|Relic|32|Ochre Antler|False|18|Primalist|1|False|ADDED,None,Endurance|0.11|0.15
+22|Relic|33|Spriggan Seed|False|45|Primalist|1|False|INCREASED,Minion,Damage;ADDED,Lightning, Cold, Fire, Void, Necrotic, Poison,PlayerProperty;ADDED,Physical, Lightning, Cold, Fire, Void, Necrotic, Poison,PlayerProperty|0.16;0.12;0.12|0.32;0.24;0.24
+22|Relic|34|Blood Catcher|False|53|Primalist|1|False|ADDED,None,AilmentChance;ADDED,Physical, Cold, Fire,PlayerProperty|0.24;0.07|0.4;0.21
+22|Relic|35|Frostborn Seed|False|67|Primalist|1|False|ADDED,Cold, Spell,Damage;ADDED,Lightning, Cold, Fire, Void, Necrotic, Spell,AbilityProperty|4;0.1|8;0.24
+22|Relic|36|Spirit Catcher|False|70|Primalist|1|False|ADDED,None,ColdResistance;ADDED,None,NecroticResistance|0.27;0.27|0.44;0.44
+22|Relic|37|Woad Antler|False|75|Primalist|1|False|ADDED,Cold, Melee,Damage;ADDED,Cold, Melee, Minion,Damage|4;4|10;10
+22|Relic|38|Sunrise Emblem|False|0|Sentinel|1|False|ADDED,None,AilmentChance|0.08|0.16
+22|Relic|39|Heretical Script|False|5|Sentinel|1|False|INCREASED,None,Armour;ADDED,None,VoidResistance|0.05;0.05|0.12;0.12
+22|Relic|40|Mournful Pennant|False|12|Sentinel|1|False|ADDED,None,Health;ADDED,None,HealthGain|15;3|25;5
+22|Relic|41|Inscribed Tablet|False|29|Sentinel|1|False|ADDED,None,Mana;ADDED,Melee,ManaCost|10;-3|30;-3
+22|Relic|42|Solarum Banner|False|44|Sentinel|1|False|ADDED,None,BlockChance;ADDED,None,HealthGain|0.02;2|0.05;5
+22|Relic|43|Solar Commandment|False|50|Sentinel|1|False|INCREASED,Fire,Damage;ADDED,None,IncreasedHealing|0.25;0.25|0.6;0.6
+22|Relic|44|Argent Crest|False|58|Sentinel|1|False|ADDED,None,ColdResistance;ADDED,None,LightningResistance|0.3;0.3|0.45;0.45
+22|Relic|45|Dread Banner|False|63|Sentinel|1|False|INCREASED,Void,Damage;ADDED,Melee,AilmentChance|0.43;0.15|0.73;0.3
+22|Relic|46|Tainted Effigy|False|77|Sentinel|1|False|ADDED,Void, Melee,Damage;ADDED,Void, Spell,Damage|5;5|10;10
+22|Relic|47|Ivory Dice|False|0|Rogue|1|False|INCREASED,None,CriticalChance|0.16|0.28
+22|Relic|48|Venom Phial|False|4|Rogue|1|False|ADDED,None,AilmentChance|0.1|0.22
+22|Relic|49|Weathered Coins|False|16|Rogue|1|False|ADDED,None,AilmentChance|0.16|0.4
+22|Relic|50|Stolen Tithe|False|44|Rogue|1|False|ADDED,None,HealthLeech;INCREASED,None,HealthLeech|0.1;0.1|0.2;0.2
+22|Relic|51|Oil Vial|False|51|Rogue|1|False|INCREASED,Fire,Damage;ADDED,None,AilmentChance|0.26;0.14|0.44;0.26
+22|Relic|52|Jade Dice|False|55|Rogue|1|False|INCREASED,None,DodgeRating|0.06|0.24
+22|Relic|53|Ruby Dice|False|62|Rogue|1|False|ADDED,None,FireResistance;ADDED,None,AilmentChance|0.36;0.06|0.42;0.36
+22|Relic|54|Antidote Vial|False|68|Rogue|1|False|ADDED,None,PoisonResistance;ADDED,None,IncreasedLeechRate|0.3;0.3|0.45;0.6
+22|Relic|55|Ancient Coins|False|74|Rogue|1|False|INCREASED,None,CriticalChance;ADDED,None,HealthGain|0.1;3|1;6
+22|Relic|56|Lost Anchor|False|80|None|1|True|INCREASED,None,Armour|0.15|0.25
+22|Relic|57|Stone Tablet|False|78|None|1|True|ADDED,None,PhysicalResistance|0.36|0.44
+22|Relic|58|Dragon Heart|False|80|None|1|True|INCREASED,None,Health|0.12|0.2
+22|Relic|59|Blood Encased Hive|False|70|None|1|True|ADDED,Physical, Necrotic, Poison, Spell,AbilityProperty|6|10
+23|Bows|0|Shortbow|True|0|Rogue|1.05|False|ADDED,Bow,Damage|12|12
+23|Bows|1|Birch Bow|True|6|Rogue|0.98|False|ADDED,Bow,Damage;ADDED,None,CriticalChance|18;0.02|18;0.03
+23|Bows|2|Salvaged Bow|True|13|Rogue|1.05|False|ADDED,Bow,Damage;INCREASED,DoT,Damage|19;0.15|19;0.3
+23|Bows|3|Imperial Bow|True|23|Rogue|0.95|False|ADDED,Bow,Damage;ADDED,Bow,HealthLeech|24;0.02|24;0.03
+23|Bows|4|Recurve Bow|True|30|Rogue|1.05|False|ADDED,Bow,Damage;ADDED,Bow,CriticalChance|33;0.02|33;0.04
+23|Bows|5|Northern Bow|True|43|Rogue|0.98|False|ADDED,Bow,Damage;ADDED,Bow,AilmentChance|38;0.25|38;0.45
+23|Bows|6|Longbow|True|50|Rogue|0.92|False|ADDED,Bow,Damage|60|60
+23|Bows|7|Dreadthorn Bow|True|58|Rogue|0.98|False|ADDED,Bow,Damage;ADDED,Bow,CriticalChance;ADDED,Bow,CriticalMultiplier|48;0.03;0.31|48;0.04;0.61
+23|Bows|8|Serpent Bow|True|60|Rogue|1.05|False|ADDED,Bow,Damage;ADDED,Bow,AilmentChance;ADDED,None,IncreasedAilmentDuration|42;0.24;0.1|42;0.6;0.2
+23|Bows|9|Osprix Bow|True|62|Rogue|0.98|False|ADDED,Bow,Damage;ADDED,Fire, Bow,Damage;INCREASED,Elemental, Bow,Damage|30;16;0.6|30;26;0.9
+23|Bows|10|Obsidian Bow|True|72|Rogue|1.1|False|ADDED,Bow,Damage;ADDED,Bow,CriticalChance;INCREASED,Physical,Damage|45;0.03;0.4|45;0.04;1
+23|Bows|11|Storm Bow|True|50|Rogue|0.9|True|ADDED,Lightning, Bow,Damage|60|72
+26|Small Lagonian Idol|0|Small Lagonian Idol|False|0|None|1|False|||
+27|Humble Idol|0|Humble Eterran Idol|False|0|None|1|False|||
+28|Stout Idol|0|Stout Lagonian Idol|False|0|None|1|False|||
+29|Grand Idol|0|Grand Heorot Idol|False|0|Primalist|1|False|||
+29|Grand Idol|1|Grand Glass Idol|False|0|Mage|1|False|||
+29|Grand Idol|2|Grand Solar Idol|False|0|Sentinel|1|False|||
+29|Grand Idol|3|Grand Bone Idol|False|0|Acolyte|1|False|||
+29|Grand Idol|4|Grand Majasan Idol|False|0|Rogue|1|False|||
+30|Large Idol|0|Large Nomad Idol|False|0|Primalist|1|False|||
+30|Large Idol|1|Large Arcane Idol|False|0|Mage|1|False|||
+30|Large Idol|2|Large Rahyeh Idol|False|0|Sentinel|1|False|||
+30|Large Idol|3|Large Immortal Idol|False|0|Acolyte|1|False|||
+30|Large Idol|4|Large Shadow Idol|False|0|Rogue|1|False|||
+31|Ornate Idol|0|Ornate Heorot Idol|False|0|Primalist|1|False|||
+31|Ornate Idol|1|Ornate Glass Idol|False|0|Mage|1|False|||
+31|Ornate Idol|2|Ornate Solar Idol|False|0|Sentinel|1|False|||
+31|Ornate Idol|3|Ornate Bone Idol|False|0|Acolyte|1|False|||
+31|Ornate Idol|4|Ornate Majasan Idol|False|0|Rogue|1|False|||
+32|Huge Idol|0|Huge Nomad Idol|False|0|Primalist|1|False|||
+32|Huge Idol|1|Huge Arcane Idol|False|0|Mage|1|False|||
+32|Huge Idol|2|Huge Rahyeh Idol|False|0|Sentinel|1|False|||
+32|Huge Idol|3|Huge Immortal Idol|False|0|Acolyte|1|False|||
+32|Huge Idol|4|Huge Shadow Idol|False|0|Rogue|1|False|||
+33|Adorned Idol|0|Adorned Heorot Idol|False|0|Primalist|1|False|||
+33|Adorned Idol|1|Adorned Arcane Idol|False|0|Mage|1|False|||
+33|Adorned Idol|2|Adorned Rahyeh Idol|False|0|Sentinel|1|False|||
+33|Adorned Idol|3|Adorned Immortal Idol|False|0|Acolyte|1|False|||
+33|Adorned Idol|4|Adorned Majasan Idol|False|0|Rogue|1|False|||
+33|Adorned Idol|5|Adorned Silver Idol|False|0|None|1|True|||
+33|Adorned Idol|6|Adorned Volcano Idol|False|0|None|1|True|||
+34|Blessing|0|27|False|0|None|1|True|ADDED,Physical, Cold, Fire, Void,IncreasedDropRate|0.3|0.5
+34|Blessing|1|27|False|0|None|1|True|ADDED,Physical, Cold, Fire, Void,IncreasedDropRate|0.51|1
+34|Blessing|2|29|False|0|None|1|True|ADDED,Lightning, Cold, Fire, Void,IncreasedDropRate|0.3|0.5
+34|Blessing|3|29|False|0|None|1|True|ADDED,Lightning, Cold, Fire, Void,IncreasedDropRate|0.51|1
+34|Blessing|4|31|False|0|None|1|True|ADDED,Necrotic,IncreasedDropRate|0.3|0.5
+34|Blessing|5|31|False|0|None|1|True|ADDED,Necrotic,IncreasedDropRate|0.51|1
+34|Blessing|6|28|False|0|None|1|True|ADDED,Physical, Lightning, Cold, Fire, Void,IncreasedDropRate|0.3|0.5
+34|Blessing|7|28|False|0|None|1|False|ADDED,Physical, Lightning, Cold, Fire, Void,IncreasedDropRate|0.51|1
+34|Blessing|8|26|False|0|None|1|False|ADDED,Physical, Necrotic,IncreasedDropRate|0.3|0.5
+34|Blessing|9|26|False|0|None|1|False|ADDED,Physical, Necrotic,IncreasedDropRate|0.51|1
+34|Blessing|10|33|False|0|None|1|False|ADDED,Lightning,IncreasedDropRate|0.1|0.15
+34|Blessing|11|33|False|0|None|1|False|ADDED,Lightning,IncreasedDropRate|0.16|0.25
+34|Blessing|12|9|False|0|None|1|False|ADDED,Physical,IncreasedDropRate|0.1|0.15
+34|Blessing|13|9|False|0|None|1|False|ADDED,Physical,IncreasedDropRate|0.16|0.25
+34|Blessing|14|11|False|0|None|1|False|ADDED,Lightning, Fire,IncreasedDropRate|0.3|0.45
+34|Blessing|15|71|False|0|None|1|False|ADDED,Fire,IncreasedDropRate|0.3|0.45
+34|Blessing|16|32|False|0|None|1|False|ADDED,Physical, Lightning, Cold, Fire,IncreasedDropRate|0.3|0.45
+34|Blessing|17|63|False|0|None|1|False|ADDED,Physical, Fire,IncreasedDropRate|0.3|0.45
+34|Blessing|18|7|False|0|None|1|False|ADDED,Void,IncreasedDropRate|0.3|0.45
+34|Blessing|19|74|False|0|None|1|False|ADDED,Physical, Cold,IncreasedDropRate|0.3|0.45
+34|Blessing|20|17|False|0|None|1|False|ADDED,Cold, Fire,IncreasedDropRate|0.3|0.45
+34|Blessing|21|35|False|0|None|1|False|ADDED,Physical, Lightning, Cold,IncreasedDropRate|0.3|0.45
+34|Blessing|22|58|False|0|None|1|False|ADDED,Physical, Cold, Fire,IncreasedDropRate|0.3|0.45
+34|Blessing|23|2|False|0|None|1|False|ADDED,Lightning, Cold, Fire,IncreasedDropRate|0.3|0.45
+34|Blessing|24|24|False|0|None|1|False|ADDED,None,Health|30|42
+34|Blessing|25|24|False|0|None|1|False|ADDED,None,Health|43|60
+34|Blessing|26|25|False|0|None|1|False|ADDED,None,VoidResistance|0.25|0.4
+34|Blessing|27|25|False|0|None|1|False|ADDED,None,VoidResistance|0.45|0.75
+34|Blessing|28|46|False|0|None|1|False|ADDED,None,DodgeRating|40|60
+34|Blessing|29|46|False|0|None|1|False|ADDED,None,DodgeRating|61|100
+34|Blessing|30|5|False|0|None|1|False|ADDED,Throwing,HealthLeech|0.15|0.3
+34|Blessing|31|5|False|0|None|1|False|ADDED,Throwing,HealthLeech|0.31|0.5
+34|Blessing|32|6|False|0|None|1|False|INCREASED,Void,Damage|0.4|0.6
+34|Blessing|33|6|False|0|None|1|False|INCREASED,Void,Damage|0.65|1
+34|Blessing|34|54|False|0|None|1|False|ADDED,None,AilmentChance|0.4|0.6
+34|Blessing|35|54|False|0|None|1|False|ADDED,None,AilmentChance|0.65|1
+34|Blessing|36|41|False|0|None|1|False|ADDED,Spell,HealthLeech|0.15|0.3
+34|Blessing|37|41|False|0|None|1|False|ADDED,Spell,HealthLeech|0.31|0.5
+34|Blessing|38|47|False|0|None|1|False|ADDED,None,HealthGain|10|14
+34|Blessing|39|47|False|0|None|1|False|ADDED,None,HealthGain|15|22
+34|Blessing|40|70|False|0|None|1|False|INCREASED,None,CriticalChance|0.3|0.5
+34|Blessing|41|70|False|0|None|1|False|INCREASED,None,CriticalChance|0.51|0.8
+34|Blessing|42|57|False|0|None|1|False|ADDED,None,AilmentChance|0.1|0.2
+34|Blessing|43|57|False|0|None|1|False|ADDED,None,AilmentChance|0.25|0.5
+34|Blessing|44|72|False|0|None|1|False|ADDED,None,HealthGain|10|14
+34|Blessing|45|72|False|0|None|1|False|ADDED,None,HealthGain|15|22
+34|Blessing|46|59|False|0|None|1|False|ADDED,None,CriticalMultiplier|0.2|0.26
+34|Blessing|47|59|False|0|None|1|False|ADDED,None,CriticalMultiplier|0.27|0.4
+34|Blessing|48|69|False|0|None|1|False|ADDED,None,IncreasedLeechRate|0.2|0.3
+34|Blessing|49|69|False|0|None|1|False|ADDED,None,IncreasedLeechRate|0.35|0.5
+34|Blessing|50|42|False|0|None|1|False|ADDED,None,IncreasedDropRate|0.07|0.14
+34|Blessing|51|10|False|0|None|1|False|ADDED,Cold, Void,IncreasedDropRate|0.1|0.2
+34|Blessing|52|53|False|0|None|1|False|ADDED,Physical, Cold, Void,IncreasedDropRate|0.2|0.3
+34|Blessing|53|7|False|0|None|1|False|ADDED,Lightning, Cold, Fire,IncreasedDropRate|0.25|0.35
+34|Blessing|54|6|False|0|None|1|False|ADDED,Physical, Lightning, Cold, Fire,IncreasedDropRate|0.16|0.26
+34|Blessing|55|65|False|0|None|1|False|ADDED,Lightning, Fire,IncreasedDropRate|0.25|0.35
+34|Blessing|56|62|False|0|None|1|False|ADDED,Physical, Lightning, Cold, Void,IncreasedDropRate|0.25|0.35
+34|Blessing|57|12|False|0|None|1|False|ADDED,Lightning, Cold, Void,IncreasedDropRate|0.1|0.2
+34|Blessing|58|13|False|0|None|1|False|ADDED,Cold,IncreasedDropRate|0.25|0.4
+34|Blessing|59|67|False|0|None|1|False|ADDED,Physical, Lightning, Cold, Void,IncreasedDropRate|0.3|0.45
+34|Blessing|60|8|False|0|None|1|False|ADDED,Lightning, Cold,IncreasedDropRate|0.3|0.45
+34|Blessing|61|20|False|0|None|1|False|ADDED,Physical, Void,IncreasedDropRate|0.15|0.3
+34|Blessing|62|14|False|0|None|1|False|ADDED,None,IncreasedDropRate|0.1|0.2
+34|Blessing|63|2|False|0|None|1|False|ADDED,Physical,IncreasedDropRate|0.1|0.2
+34|Blessing|64|34|False|0|None|1|False|ADDED,Cold,IncreasedDropRate|0.15|0.3
+34|Blessing|65|25|False|0|None|1|False|ADDED,Physical, Lightning,IncreasedDropRate|0.15|0.3
+34|Blessing|66|5|False|0|None|1|False|ADDED,Physical, Lightning, Void,IncreasedDropRate|0.15|0.3
+34|Blessing|67|18|False|0|None|1|False|ADDED,Lightning, Void,IncreasedDropRate|0.15|0.3
+34|Blessing|68|76|False|0|None|1|False|ADDED,Lightning, Cold, Void,IncreasedDropRate|0.12|0.25
+34|Blessing|69|60|False|0|None|1|False|ADDED,Physical, Cold, Void,IncreasedDropRate|0.15|0.3
+34|Blessing|70|64|False|0|None|1|False|ADDED,Cold, Void,IncreasedDropRate|0.15|0.3
+34|Blessing|71|45|False|0|None|1|False|ADDED,Lightning,IncreasedDropRate|0.15|0.3
+34|Blessing|72|15|False|0|None|1|False|ADDED,None,LightningResistance|0.25|0.4
+34|Blessing|73|15|False|0|None|1|False|ADDED,None,LightningResistance|0.45|0.75
+34|Blessing|74|50|False|0|None|1|False|ADDED,None,Mana|30|50
+34|Blessing|75|50|False|0|None|1|False|ADDED,None,Mana|51|80
+34|Blessing|76|43|False|0|None|1|False|INCREASED,None,HealthRegen|0.6|1
+34|Blessing|77|43|False|0|None|1|False|INCREASED,None,HealthRegen|1.2|2
+34|Blessing|78|3|False|0|None|1|False|INCREASED,Lightning,Damage|0.4|0.6
+34|Blessing|79|3|False|0|None|1|False|INCREASED,Lightning,Damage|0.65|1
+34|Blessing|80|30|False|0|None|1|False|INCREASED,Cold,Damage|0.4|0.6
+34|Blessing|81|30|False|0|None|1|False|INCREASED,Cold,Damage|0.65|1
+34|Blessing|82|75|False|0|None|1|False|ADDED,None,WardRegen|10|19
+34|Blessing|83|75|False|0|None|1|False|ADDED,None,WardRegen|20|30
+34|Blessing|84|49|False|0|None|1|False|ADDED,None,AilmentChance|0.1|0.2
+34|Blessing|85|49|False|0|None|1|False|ADDED,None,AilmentChance|0.25|0.5
+34|Blessing|86|36|False|0|None|1|False|ADDED,None,AilmentChance|0.4|0.6
+34|Blessing|87|36|False|0|None|1|False|ADDED,None,AilmentChance|0.65|1
+34|Blessing|88|56|False|0|None|1|False|ADDED,None,FreezeRateMultiplier|1|1.8
+34|Blessing|89|56|False|0|None|1|False|ADDED,None,FreezeRateMultiplier|2|3
+34|Blessing|90|48|False|0|None|1|False|ADDED,None,IncreasedStunChance|0.5|0.9
+34|Blessing|91|48|False|0|None|1|False|ADDED,None,IncreasedStunChance|1|1.6
+34|Blessing|92|52|False|0|None|1|False|ADDED,None,IncreasedAilmentDuration|0.1|0.14
+34|Blessing|93|52|False|0|None|1|False|ADDED,None,IncreasedAilmentDuration|0.15|0.22
+34|Blessing|94|51|False|0|None|1|False|ADDED,None,ChanceToGain30WardWhenHit|0.15|0.25
+34|Blessing|95|51|False|0|None|1|False|ADDED,None,ChanceToGain30WardWhenHit|0.3|0.5
+34|Blessing|96|44|False|0|None|1|False|ADDED,None,WardOnPotionUse|40|70
+34|Blessing|97|44|False|0|None|1|False|ADDED,None,WardOnPotionUse|80|130
+34|Blessing|98|40|False|0|None|1|False|ADDED,None,AllResistances|0.07|0.12
+34|Blessing|99|68|False|0|None|1|False|ADDED,None,CritAvoidance|0.3|0.45
+34|Blessing|100|1|False|0|None|1|False|ADDED,None,NecroticResistance|0.25|0.4
+34|Blessing|101|39|False|0|None|1|False|INCREASED,Poison,Damage|0.4|0.6
+34|Blessing|102|37|False|0|None|1|False|INCREASED,Necrotic,Damage|0.4|0.6
+34|Blessing|103|38|False|0|None|1|False|INCREASED,Physical,Damage|0.4|0.6
+34|Blessing|104|8|False|0|None|1|False|ADDED,None,AilmentChance|0.4|0.6
+34|Blessing|105|61|False|0|None|1|False|ADDED,None,AilmentChance|0.3|0.5
+34|Blessing|106|16|False|0|None|1|False|ADDED,Melee,HealthLeech|0.2|0.4
+34|Blessing|107|23|False|0|None|1|False|ADDED,Minion,AllResistances|0.07|0.12
+34|Blessing|108|73|False|0|None|1|False|ADDED,None,PoisonResistance|0.25|0.4
+34|Blessing|109|55|False|0|None|1|False|ADDED,None,AilmentChance|0.6|0.9
+34|Blessing|110|66|False|0|None|1|False|ADDED,None,AilmentChance|0.4|0.6
+34|Blessing|111|21|False|0|None|1|False|ADDED,None,IncreasedDropRate|0.1|0.15
+34|Blessing|112|21|False|0|None|1|False|ADDED,None,IncreasedDropRate|0.16|0.22
+34|Blessing|113|22|False|0|None|1|False|ADDED,None,IncreasedExperience|0.04|0.06
+34|Blessing|114|22|False|0|None|1|False|ADDED,None,IncreasedExperience|0.07|0.1
+34|Blessing|115|4|False|0|None|1|False|ADDED,Physical,IncreasedDropRate|0.25|0.4
+34|Blessing|116|4|False|0|None|1|False|ADDED,Physical,IncreasedDropRate|0.45|0.7
+34|Blessing|117|14|False|0|None|1|True|ADDED,None,IncreasedDropRate|0.22|0.5
+34|Blessing|118|2|False|0|None|1|True|ADDED,Physical,IncreasedDropRate|0.22|0.5
+34|Blessing|119|34|False|0|None|1|True|ADDED,Cold,IncreasedDropRate|0.35|0.75
+34|Blessing|120|25|False|0|None|1|True|ADDED,Physical, Lightning,IncreasedDropRate|0.35|0.75
+34|Blessing|121|5|False|0|None|1|True|ADDED,Physical, Lightning, Void,IncreasedDropRate|0.35|0.75
+34|Blessing|122|18|False|0|None|1|True|ADDED,Lightning, Void,IncreasedDropRate|0.35|0.75
+34|Blessing|123|76|False|0|None|1|True|ADDED,Lightning, Cold, Void,IncreasedDropRate|0.3|0.6
+34|Blessing|124|60|False|0|None|1|True|ADDED,Physical, Cold, Void,IncreasedDropRate|0.35|0.75
+34|Blessing|125|64|False|0|None|1|True|ADDED,Cold, Void,IncreasedDropRate|0.35|0.75
+34|Blessing|126|45|False|0|None|1|True|ADDED,Lightning,IncreasedDropRate|0.35|0.75
+34|Blessing|127|11|False|0|None|1|True|ADDED,Lightning, Fire,IncreasedDropRate|0.5|0.9
+34|Blessing|128|71|False|0|None|1|True|ADDED,Fire,IncreasedDropRate|0.5|0.9
+34|Blessing|129|32|False|0|None|1|True|ADDED,Physical, Lightning, Cold, Fire,IncreasedDropRate|0.5|0.9
+34|Blessing|130|63|False|0|None|1|True|ADDED,Physical, Fire,IncreasedDropRate|0.5|0.9
+34|Blessing|131|7|False|0|None|1|True|ADDED,Void,IncreasedDropRate|0.5|0.9
+34|Blessing|132|74|False|0|None|1|True|ADDED,Physical, Cold,IncreasedDropRate|0.5|0.9
+34|Blessing|133|17|False|0|None|1|True|ADDED,Cold, Fire,IncreasedDropRate|0.5|0.9
+34|Blessing|134|35|False|0|None|1|True|ADDED,Physical, Lightning, Cold,IncreasedDropRate|0.5|0.9
+34|Blessing|135|58|False|0|None|1|True|ADDED,Physical, Cold, Fire,IncreasedDropRate|0.5|0.9
+34|Blessing|136|2|False|0|None|1|True|ADDED,Lightning, Cold, Fire,IncreasedDropRate|0.5|0.9
+34|Blessing|137|14|False|0|None|1|True|ADDED,None,IncreasedDropRate|0.15|0.25
+34|Blessing|138|10|False|0|None|1|True|ADDED,Cold, Void,IncreasedDropRate|0.22|0.35
+34|Blessing|139|53|False|0|None|1|True|ADDED,Physical, Cold, Void,IncreasedDropRate|0.33|0.5
+34|Blessing|140|7|False|0|None|1|True|ADDED,Lightning, Cold, Fire,IncreasedDropRate|0.4|0.6
+34|Blessing|141|6|False|0|None|1|True|ADDED,Physical, Lightning, Cold, Fire,IncreasedDropRate|0.3|0.45
+34|Blessing|142|65|False|0|None|1|True|ADDED,Lightning, Fire,IncreasedDropRate|0.4|0.6
+34|Blessing|143|62|False|0|None|1|True|ADDED,Physical, Lightning, Cold, Void,IncreasedDropRate|0.4|0.6
+34|Blessing|144|12|False|0|None|1|True|ADDED,Lightning, Cold, Void,IncreasedDropRate|0.22|0.35
+34|Blessing|145|13|False|0|None|1|True|ADDED,Cold,IncreasedDropRate|0.45|0.7
+34|Blessing|146|67|False|0|None|1|True|ADDED,Physical, Lightning, Cold, Void,IncreasedDropRate|0.5|0.75
+34|Blessing|147|8|False|0|None|1|True|ADDED,Lightning, Cold,IncreasedDropRate|0.5|0.75
+34|Blessing|148|20|False|0|None|1|True|ADDED,Physical, Void,IncreasedDropRate|0.41|0.6
+34|Blessing|149|40|False|0|None|1|True|ADDED,None,AllResistances|0.13|0.2
+34|Blessing|150|68|False|0|None|1|True|ADDED,None,CritAvoidance|0.5|0.7
+34|Blessing|151|1|False|0|None|1|True|ADDED,None,NecroticResistance|0.45|0.75
+34|Blessing|152|39|False|0|None|1|True|INCREASED,Poison,Damage|0.65|1
+34|Blessing|153|37|False|0|None|1|True|INCREASED,Necrotic,Damage|0.65|1
+34|Blessing|154|38|False|0|None|1|True|INCREASED,Physical,Damage|0.65|1
+34|Blessing|155|8|False|0|None|1|True|ADDED,None,AilmentChance|0.65|1
+34|Blessing|156|61|False|0|None|1|True|ADDED,None,AilmentChance|0.55|0.85
+34|Blessing|157|16|False|0|None|1|True|ADDED,Melee,HealthLeech|0.45|0.7
+34|Blessing|158|23|False|0|None|1|True|ADDED,Minion,AllResistances|0.13|0.2
+34|Blessing|159|73|False|0|None|1|True|ADDED,None,PoisonResistance|0.45|0.75
+34|Blessing|160|55|False|0|None|1|True|ADDED,None,AilmentChance|1|1.5
+34|Blessing|161|66|False|0|None|1|True|ADDED,None,AilmentChance|0.65|1
+34|Blessing|162|63|False|0|None|1|True|ADDED,None,IncreasedDropRate|0.12|0.2
+34|Blessing|163|63|False|0|None|1|True|ADDED,None,IncreasedDropRate|0.22|0.35
+34|Blessing|164|26|False|0|None|1|True|ADDED,Physical,IncreasedDropRate|0.12|0.2
+34|Blessing|165|26|False|0|None|1|True|ADDED,Physical,IncreasedDropRate|0.22|0.35
+34|Blessing|166|65|False|0|None|1|True|ADDED,Lightning,IncreasedDropRate|0.2|0.3
+34|Blessing|167|65|False|0|None|1|True|ADDED,Lightning,IncreasedDropRate|0.32|0.5
+34|Blessing|168|73|False|0|None|1|True|ADDED,Lightning, Void,IncreasedDropRate|0.2|0.3
+34|Blessing|169|73|False|0|None|1|True|ADDED,Lightning, Void,IncreasedDropRate|0.32|0.5
+34|Blessing|170|72|False|0|None|1|True|ADDED,Physical,IncreasedDropRate|0.12|0.2
+34|Blessing|171|72|False|0|None|1|True|ADDED,Physical,IncreasedDropRate|0.22|0.35
+34|Blessing|172|19|False|0|None|1|True|ADDED,Lightning,IncreasedDropRate|0.1|0.18
+34|Blessing|173|19|False|0|None|1|True|ADDED,Lightning,IncreasedDropRate|0.2|0.3
+34|Blessing|174|66|False|0|None|1|True|ADDED,Cold,IncreasedDropRate|0.2|0.3
+34|Blessing|175|66|False|0|None|1|True|ADDED,Cold,IncreasedDropRate|0.32|0.5
+34|Blessing|176|17|False|0|None|1|True|ADDED,Physical, Lightning, Void,IncreasedDropRate|0.2|0.3
+34|Blessing|177|17|False|0|None|1|True|ADDED,Physical, Lightning, Void,IncreasedDropRate|0.32|0.5
+34|Blessing|178|28|False|0|None|1|True|ADDED,Physical, Cold,IncreasedDropRate|0.12|0.2
+34|Blessing|179|28|False|0|None|1|True|ADDED,Physical, Cold,IncreasedDropRate|0.22|0.35
+34|Blessing|180|33|False|0|None|1|True|ADDED,None,PhysicalResistance|0.25|0.4
+34|Blessing|181|33|False|0|None|1|True|ADDED,None,PhysicalResistance|0.45|0.75
+34|Blessing|182|14|False|0|None|1|True|ADDED,None,ColdResistance|0.25|0.4
+34|Blessing|183|14|False|0|None|1|True|ADDED,None,ColdResistance|0.45|0.75
+34|Blessing|184|18|False|0|None|1|True|ADDED,None,EnduranceThreshold|40|70
+34|Blessing|185|18|False|0|None|1|True|ADDED,None,EnduranceThreshold|80|150
+34|Blessing|186|22|False|0|None|1|True|ADDED,None,AilmentChance|0.4|0.6
+34|Blessing|187|22|False|0|None|1|True|ADDED,None,AilmentChance|0.65|1
+34|Blessing|188|51|False|0|None|1|True|ADDED,None,MoreFreezeRatePerStackOfChill|0.3|0.5
+34|Blessing|189|51|False|0|None|1|True|ADDED,None,MoreFreezeRatePerStackOfChill|0.55|0.8
+34|Blessing|190|54|False|0|None|1|True|ADDED,None,AilmentChance|0.1|0.2
+34|Blessing|191|54|False|0|None|1|True|ADDED,None,AilmentChance|0.25|0.5
+34|Blessing|192|53|False|0|None|1|True|ADDED,None,AilmentChance|0.1|0.2
+34|Blessing|193|53|False|0|None|1|True|ADDED,None,AilmentChance|0.25|0.5
+34|Blessing|194|56|False|0|None|1|True|ADDED,None,AilmentChance|0.2|0.35
+34|Blessing|195|56|False|0|None|1|True|ADDED,None,AilmentChance|0.4|0.6
+34|Blessing|196|75|False|0|None|1|True|ADDED,None,BlockEffectiveness|300|450
+34|Blessing|197|75|False|0|None|1|True|ADDED,None,BlockEffectiveness|500|800
+34|Blessing|198|62|False|0|None|1|True|INCREASED,None,Armour|0.15|0.35
+34|Blessing|199|62|False|0|None|1|True|INCREASED,None,Armour|0.4|0.7
+34|Blessing|200|64|False|0|None|1|True|ADDED,Cold, Spell, Channelling,Damage|5|10
+34|Blessing|201|64|False|0|None|1|True|ADDED,Cold, Spell, Channelling,Damage|11|20
+34|Blessing|202|36|False|0|None|1|True|ADDED,None,FireResistance|0.25|0.4
+34|Blessing|203|36|False|0|None|1|True|ADDED,None,FireResistance|0.45|0.75
+34|Blessing|204|24|False|0|None|1|True|ADDED,None,Armour|120|180
+34|Blessing|205|24|False|0|None|1|True|ADDED,None,Armour|200|320
+34|Blessing|206|21|False|0|None|1|True|ADDED,None,AilmentChance|0.2|0.35
+34|Blessing|207|21|False|0|None|1|True|ADDED,None,AilmentChance|0.4|0.6
+34|Blessing|208|40|False|0|None|1|True|ADDED,None,Endurance|0.1|0.14
+34|Blessing|209|40|False|0|None|1|True|ADDED,None,Endurance|0.15|0.27
+34|Blessing|210|60|False|0|None|1|True|INCREASED,None,DodgeRating|0.15|0.35
+34|Blessing|211|60|False|0|None|1|True|INCREASED,None,DodgeRating|0.4|0.7
+34|Blessing|212|55|False|0|None|1|True|ADDED,None,AilmentChance|0.1|0.2
+34|Blessing|213|55|False|0|None|1|True|ADDED,None,AilmentChance|0.25|0.5
+34|Blessing|214|58|False|0|None|1|True|ADDED,None,AilmentChance|0.1|0.2
+34|Blessing|215|58|False|0|None|1|True|ADDED,None,AilmentChance|0.25|0.5
+34|Blessing|216|48|False|0|None|1|True|INCREASED,Minion,Damage|0.4|0.6
+34|Blessing|217|48|False|0|None|1|True|INCREASED,Minion,Damage|0.65|1
+34|Blessing|218|49|False|0|None|1|True|ADDED,None,IncreasedStunDuration|0.2|0.3
+34|Blessing|219|49|False|0|None|1|True|ADDED,None,IncreasedStunDuration|0.32|0.5
+34|Blessing|220|14|False|0|None|1|True|INCREASED,Fire,Damage|0.4|0.6
+34|Blessing|221|14|False|0|None|1|True|INCREASED,Fire,Damage|0.65|1
+34|Blessing|222|37|False|0|None|1|True|ADDED,Channelling,Armour|250|400
+34|Blessing|223|37|False|0|None|1|True|ADDED,Channelling,Armour|500|750

@@ -1,0 +1,391 @@
+AffixID|AffixName|LevelReq|Weight
+31|Added Armor|0|12000
+41|Health Gained on Block|15|1000
+3|Added Block Chance|0|4000
+81|Added Block Effectiveness|0|3000
+17|Cold Resistance|8|5000
+6|Added Critical Strike Multiplier|20|1000
+8|Added Dodge Rating|0|10000
+80|Elemental Resistance|27|8000
+13|Fire Resistance|0|5000
+25|Added Health|0|14500
+24|Lightning Resistance|0|5000
+34|Added Mana|0|3000
+78|Added Melee Cold Damage|0|1000
+62|Added Melee Crit Chance|0|2000
+77|Added Melee Fire Damage|0|1000
+79|Added Melee Lightning Damage|0|1000
+63|Added Melee Physical Damage|0|1500
+76|Added Melee Void Damage|0|1000
+10|Necrotic Resistance|19|10000
+19|Poison Resistance|10|10000
+51|Added Stun Avoidance|13|1900
+7|Void Resistance|6|10000
+50|All Attributes|13|2000
+504|Attunement|5|7000
+49|Added Spell Damage For Swords|15|600
+68|Chance To Bleed|0|1500
+60|Chance To Blind|5|1000
+56|Chance To Chill|0|1500
+47|Chance To Chill Attackers|16|1000
+55|Chance To Ignite|0|1500
+54|Chance To Poison|13|1500
+85|Chance To Shock|20|1500
+94|Chance To Shock Attackers|33|400
+57|Chance To Slow|0|1500
+48|Chance To Slow Attackers|16|1000
+97|Critical Strike Avoidance|36|2000
+53|Damage Dealt To Mana|40|200
+503|Dexterity|0|8000
+11|Freeze Rate Multiplier|10|2440
+20|Health On Kill|0|2500
+44|Health On Melee Hit|0|2500
+90|Health Regen|0|3000
+1|Increased Armour|14|1000
+46|All Resistances|55|120
+4|Increased Cast Speed|0|1200
+65|Increased Chance To Find Potions|5|1000
+16|Increased Cold Damage|0|1000
+27|Increased Cooldown Recovery Speed|6|700
+5|Increased Critical Strike Chance|0|1000
+72|Increased Damage Over Time|0|1000
+59|Increased Dodge Rating|16|1000
+9|Increased Elemental Damage|8|3400
+12|Increased Fire Damage|0|2000
+43|Increased Healing Effectiveness|15|1000
+52|Increased Health|25|500
+22|Increased Health Regen|0|2000
+23|Increased Lightning Damage|0|2000
+330|Increased Mana Regen|0|2500
+2|Increased Melee Attack Speed|0|1200
+89|Increased Melee Damage|0|2500
+91|Increased Melee Stun Chance|0|1000
+26|Increased Minion Damage|0|3000
+64|Increased Minion Physical Damage|10|500
+28|Increased Movement Speed|0|1000
+18|Increased Necrotic Damage|6|2000
+93|Necrotic Penetration|42|100
+30|Increased Physical Damage|0|4000
+61|Increased Poison Damage|11|2000
+37|Poison Penetration|42|100
+86|Armour Shred Chance|27|1000
+84|Increased Spell Crit Chance|15|1000
+38|Increased Spell Damage|0|3000
+58|Increased Stun Chance|0|2000
+88|Added Throwing Damage|0|3580
+87|Increased Throwing Attack Speed|17|1000
+15|Increased Void Damage|15|2000
+0|Void Penetration|42|100
+502|Intelligence|0|8000
+21|Primalist Added Spell Damage With Tempest Strike|26|15
+69|Melee Health Leech|10|1400
+71|Minion Dodge Rating|30|1000
+70|Minion Health|6|3000
+73|Minion Health Regen|13|1000
+96|Percent Damage Reflected|23|2000
+83|Potion Health Converted to Ward|35|2800
+74|Less Damage Taken on Block|0|1000
+33|Physical Penetration|42|100
+32|Fire Penetration|42|100
+35|Cold Penetration|42|100
+39|Lightning Penetration|42|100
+501|Strength|0|8000
+95|Thorns|4|1000
+505|Vitality|0|9300
+66|Ward On Potion Use|10|2200
+98|Increased Minion Damage Over Time|48|500
+99|Ward Gained on Kill|40|100
+100|Increased Elemental Damage Over Time|50|500
+102|Increased Minion Spell Damage|22|500
+103|Damage While Channelling|38|500
+104|All Resistances While Channelling|46|500
+92|Endurance|19|1700
+45|Physical Resistance|0|5647
+331|Increased Mana|0|200
+334|Primalist Totem Added Spell Damage|53|15
+335|Primalist Cooldown Recovery Speed While Transformed|43|15
+336|Primalist Minion Crit Multiplier|36|15
+337|Primalist Minion Spell Crit Chance|41|15
+338|Primalist Criti Multi While Transformed|48|15
+339|Mage Cold Penetration With Frostbite|34|15
+341|Freeze Rate Per Stack of Chill|42|15
+342|Primalist Totem Increased Cast Speed|27|15
+346|Primalist Minion Melee Leech|29|15
+347|Primalist Minion Chance To Bleed On Hit|36|15
+348|Primalist Minion Melee Crit Chance|46|15
+349|Primalist Melee Damage While Transformed|28|15
+350|Primalist Spell Damage While Transformed|39|15
+351|Primalist Damage Over Time While Transformed|41|15
+352|Primalist Increased Totem Crit Chance |57|15
+353|Primalist Increased Aspect Of The Shark Effect|29|15
+354|Primalist Increased Aspect Of The Boar Duration|36|15
+355|Primalist Increased Aspect Of The Viper Effect|46|15
+356|Primalist Increased Aspect Of The Lynx Effect|51|15
+357|Primalist Increased Totem Damage|30|15
+358|Sentinel Physical Penetration With Bleed|50|15
+359|Sentinel Melee Physical Damage If Wielding A Sword|48|15
+363|Sentinel Chance To Bleed If Wielding An Axe|41|15
+364|Sentinel Melee Physical Damage If Wielding A Mace|57|15
+365|Sentinel Void Damage Taken As Physical|34|15
+366|Sentinel Necrotic Damage Taken As Physical|34|15
+367|Sentinel Poison Damage Taken As Physical|34|15
+368|Sentinel Increased Throwing Attack Crit Chance|48|15
+369|Sentinel Reduced Channel Cost|36|15
+370|Sentinel Armor Shred Effect|55|15
+371|Sentinel Increased Fire Damage Over Time|32|15
+372|Sentinel Increased Void Damage Over Time|32|15
+373|Sentinel Increased Echo Damage When A Skill Echoes|60|15
+374|Sentinel Increased Abyssal Decay Duration|43|15
+375|Sentinel Mana Gained On Vengeance Hit|12|15
+376|Sentinel Mana Gained On Rive Hit|12|15
+377|Sentinel Mana Gained On Smite Use|23|15
+378|Sentinel Increased Hammer Throw Damage|4|15
+379|Sentinel Increased Shield Throw Crit Chance|18|15
+380|Sentinel Increased Smelters Wrath Damage|50|15
+381|Mage Spell Crit Doubled Over 300 Max Mana|48|15
+382|Mage Ward Per Second|39|15
+383|Mage Added Spell Damage While Channelling|43|15
+384|Acolyte Minion Freeze Rate|53|15
+385|Mage Lightning Crit Multi|60|15
+386|Mage Spell Damage Leeched While Channelling|46|15
+387|Mage Chance To Apply Frostbite With Cold Skills|27|15
+388|Mage Increased Cold Damage Over Time|25|15
+389|Mage Increased Fire Damage Over Time|25|15
+390|Mage Increased Melee Elemental Damage|36|15
+391|Mage Chance To Ignite With Fire Skills|41|15
+392|Mage Chance To Shock With Lightning Skills|41|15
+393|Mage Chance To Cast Fire Aura On Crit|57|15
+394|Mage Increased Fire Aura Damage|29|15
+395|Mage Chance To Gain Lightning Aegis When Hit|43|15
+396|Mage Chance To Cast Fire Aura When Hit|27|15
+398|Mage Chance To Cast Fire Aura On Kill With A Fire Skill|29|15
+399|Mage Chance to Apply a Spark Charge on Melee Hit|32|15
+400|Mage Mana Spent Gained as Ward|39|15
+401|Acolyte Physical Damage While Transformed|25|15
+402|Acolyte Necrotic Damage While Transformed|25|15
+410|Acolyte Increased Skeletal Mage Damage|45|15
+411|Acolyte Mana Gained On Harvest Use|13|15
+412|Acolyte Leech With Harvest|6|15
+413|Acolyte Minion Reflect|25|15
+415|Acolyte Chance To Gain 20 Ward On Kill With Hungering Souls|8|15
+420|Acolyte Spell Damage Per Skeletal Mage|25|15
+421|Acolyte Chance To Apply Damned On Hit|34|15
+422|Acolyte Damage Leeched As Health While Transformed|27|15
+423|Acolyte Reduced Health Cost Of Spells|13|15
+424|Acolyte Physical Spell Critical Strike Chance|41|15
+425|Endurance Threshold|24|1100
+427|Less Bonus Damage Taken from Critical Strikes|36|1500
+428|Melee Frailty Chance|25|1000
+429|Frailty Chance|25|1000
+431|Increased Bow Damage|0|3500
+432|Increased Bow Attack Speed|0|2000
+433|Added Bow Physical Damage|0|1750
+434|Added Bow Fire Damage|0|745
+435|Acolyte Chance To Cast Marrow Shards When You Cast Transplant|13|15
+437|Rogue Ward Gained when you create a Shadow|18|15
+439|Rogue Increased Damage of Shadows|35|15
+440|Rogue Health Gained on Glancing Blow|32|15
+442|Rogue Dodge Rating if Hit Recently|25|15
+443|Rogue Crimson Shroud Chance on Melee Hit|48|15
+446|Rogue Increased Critical Strike Chance per Equipped Sword|41|15
+448|Rogue Increased Critical Strike Chance per Equipped Dagger|41|15
+449|Rogue Chance to gain Dusk Shroud When Hit|43|15
+451|Rogue Bleed Chance per Equipped Sword|27|15
+453|Rogue Poison Chance per Equipped Dagger|27|15
+454|Rogue Dusk Shroud Chance on Melee Hit|36|15
+457|Rogue Added Physical Throwing Damage while dual wielding|55|15
+459|Rogue Increased damage while wielding a sword|29|15
+461|Rogue Increased damage while wielding a dagger|29|15
+463|Rogue Increased damage while wielding a bow|29|15
+468|Rogue Fire Penetration With Ignite|55|15
+469|Rogue Increased Poison Duration|55|15
+471|Rogue Increased Throwing Physical Damage|41|15
+473|Rogue Chance to Shred Armour on Throwing Hit|50|15
+475|Rogue Chance to Shred Armour on Melee Hit|50|15
+477|Rogue Chance to Shred Armour on Bow Hit|27|15
+479|Rogue Armour Shred Effect|27|15
+481|Rogue Increased Armour Shred Duration|27|15
+483|Rogue Chance to Ignite on Bow Hit|55|15
+485|Rogue Chance to Slow on Bow Hit|57|15
+487|Rogue Physical Penetration With Shadow Daggers|55|15
+489|Rogue Increased Bow Elemental Damage|27|15
+494|Rogue Chance to Bleed on Bow Hit|27|15
+496|Rogue Increased Area with Cinder Strike's First Strike|10|15
+498|Rogue Increased crit chance with Flurry|4|15
+500|Rogue Physical penetration with Puncture|5|15
+509|Rogue Increased Area with Detonating Arrow|25|15
+511|Rogue Increased damage per arrow with Multishot|25|15
+513|Rogue Increased Hail of Arrows Duration|50|15
+515|Rogue Increased damage per active Shadow with Shadow Cascade|25|15
+517|Rogue Bleed Chance with Shurikens|14|15
+521|Rogue Increased Acid Flask Area|4|15
+524|Rogue Increased Dancing Strikes Area|25|15
+526|Rogue Mana efficiency with Synchronised Strike|30|15
+528|Rogue Mana efficiency with Decoy|13|15
+530|Rogue Ward gained on use with Smoke Bomb|8|15
+532|Rogue Ward gained on use with Shift|4|15
+643|Increased Minion Melee Damage|18|1000
+648|Primalist Storm Crow Added Spell Damage|36|15
+40|Leech Rate|0|200
+655|Sentinel Added Lightning Throwing Damage with Javelin|22|15
+656|Sentinel Endurance While Warpathing|5|15
+663|Primalist Armour Shred Chance for Locusts|49|15
+665|Primalist Upheaval Shockwave Chance|38|15
+666|Primalist Attack and Cast Speed for Summoned Vines|33|15
+667|Primalist Critical Strike Chance with Rampage|42|15
+101|Increased Area for Area Skills|32|120
+669|Added Bow Lightning Damage|8|540
+670|Added Bow Cold Damage|0|540
+671|Area for Melee Area Skills|30|120
+82|Extra Potion Slot And Potion Health|15|200
+14|Freeze Rate Multiplier and Cold Resistance|15|1850
+29|Hybrid Stun Avoidance|13|353
+42|Lightning Damage And Leech|18|500
+506|Spell Damage and Reduced Mana Cost|0|2355
+507|Throwing Damage and Reduced Mana Cost|6|2000
+36|Hybrid Health|45|120
+332|Primalist Armour And Minion Armour|27|15
+333|Primalist Shared Lightning Damage|48|15
+340|Primalist Shared Cold Damage|36|15
+343|Primalist Shared Bleed Duration|34|15
+344|Primalist Shared Increased Spell Damage|27|15
+345|Primalist Shared Increased Melee Damage|48|15
+360|Sentinel Increased Physical Damage And Bleed Duration|60|15
+361|Sentinel Increased Fire Damage And Ignite Duration|55|15
+362|Sentinel Increased Void Damage And Added Spell Void Damage|53|15
+397|Flame Ward Charge and Added Ward|60|15
+404|Acolyte Shared Increased Fire Damage|36|15
+405|Acolyte Shared Increased Necrotic Damage|36|15
+406|Acolyte Shared Bleed Chance|57|15
+407|Acolyte Shared Increased Bleed Duration|57|15
+408|Acolyte Shared Physical Penetration With Bleed|57|15
+409|Acolyte Shared Physical Leech|60|15
+414|Acolyte Poison Damage And Poison Resistance|32|15
+416|Acolyte Shared Increased Crit Chance|29|15
+417|Acolyte Increased Projectile Speed With Marrow Shards And Bone Nova|45|15
+418|Acolyte Increased Damage With Rip Blood And Blood Splatter|45|15
+419|Acolyte Critical Strike Chance For Skeletons And Skeletal Mages|25|15
+192|Acolyte +1 Skeleton and Increased Skeleton Damage|60|15
+534|Rogue Black Arrows dropped by Dark Quiver and Increased Bow Damage|35|15
+536|Rogue Max Ballista and Increased Ballista Attack Speed|18|15
+537|Rogue Mirages and Mana Efficiency with Lethal Mirage|50|15
+426|Block Chance and Effectiveness|13|1300
+539|Primalist Level of Swipe|6|15
+540|Primalist Level of Summon Wolf|4|10
+541|Primalist Level of Tornado|25|10
+542|Primalist Level of Fury Leap|4|10
+543|Primalist Level of Summon Thorn Totem|4|10
+544|Primalist Level of Summon Spriggan|30|10
+545|Primalist Level of Summon Frenzy Totem|35|10
+546|Mage Level of Elemental Nova|4|10
+547|Mage Level of Mana Strike|6|10
+548|Mage Fireball Pierce Chance|18|15
+549|Mage Level of Fireball|7|10
+550|Mage Level of Glacier|7|10
+551|Mage Level of Meteor|25|10
+552|Mage Level of Teleport|12|10
+553|Mage Level of Volcanic Orb|17|10
+554|Mage Level of Black Hole|50|10
+555|Primalist Level of Summon Bear|25|10
+556|Mage Level of Static Orb|4|10
+557|Mage Level of Lightning Blast|4|10
+558|Primalist Level of Serpent Strike|22|10
+559|Primalist Level of Entangling Roots|25|10
+560|Sentinel Level of Anomaly|50|10
+561|Sentinel Level of Warpath|4|10
+562|Sentinel Level of Devouring Orb|35|10
+563|Sentinel Level of Rive|6|10
+564|Sentinel Level of Hammer Throw|4|10
+565|Sentinel Level of Shield Rush|12|10
+566|Sentinel Level of Volatile Reversal|25|10
+567|Sentinel Level of Abyssal Echoes|30|10
+568|Sentinel Level of Erasing Strike|25|10
+569|Sentinel Level of Vengeance|4|10
+570|Sentinel Level of Shield Throw|17|10
+572|Acolyte Level of Summon Skeleton|4|10
+573|Acolyte Level of Infernal Shade|22|10
+574|Acolyte Level of Sacrifice|30|10
+575|Mage Level of Focus|22|10
+576|Acolyte Level of Aura Of Decay|30|10
+577|Acolyte Level of Hungering Souls|7|10
+578|Acolyte Level of Rip Blood|4|10
+579|Acolyte Level of Summon Wraith|25|10
+580|Acolyte Level of Summon Bone Golem|12|10
+581|Acolyte Level of Wandering Spirits|4|10
+582|Acolyte Level of Marrow Shards|4|10
+583|Acolyte Level of Transplant|13|10
+584|Mage Level of Flame Reave|25|10
+585|Primalist Level of Summon Storm Totem|25|10
+586|Acolyte Level of Soul Feast|35|10
+587|Mage Level of Snap Freeze|4|10
+588|Sentinel Level of Lunge|4|10
+589|Sentinel Level of Rebuke|7|10
+590|Primalist Level of Summon Sabertooth|12|10
+591|Primalist Level of Summon Scorpion|30|10
+592|Sentinel Level of Ring Of Shields|25|10
+594|Acolyte Level of Harvest|6|10
+595|Primalist Level of Eterra's Blessing|7|10
+596|Sentinel Level of Judgement|50|10
+597|Mage Level of Shatter Strike|25|10
+598|Mage Level of Enchant Weapon|30|10
+599|Primalist Level of Avalanche|40|10
+600|Sentinel Level of Sigils Of Hope|35|10
+601|Sentinel Level of Holy Aura|25|10
+602|Primalist Level of Werebear Form|25|10
+603|Sentinel Level of Smite|22|10
+604|Sentinel Level of Manifest Armor|35|10
+605|Sentinel Level of Forge Strike|25|10
+606|Primalist Level of Spriggan Form|35|10
+607|Acolyte Level of Reaper Form|25|10
+608|Rogue Level of Acid Flask|4|10
+609|Rogue Level of Shadow Cascade|25|10
+610|Rogue Level of Flurry|4|10
+611|Rogue Level of Shurikens|4|10
+612|Rogue Level of Dancing Strikes|25|10
+613|Rogue Level of Multishot|25|10
+614|Rogue Level of Puncture|5|10
+615|Rogue Level of Decoy|12|10
+616|Rogue Level of Cinder Strike|10|10
+617|Rogue Level of Detonating Arrow|25|10
+618|Rogue Level of Hail of Arrows|50|10
+619|Rogue Level of Shift|4|10
+620|Rogue Level of Synchronized Strike|30|10
+621|Primalist Level of Tempest Strike|10|10
+622|Primalist Level of Ice Thorns|4|10
+623|Acolyte Level of Summon Skeletal Mage|25|10
+624|Mage Level of Static|40|10
+625|Mage Level of Disintegrate|35|10
+626|Primalist Level of Maelstrom|17|10
+627|Primalist Level of Summon Raptor|25|10
+628|Mage Level of Flame Ward|9|10
+629|Primalist Level of Earthquake|30|10
+630|Mage Level of Arcane Ascendance|40|10
+631|Sentinel Level of Smelter's Wrath|50|10
+632|Acolyte Level of Drain Life|25|10
+633|Acolyte Level of Assemble Abomination|60|10
+634|Acolyte Level of Spirit Plague|17|10
+635|Acolyte Level of Bone Curse|8|10
+636|Acolyte Level of Death Seal|50|10
+637|Mage Level of Ice Barrage|25|10
+638|Rogue Level of Dark Quiver|35|10
+639|Sentinel Level of Shield Bash|8|10
+571|Acolyte Level of Dread Shade|50|10
+593|Mage Level of Firebrand|50|10
+640|Rogue Level of Ballista|17|10
+641|Rogue Level of Lethal Mirage|50|10
+642|Rogue Level of Smoke Bomb|7|10
+644|Primalist Level of Warcry|14|10
+645|Mage Level of Surge|55|10
+646|Primalist Level of Summon Storm Crow|20|10
+647|Acolyte Level of Summon Volatile Zombie|20|10
+649|Acolyte Volatile Zombie Speed and Damage|28|15
+67|Freeze Rate and Freezing Concoction on Potion Use|35|185
+75|Ward and Ailment Cleansing on Potion Use|31|200
+652|Sentinel Level of Multistrike|17|10
+653|Sentinel Level of Void Cleave|19|10
+654|Sentinel Level of Javelin|17|10
+660|Primalist Level of Swarmblade Form|43|10
+661|Primalist Level of Upheaval|15|10
+662|Rogue Level of Umbral Blades|16|10
+519|Rogue Lightning Damage with Shurikens|4|15
+672|Crit Chance and Bow Attack Speed|44|150
